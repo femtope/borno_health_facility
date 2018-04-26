@@ -1,0 +1,1763 @@
+state,lga,ward,health_facility,Latitude,Longitude,type_hf,status,accessibility
+Adamawa,Demsa,Dong,Janawuri HC,9.466183,2.028773,PHC,Functioning,True
+Adamawa,Demsa,Dong,Mararraba Bille HC,11.9458,8.114632,Health Clinic,Functioning,True
+Adamawa,Demsa,Dong,Ngbekedewe HC,13.10336667,9.096396667,PHC,Functioning,True
+Adamawa,Demsa,Dwam,Dowaya HC,12.725,9.5911111,PHC,Functioning,True
+Adamawa,Demsa,Dwam,Dwam HC,12.89575,9.762963333,PHC,Functioning,True
+Adamawa,Demsa,Dwam,Maliki HC,12.89944444,9.765555556,PHC,Functioning,True
+Adamawa,Demsa,Dwam,Sabongari HC,12.95166667,9.76638889,Health Post,Functioning,True
+Adamawa,Demsa,Gwamba,Bellenga HC,12.95388889,9.815,Health Clinic,Functioning,True
+Adamawa,Demsa,Gwamba,Gwamba HC,12.95135833,9.815086667,Health Post,Functioning,True
+Adamawa,Demsa,Gwamba,Lasala HC,12.02569,9.843575,Health Post,Functioning,True
+Adamawa,Demsa,Gwamba,Sundi HC,17.91833333,9.89972222,PHC,Functioning,True
+Adamawa,Demsa,Kpasham,Bali HC,11.06891333,9.93148333,PHC,Functioning,True
+Adamawa,Demsa,Kpasham,Bariki HC,13.00527778,9.98027778,Health Clinic,Functioning,True
+Adamawa,Demsa,Kpasham,DEM HC,13.00488333,9.997181667,PHC,Functioning,False
+Adamawa,Demsa,Kpasham,KIWAFARA HC,12.97098833,10.01816,PHC,Functioning,True
+Adamawa,Demsa,Kpasham,Kpasham HC,12.048056,10.041944,PHC,Functioning,True
+Adamawa,Demsa,Kpasham,Tagombali HC,13.13245117,10.04470667,Health Clinic,Functioning,True
+Adamawa,Demsa,Kpasham,TASHAN GURGU HC,13.13666667,10.05388889,Health Clinic,Functioning,True
+Adamawa,Demsa,Kpasham,YADINI HC,13.13447833,10.05418333,PHC,Functioning,True
+Adamawa,Demsa,Mbula Kuli,Kpakmiyagi HC,13.05444444,10.06166667,Health Post,Functioning,True
+Adamawa,Demsa,Mbula Kuli,Mbula PHCC,13.19722222,10.07027778,Health Post,Functioning,True
+Adamawa,Demsa,Mbula Kuli,Tahau HC,11.87939167,10.083375,Health Clinic,Partially Functioning,True
+Adamawa,Demsa,Nassarawo Demsa,FDMC,13.03416667,10.08388889,PHC,Functioning,True
+Adamawa,Demsa,Nassarawo Demsa,Gadina HC,13.250278,10.113889,Hospital,Partially Functioning,True
+Adamawa,Demsa,Nassarawo Demsa,Kedemuri HC,12.98944444,10.14638889,Health Post,Functioning,True
+Adamawa,Demsa,Nassarawo Demsa,LUKPANGA,13.04780833,10.16726333,PHC,Functioning,True
+Adamawa,Demsa,Nassarawo Demsa,Nassarawo Demsa PHC,13.01000283,10.23093333,Health Post,Functioning,True
+Adamawa,Fufore,Beti,Ba-omshe HP,13.17,10.25681,Health Clinic,Functioning,True
+Adamawa,Fufore,Beti,Belichuti HC,13.02731833,10.261045,Health Clinic,Partially Functioning,True
+Adamawa,Fufore,Beti,BETI BAPPAWO,12.25739194,10.27950361,Health Post,Not Functioning,True
+Adamawa,Fufore,Beti,Chigari BHC,12.813425,10.292865,Health Post,Functioning,True
+Adamawa,Fufore,Beti,Garin chekke HP,13.04162333,10.301205,Health Clinic,Functioning,True
+Adamawa,Fufore,Beti,Gawi HP,12.94519667,10.30405833,Health Clinic,Functioning,True
+Adamawa,Fufore,Beti,Wuro Ardo HC,12.870312,10.30606,Health Clinic,Functioning,True
+Adamawa,Fufore,Farang,Damare HP,12.31285583,10.30733833,Health Post,Not Functioning,True
+Adamawa,Fufore,Farang,Farang MCH,12.97122833,10.31230167,Health Clinic,Functioning,True
+Adamawa,Fufore,Farang,GOSHIDANG,13.11434,10.333637,PHC,Functioning,False
+Adamawa,Fufore,Farang,Kuryaji HP,12.5447328,10.3544688,Health Clinic,Functioning,True
+Adamawa,Fufore,Farang,Magdari HP,12.97902,10.35823667,Health Post,Functioning,True
+Adamawa,Fufore,Farang,MBILLA MALABU,12.594458,10.3848486,Health Post,Functioning,True
+Adamawa,Fufore,Farang,Mubako HC,13.02583333,10.415185,Health Clinic,Functioning,True
+Adamawa,Fufore,Farang,Ribadu HP,12.872155,10.421253,Health Clinic,Functioning,True
+Adamawa,Fufore,Fufore,Cott. Hosp. Fufore,12.858553,10.42826,Health Clinic,Functioning,True
+Adamawa,Fufore,Fufore,FUFORE MODERN CLINIC,13.010734,10.432703,Health Post,Functioning,True
+Adamawa,Fufore,Fufore,FUFORE PHCC,12.9624801,10.4366158,Health Post,Functioning,True
+Adamawa,Fufore,Fufore,IDP  CAMP,12.9624796,10.436664,Health Clinic,Functioning,True
+Adamawa,Fufore,Gurin,Chikito HP,13.427786,10.4417502,Health Post,Partially Functioning,True
+Adamawa,Fufore,Gurin,Gurin BHC,12.88757333,10.44392,Hospital,Functioning,True
+Adamawa,Fufore,Gurin,Parda HP,13.14165633,10.444955,Health Post,Functioning,True
+Adamawa,Fufore,Gurin,Wuro yolde HC,12.884051,10.446286,Health Clinic,Partially Functioning,True
+Adamawa,Fufore,Karlahi,Bagauri HP,13.018056,10.451389,Health Clinic,Functioning,True
+Adamawa,Fufore,Karlahi,BOKKI,12.871515,10.45313,Health Clinic,Functioning,True
+Adamawa,Fufore,Karlahi,Bosvani HP,12.88440124,10.45388429,Health Clinic,Functioning,True
+Adamawa,Fufore,Karlahi,Gogra PHC,13.0801,10.45691,Health Clinic,Functioning,True
+Adamawa,Fufore,Karlahi,Gwariga PHC,12.874145,10.458358,PHC,Functioning,True
+Adamawa,Fufore,Karlahi,KARLAHI,12.882515,10.461243,Health Clinic,Functioning,True
+Adamawa,Fufore,Karlahi,Ngurore PHC,12.921008,10.468572,Health Post,Functioning,True
+Adamawa,Fufore,Mayo Inne,GATRO HC,12.31286972,10.47400444,Health Post,Not Functioning,True
+Adamawa,Fufore,Mayo Inne,Jilima HP,12.80611111,10.47472222,Health Post,Functioning,True
+Adamawa,Fufore,Mayo Inne,KABILLO PHCC,12.30689194,10.479505,Health Post,Not Functioning,True
+Adamawa,Fufore,Mayo Inne,Kiri HC,13.0463,10.480457,Health Post,Functioning,True
+Adamawa,Fufore,Mayo Inne,Mayo ine MCH,12.872033,10.49067,Health Clinic,Functioning,True
+Adamawa,Fufore,Mayo Inne,Mayo sirka HP,12.4477,10.4924054,Health Clinic,Functioning,True
+Adamawa,Fufore,Mayo Inne,NDIGALA HC,12.728272,10.4933942,Health Post,Not Functioning,False
+Adamawa,Fufore,Mayo Inne,Wuro lamido HP,12.33588,10.4942186,Health Post,Not Functioning,False
+Adamawa,Fufore,Pariya,Bagale HC,12.5620368,10.4948912,Health Post,Functioning,True
+Adamawa,Fufore,Pariya,Bengo PHC,13.262222,10.5025,PHC,Functioning,True
+Adamawa,Fufore,Pariya,Daware MCH,13.01671,10.5158596,Health Post,Functioning,True
+Adamawa,Fufore,Pariya,Digino HP,13.1663944,10.51825,Health Clinic,Partially Functioning,True
+Adamawa,Fufore,Pariya,Furo HC,12.8263889,10.52777778,PHC,Functioning,True
+Adamawa,Fufore,Pariya,Holmawo HP,13.03472222,10.52833333,Health Clinic,Functioning,True
+Adamawa,Fufore,Pariya,IDP CAMP,12.532442,10.5421462,Health Clinic,Functioning,True
+Adamawa,Fufore,Pariya,Kadarbu PHC,12.533752,10.5443854,Health Clinic,Functioning,True
+Adamawa,Fufore,Pariya,PARIYA PHCC,13.08,10.5493,Health Clinic,Functioning,True
+Adamawa,Fufore,Pariya,Wuro  Ai HP,12.93194444,10.56305556,Health Post,Functioning,True
+Adamawa,Fufore,Pariya,WURO YOLDE,12.5247718,10.5643332,Health Post,Functioning,True
+Adamawa,Fufore,Ribadu,Chafajaule HP,11.42565409,10.56699252,Health Post,Functioning,True
+Adamawa,Fufore,Ribadu,DASIN HAUSA,11.139858,10.573336,Health Post,Not Functioning,True
+Adamawa,Fufore,Ribadu,Dason  B  HP,12.844724,10.5738466,Health Post,Not Functioning,False
+Adamawa,Fufore,Ribadu,Dulo B  HC,11.114146,10.5822458,Health Post,Not Functioning,False
+Adamawa,Fufore,Ribadu,Ribadu BHC,12.86166,10.583435,Health Clinic,Functioning,True
+Adamawa,Fufore,Ribadu,Wafango HP,11.192568,10.5837464,Health Clinic,Functioning,True
+Adamawa,Fufore,Uki Tuki,BAI,12.109708,10.5918,PHC,Partially Functioning,True
+Adamawa,Fufore,Uki Tuki,CHOLLI  PHCC,11.184962,10.593576,Health Clinic,Functioning,True
+Adamawa,Fufore,Uki Tuki,Jili HP,12.81214166,10.6149616,Health Post,Functioning,True
+Adamawa,Fufore,Uki Tuki,Kopsupa HP,12.8123333,10.615205,Health Post,Functioning,True
+Adamawa,Fufore,Uki Tuki,Safatawa HP,13.77777778,10.62472222,Health Post,Functioning,True
+Adamawa,Fufore,Uki Tuki,Tomsoro HP,13.154167,10.631389,PHC,Partially Functioning,True
+Adamawa,Fufore,Wuro Bokki,Bilachi HC,12.98444444,10.64666667,Health Post,Functioning,True
+Adamawa,Fufore,Wuro Bokki,Dasin Abbakumbo HP,12.8051083,10.65884166,Health Clinic,Partially Functioning,True
+Adamawa,Fufore,Wuro Bokki,Dengeshi HP,12.61427592,10.6604458,Health Post,Functioning,True
+Adamawa,Fufore,Wuro Bokki,Malabu MCH,12.708831,10.66343,PHC,Functioning,True
+Adamawa,Fufore,Wuro Bokki,Wuro Bokki MCH,13.3225,10.673056,Health Clinic,Functioning,True
+Adamawa,Fufore,Yadim,BATI,12.8156133,10.67337,PHC,Partially Functioning,True
+Adamawa,Fufore,Yadim,Bingni PHC,12.69056183,10.67639957,Health Post,Functioning,True
+Adamawa,Fufore,Yadim,LAINDE,12.53353978,10.68074429,PHC,Functioning,True
+Adamawa,Fufore,Yadim,Nyibango HP,12.71775,10.6881766,Health Post,Functioning,True
+Adamawa,Fufore,Yadim,Ogburi HP,13.074,10.6903,Health Clinic,Functioning,True
+Adamawa,Fufore,Yadim,ST. Mary HP,12.88888889,10.69888889,Health Clinic,Functioning,True
+Adamawa,Fufore,Yadim,Ugi HP,12.6397842,10.70395459,PHC,Functioning,True
+Adamawa,Fufore,Yadim,Wetire,12.717665,10.71836333,Health Post,Functioning,True
+Adamawa,Fufore,Yadim,Yadim BHC,12.58447,10.73395833,PHC,Functioning,True
+Adamawa,Ganye,Bakari Guso,BABIDU,12.76235,10.76234,Health Clinic,Functioning,True
+Adamawa,Ganye,Bakari Guso,BAKARI GOSSO HC,12.36660667,10.773475,Health Post,Functioning,True
+Adamawa,Ganye,Bakari Guso,DARDIU HC,12.61317666,10.774535,Health Post,Not Functioning,True
+Adamawa,Ganye,Bakari Guso,MODIBBO H/ADAMA H/C,12.37465667,10.77639,PHC,Functioning,True
+Adamawa,Ganye,GAMU,DISSOL HC,12.37505,10.77718367,Hospital,Functioning,True
+Adamawa,Ganye,GAMU,GAMU HC,12.74571167,10.778315,PHC,Functioning,True
+Adamawa,Ganye,GAMU,SANKOM,12.55855067,10.781855,Health Post,Partially Functioning,True
+Adamawa,Ganye,GANYE I,BARHAMM HP,12.51393667,10.791905,Health Post,Partially Functioning,True
+Adamawa,Ganye,GANYE I,MARIA YEBBI HC,13.35,10.793611,PHC,Functioning,True
+Adamawa,Ganye,GANYE I,N0DINGA CLINIC,12.8394,10.79994833,Health Clinic,Functioning,True
+Adamawa,Ganye,GANYE I,NEW MARKET H/C,12.8986573,10.808943,PHC,Functioning,True
+Adamawa,Ganye,GANYE I,OLD MARKET HC,12.62661667,10.81645167,Health Post,Functioning,True
+Adamawa,Ganye,GANYE II,DADIRI HP,12.35366833,10.822415,Health Post,Not Functioning,True
+Adamawa,Ganye,GANYE II,GANG DONA HC,12.693925,10.83359167,PHC,Functioning,True
+Adamawa,Ganye,GANYE II,GANGWORKI,12.8603667,10.8339066,Health Clinic,Functioning,True
+Adamawa,Ganye,GANYE II,GENERAL HOSPITAL,12.42657,10.83868667,Health Post,Not Functioning,True
+Adamawa,Ganye,GANYE II,JIPPA JAM,11.93944444,10.84138889,Health Post,Functioning,True
+Adamawa,Ganye,GANYE II,PESSI HP,13.40833333,10.84416667,Health Clinic,Functioning,True
+Adamawa,Ganye,GANYE II,SUNSHINE CLINIC,12.53161167,10.84830333,Health Post,Partially Functioning,True
+Adamawa,Ganye,Gurum,GANGJAEN H/C,12.646115,10.84914333,Health Post,Functioning,True
+Adamawa,Ganye,Gurum,GUDING H/C,12.72331833,10.85148666,Health Post,Functioning,True
+Adamawa,Ganye,Gurum,GURUMPAWO HC,12.81331167,10.854095,PHC,Functioning,True
+Adamawa,Ganye,Gurum,SAMMERI HC,12.47288167,10.85695,Health Post,Not Functioning,True
+Adamawa,Ganye,JAGGU,BNADA TSARGA,12.875833,10.862778,PHC,Functioning,True
+Adamawa,Ganye,JAGGU,GARAMBA HC,12.931111,10.865278,PHC,Functioning,True
+Adamawa,Ganye,JAGGU,JAGGU HC,12.205485,10.87792833,PHC,Functioning,True
+Adamawa,Ganye,JAGGU,WADORE H/C,12.56152833,10.88358333,Health Post,Not Functioning,True
+Adamawa,Ganye,Sangasumi,ALIYU WAZIRI HC,12.77241167,10.896045,Health Post,Partially Functioning,True
+Adamawa,Ganye,Sangasumi,SANGASSUMI HC,10.16027778,10.89666667,Health Post,Functioning,True
+Adamawa,Ganye,SUGU,GANGTUM HC,12.80758167,10.90505667,Health Post,Not Functioning,True
+Adamawa,Ganye,SUGU,GANGWONI HC,13.278889,10.911944,PHC,Functioning,True
+Adamawa,Ganye,SUGU,SUGU HC,11.44792333,10.915555,Health Clinic,Functioning,True
+Adamawa,Ganye,TIMDORE,DABORA HC,12.12562167,10.92044833,Health Post,Functioning,True
+Adamawa,Ganye,TIMDORE,SANJO HC,12.5575865,10.92723833,PHC,Functioning,True
+Adamawa,Ganye,TIMDORE,SANSIRI HC,12.76753833,10.93123,PHC,Functioning,True
+Adamawa,Ganye,TIMDORE,YELWA HC,11.68055556,10.93916667,Health Clinic,Functioning,True
+Adamawa,Ganye,YEBBI,GANGJARI HC,13.036,10.9411,PHC,Functioning,True
+Adamawa,Ganye,YEBBI,GANGJUBI HP,13.036667,10.941111,Health Clinic,Functioning,True
+Adamawa,Ganye,YEBBI,GBANI HP,11.56777778,10.94166667,Health Post,Functioning,True
+Adamawa,Ganye,YEBBI,KAIKA PHCC,11.88394333,10.94535417,Health Post,Partially Functioning,True
+Adamawa,Ganye,YEBBI,YEBBI HC,11.61333333,10.94611111,Health Post,Functioning,True
+Adamawa,Girei,DAKRI,DAKRI PHCC,12.92583333,10.94666667,Health Post,Functioning,True
+Adamawa,Girei,DAKRI,FEDERAL HOUSING PHC,11.64222222,10.94833333,Health Clinic,Functioning,True
+Adamawa,Girei,DAKRI,KWAYA,11.64222222,10.94833333,PHC,Functioning,True
+Adamawa,Girei,DAKRI,LABONDO PHCC,11.97473167,10.94978,Health Post,Functioning,True
+Adamawa,Girei,DAMARE,BAJABURE PHCC,12.02388889,10.95694444,Health Post,Functioning,True
+Adamawa,Girei,DAMARE,DAMARE PHCC,11.92103333,10.95735,Health Post,Partially Functioning,True
+Adamawa,Girei,GERENG,GERENG PHCC,11.97773167,10.957595,PHC,Functioning,True
+Adamawa,Girei,GERENG,KANGLING PHCC,11.48756,10.958295,Health Clinic,Functioning,True
+Adamawa,Girei,GERENG,KOH PHCC,11.63833333,10.9625,Health Post,Functioning,True
+Adamawa,Girei,Girei I,BATARE,11.75576167,10.96551667,Health Post,Functioning,True
+Adamawa,Girei,Girei I,GIREI A PHCC,11.92332167,10.96831333,Health Clinic,Functioning,True
+Adamawa,Girei,Girei I,LUMO-KIDDUM,12.58322167,10.96859917,Health Post,Functioning,True
+Adamawa,Girei,Girei I,SANGERE PHCC,12.90573333,10.96897,PHC,Functioning,True
+Adamawa,Girei,Girei I,,12.87666667,10.97805556,Health Clinic,Functioning,True
+Adamawa,Girei,Girei II,GIREI B PHCC,11.87055556,10.98555556,Health Post,Functioning,True
+Adamawa,Girei,Jera Bakari,GUDUSU,11.64638889,10.98722222,PHC,Functioning,True
+Adamawa,Girei,Jera Bakari,NGAWA PHCC,11.55083333,10.98861111,Health Post,Functioning,True
+Adamawa,Girei,Jera Bakari,RUWO AMSANI,11.61583333,10.98861111,Health Post,Functioning,True
+Adamawa,Girei,Jera Bakari,RUWO BASAMBO,11.54656833,10.989565,PHC,Functioning,True
+Adamawa,Girei,Jera Bakari,RUWO SANI,12.452205,10.99061167,Health Post,Not Functioning,False
+Adamawa,Girei,Jera Bonyo,DANEYEL,13.365556,10.999444,PHC,Functioning,False
+Adamawa,Girei,Jera Bonyo,J/BONYO PHCC,11.001085,11.00108833,Health Post,Functioning,True
+Adamawa,Girei,Modire/ Vinikilang,NJOBBORE PHCC,12.051389,11.005278,Health Post,Not Functioning,True
+Adamawa,Girei,Modire/ Vinikilang,VONIKILANG PHCC,11.57498333,11.00664,Health Post,Functioning,True
+Adamawa,Girei,TAMBO,BAKOPI PHCC,13.366,11.0102,Health Post,Functioning,True
+Adamawa,Girei,TAMBO,LURU PHCC,12.116389,11.010556,Health Clinic,Functioning,True
+Adamawa,Girei,TAMBO,TAMBO PHCC,11.81666667,11.01083333,Health Post,Functioning,True
+Adamawa,Girei,TAMBO,,10.43238,11.01085,Health Post,Functioning,False
+Adamawa,Girei,Wuro Dole,J/LAMBA PHCC,12.897778,11.015556,Health Clinic,Functioning,True
+Adamawa,Girei,Wuro Dole,MALAM MADUGU,13.27944444,11.01666667,Health Post,Functioning,True
+Adamawa,Girei,Wuro Dole,W/DOLE PHCC,13.050833,11.016667,PHC,Functioning,True
+Adamawa,Gombi,Boga/ Dingai,BOGA PHC,12.70494333,11.017815,Health Clinic,Not Functioning,True
+Adamawa,Gombi,Boga/ Dingai,DINGAI,12.8722383,11.0211366,Hospital,Functioning,True
+Adamawa,Gombi,Boga/ Dingai,JEBRE,11.50694444,11.02138889,Health Post,Not Functioning,False
+Adamawa,Gombi,Boga/ Dingai,KWARGASHE,12.6177,11.0216,Health Clinic,Functioning,True
+Adamawa,Gombi,Boga/ Dingai,SHIME,12.79679667,11.02258833,Health Post,Functioning,True
+Adamawa,Gombi,Boga/ Dingai,ZANGRA,11.46092,11.024205,Health Clinic,Functioning,True
+Adamawa,Gombi,DUWA,DUWA,11.82888889,11.02444444,Health Clinic,Functioning,True
+Adamawa,Gombi,DUWA,FOTTA PHC,11.63957667,11.02552833,Health Clinic,Functioning,True
+Adamawa,Gombi,DUWA,JAROMBOI,12.8721516,11.0278033,Hospital,Functioning,True
+Adamawa,Gombi,DUWA,LEME,11.79666667,11.02944444,Health Post,Not Functioning,True
+Adamawa,Gombi,Ga'Anda,AMDUR,11.164695,11.030024,Health Clinic,Functioning,True
+Adamawa,Gombi,Ga'Anda,BANGA,12.89156166,11.031695,PHC,Functioning,True
+Adamawa,Gombi,Ga'Anda,BAURE,12.084167,11.033611,Health Clinic,Partially Functioning,True
+Adamawa,Gombi,Ga'Anda,DADWARI,11.546325,11.03519883,PHC,Functioning,True
+Adamawa,Gombi,Ga'Anda,GAANDA MCH (FMHC),12.869845,11.035385,Health Clinic,Functioning,True
+Adamawa,Gombi,Ga'Anda,GAANDA PHCC,12.877575,11.03707833,Health Clinic,Partially Functioning,True
+Adamawa,Gombi,Ga'Anda,GARIJARA,13.034167,11.037222,PHC,Functioning,True
+Adamawa,Gombi,Ga'Anda,GONGRANG,12.81388,11.043029,PHC,Not Functioning,True
+Adamawa,Gombi,Ga'Anda,LCCN DISP GAANDA,12.870245,11.0433916,PHC,Functioning,True
+Adamawa,Gombi,Ga'Anda,NJEBJEBA,11.04353957,11.04354447,PHC,Functioning,True
+Adamawa,Gombi,Ga'Anda,PLARA,13.063056,11.045833,PHC,Functioning,True
+Adamawa,Gombi,GABUN,GABUN HC,12.8699466,11.0475733,PHC,Functioning,True
+Adamawa,Gombi,GABUN,MBISHIM/NGALGA HC,10.0675,11.05027778,Health Post,Partially Functioning,True
+Adamawa,Gombi,GABUN,WAMIRETE,10.067222,11.050555,Health Post,Partially Functioning,True
+Adamawa,Gombi,GARKIDA,EYN GARKIDA  DISPENSAR,12.872678,11.051075,Health Clinic,Partially Functioning,True
+Adamawa,Gombi,GARKIDA,GEN HOSPITAL GARKIDA,10.08416667,11.05111111,Health Post,Functioning,True
+Adamawa,Gombi,GARKIDA,MBEWA H. POS,10.083611,11.051388,Health Post,Functioning,True
+Adamawa,Gombi,GARKIDA,STATE DERMATOLOGY H. GARKIDA,10.083888,11.051388,Health Clinic,Partially Functioning,True
+Adamawa,Gombi,GARKIDA,SUCSA'AD,11.70821167,11.05562,Health Clinic,Partially Functioning,True
+Adamawa,Gombi,GARKIDA,WUYAKU,12.22819667,11.05634667,Health Post,Not Functioning,True
+Adamawa,Gombi,GOMBI NORTH,CLINIC B,11.9114,11.0603,Health Clinic,Functioning,True
+Adamawa,Gombi,GOMBI NORTH,CLINIC C,10.067777,11.067222,PHC,Functioning,True
+Adamawa,Gombi,GOMBI NORTH,NOMA CLINIC,11.01861111,11.06722222,Health Post,Functioning,True
+Adamawa,Gombi,GOMBI NORTH,TAIMAKO,12.137222,11.068056,Health Post,Not Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,CLINIC. A,11.71008833,11.06828833,PHC,Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,HARMISI,11.70944167,11.06829833,Health Clinic,Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,JAMA' HOSPITAL GOMBI,11.7222332,11.06830668,Hospital,Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,LCCN NURSING HOME,11.86388889,11.06916667,Health Post,Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,NYAKO  MATERNITY,11.503505,11.071525,Health Clinic,Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,SALVATION,11.95638889,11.07416667,Hospital,Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,SCENT MARY CLINIC,11.84888889,11.07472222,PHC,Functioning,True
+Adamawa,Gombi,GOMBI SOUTH,STERLING NURSING & MATERNITY HOME,12.24583633,11.08361666,Health Post,Not Functioning,False
+Adamawa,Gombi,GOMBI SOUTH,"TRUST MEDICAL CENTRE, GOMBI",11.742305,11.08464145,PHC,Functioning,True
+Adamawa,Gombi,GUYAKU,BALHONA,11.317222,11.085833,Health Post,Not Functioning,True
+Adamawa,Gombi,GUYAKU,DZANGOLA PHC,11.7705,11.08611111,PHC,Functioning,True
+Adamawa,Gombi,GUYAKU,GIRGITHANG,11.70977276,11.08653903,PHC,Functioning,True
+Adamawa,Gombi,GUYAKU,GUYAKU PHC,11.72440914,11.08672996,PHC,Functioning,True
+Adamawa,Gombi,GUYAKU,JAU,12.9422,11.0886,Health Clinic,Partially Functioning,True
+Adamawa,Gombi,GUYAKU,PIRKASA PHC,11.67962,11.08932,Health Post,Partially Functioning,True
+Adamawa,Gombi,TAWA,BEBE,11.71847604,11.09479188,PHC,Functioning,True
+Adamawa,Gombi,TAWA,BOKKI,13.028333,11.095556,Health Clinic,Functioning,True
+Adamawa,Gombi,TAWA,GARFITE,11.70456817,11.09937377,PHC,Functioning,True
+Adamawa,Gombi,TAWA,KANGURGUN,12.700833,11.103611,PHC,Partially Functioning,True
+Adamawa,Gombi,TAWA,LASIEL,11.69173833,11.10481167,Health Clinic,Functioning,True
+Adamawa,Gombi,TAWA,MARRABAN BOKKI,12.27434333,11.10697333,PHC,Functioning,True
+Adamawa,Gombi,TAWA,MAYO ZAMBA,11.1354384,11.109228,Health Clinic,Functioning,True
+Adamawa,Gombi,TAWA,MIJIWANA,12.573549,11.110098,PHC,Functioning,True
+Adamawa,Gombi,TAWA,MUCHALLA PHC,11.504197,11.1139396,Health Clinic,Partially Functioning,True
+Adamawa,Gombi,TAWA,NGAIGA,7.54468,11.118382,Health Post,Partially Functioning,True
+Adamawa,Gombi,YANG,GANJIN,8.64468,11.119382,Health Post,Functioning,True
+Adamawa,Gombi,YANG,SHENO,11.492546,11.1218438,Health Clinic,Functioning,True
+Adamawa,Gombi,YANG,YANG HC,11.3441208,11.1223034,Health Clinic,Functioning,True
+Adamawa,Guyuk,BANJIRAM,Banjiram PHCC,11.113951,11.123484,Health Clinic,Functioning,True
+Adamawa,Guyuk,BANJIRAM,GUGU H/POST,11.33249667,11.12404333,Health Clinic,Functioning,True
+Adamawa,Guyuk,BANJIRAM,KWADADAI H/POST,11.172666,11.1257554,Health Clinic,Not Functioning,True
+Adamawa,Guyuk,BOBINI,ARAH-THE,11.79444444,11.12583333,Health Post,Functioning,True
+Adamawa,Guyuk,BOBINI,FMHC,11.70502557,11.12622639,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,BOBINI,GOROTORO H/P,12.015,11.126944,Health Clinic,Functioning,True
+Adamawa,Guyuk,BOBINI,GWALLAM,8.66469,11.129382,Health Clinic,Functioning,True
+Adamawa,Guyuk,BOBINI,MADA PHCC,8.77469,11.129382,Health Clinic,Functioning,False
+Adamawa,Guyuk,BOBINI,Wawi PHCC,11.08638889,11.13277778,Health Post,Functioning,True
+Adamawa,Guyuk,BODENO,Bodeno PHCC,12.213162,11.132806,Health Clinic,Functioning,True
+Adamawa,Guyuk,CHIKILA,Chikila PHCC,12.28114833,11.13351833,Health Post,Not Functioning,True
+Adamawa,Guyuk,CHIKILA,,11.292676,11.1335232,Health Clinic,Functioning,True
+Adamawa,Guyuk,CHIKILA,Dangir PHCC,11.00138889,11.13472222,Health Clinic,Functioning,True
+Adamawa,Guyuk,CHIKILA,GWALURA H/P,11.20873,11.14353939,Health Clinic,Functioning,True
+Adamawa,Guyuk,CHIKILA,JIU PHC,11.3643074,11.1437284,Health Clinic,Functioning,True
+Adamawa,Guyuk,CHIKILA,Sili Kasa PHCC,11.3850694,11.144614,Health Clinic,Functioning,True
+Adamawa,Guyuk,CHIKILA,,12.835,11.1456,Health Clinic,Functioning,True
+Adamawa,Guyuk,DUKUL,Falu PHCC,12.213056,11.148611,Health Post,Functioning,True
+Adamawa,Guyuk,DUKUL,GUNDENYI H/POST,12.886955,11.149448,Health Post,Partially Functioning,True
+Adamawa,Guyuk,DUKUL,GWANAH H/POST,11.87759,11.149631,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,DUKUL,Kurrinyi PHCC,12.553,11.1507,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,DUKUL,WALU H/POST,11.2314628,11.1524384,Health Clinic,Functioning,True
+Adamawa,Guyuk,DUMNA,Boshikiri PHCC,11.261269,11.1527408,Health Clinic,Functioning,True
+Adamawa,Guyuk,DUMNA,Burthi PHCC,11.3420712,11.1530618,Health Clinic,Functioning,True
+Adamawa,Guyuk,DUMNA,Dumna Dutse PHCC,11.392249,11.1547,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,DUMNA,DUWO PHC,12.877672,11.159447,Health Post,Partially Functioning,True
+Adamawa,Guyuk,DUMNA,TSALBU PHC,11.3657756,11.1653472,Health Clinic,Functioning,True
+Adamawa,Guyuk,DUMNA,TUHURA PHC,11.31633333,11.16758667,Health Clinic,Functioning,True
+Adamawa,Guyuk,DUMNA,ZAKAWON PHC,12.770556,11.17,Health Clinic,Functioning,True
+Adamawa,Guyuk,DUMNA,ZERBU PHC,12.895486,11.173578,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,GUYUK,Cottage Hospital Guyuk,11.281392,11.1753448,Health Clinic,Functioning,True
+Adamawa,Guyuk,GUYUK,DASWAMA H/POST,11.82566,11.17857,Hospital,Functioning,True
+Adamawa,Guyuk,GUYUK,Guyuk PHCC,11.2020862,11.18382,Health Clinic,Functioning,True
+Adamawa,Guyuk,GUYUK,JAGIRA H/POST,12.250833,11.184722,Health Clinic,Functioning,True
+Adamawa,Guyuk,GUYUK,LAMZA H POST,11.43698389,11.18573167,Health Clinic,Functioning,True
+Adamawa,Guyuk,GUYUK,MANGAPILA NURSING/MATENITY,12.099444,11.192778,Health Post,Functioning,True
+Adamawa,Guyuk,GUYUK,Pwalamoliye PHCC,12.339865,11.197885,Health Post,Not Functioning,True
+Adamawa,Guyuk,GUYUK,SISIKIRA H/POST,12.878333,11.198611,Hospital,Functioning,True
+Adamawa,Guyuk,GUYUK,TUNDUN GUYUK H/POST,11.988333,11.207222,Health Post,Functioning,False
+Adamawa,Guyuk,KOLA,Kerau PHCC,12.37987,11.21049,PHC,Functioning,True
+Adamawa,Guyuk,KOLA,Kola PHC,12.138611,11.2125,PHC,Functioning,True
+Adamawa,Guyuk,KOLA,KWALGAURA H/P,10.35456111,11.21279472,Health Post,Not Functioning,True
+Adamawa,Guyuk,KOLA,Ponduwe PHCC,11.999167,11.216389,Health Post,Not Functioning,True
+Adamawa,Guyuk,KOLA,THEBLE HEAITH POST,12.884265,11.219105,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,LOKORO,Gunda PHCC,12.695453,11.220785,Health Clinic,Functioning,True
+Adamawa,Guyuk,LOKORO,Lokoro PHCC,13.16415604,11.22395872,Health Clinic,Functioning,True
+Adamawa,Guyuk,LOKORO,SUKELYE PHC,12.704628,11.227723,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,Purokayo,DEREMINA,11.29311333,11.22833333,PHC,Functioning,True
+Adamawa,Guyuk,Purokayo,GOMBAWA H/POST,13.585,11.229006,Health Clinic,Partially Functioning,True
+Adamawa,Guyuk,Purokayo,LAKUMNA H POST,12.817898,11.230955,Health Clinic,Not Functioning,True
+Adamawa,Hong,BANGSHIKA,FADAMA REKE H/P,11.93,11.231944,Health Post,Functioning,True
+Adamawa,Hong,BANGSHIKA,KUBTAVA H/P,11.124761,11.2359244,Health Clinic,Not Functioning,True
+Adamawa,Hong,BANGSHIKA,KWANAN KUKA H/P,12.761127,11.243349,Health Post,Partially Functioning,True
+Adamawa,Hong,BANGSHIKA,KWAYAU H/P,11.1042162,11.2459454,Health Clinic,Functioning,True
+Adamawa,Hong,BANGSHIKA,MAKERA PHCC,13.244915,11.2575267,Health Clinic,Not Functioning,True
+Adamawa,Hong,BANGSHIKA,MBALWAHA PHCC,11.670833,11.260278,Health Post,Functioning,True
+Adamawa,Hong,BANGSHIKA,MUTUKU H/P,11.1650898,11.2612246,Health Clinic,Functioning,True
+Adamawa,Hong,BANGSHIKA,PHC EYN FADAMA RAKE,12.796822,11.262701,Health Post,Partially Functioning,True
+Adamawa,Hong,BANGSHIKA,PHC KWAMBLA,11.999722,11.272222,Health Post,Functioning,True
+Adamawa,Hong,BANGSHIKA,PHCC BANSHIKA,11.234016,11.2728872,Health Post,Not Functioning,True
+Adamawa,Hong,BANGSHIKA,PHCC KALA'A,11.2054876,11.2734386,Health Clinic,Functioning,True
+Adamawa,Hong,BANGSHIKA,SHIWA H/P,13.937,11.2742,Health Clinic,Functioning,True
+Adamawa,Hong,BANGSHIKA,VALA HOSPITAL,12.397778,11.276667,Health Post,Functioning,True
+Adamawa,Hong,DAKSIRI,DAKSIRI GARI  HC,12.768668,11.278766,Health Clinic,Partially Functioning,True
+Adamawa,Hong,DAKSIRI,DAKZA PHC CLINIC,11.74869,11.2815282,Health Clinic,Functioning,True
+Adamawa,Hong,DAKSIRI,MOTHOL H/POST,11.089444,11.282222,Health Post,Not Functioning,True
+Adamawa,Hong,DAKSIRI,PHC CLINIC MBOLNYI,11.1136552,11.28579,Health Clinic,Functioning,True
+Adamawa,Hong,DAKSIRI,PHC CLINIC UDING,11.883889,11.2875,PHC,Functioning,True
+Adamawa,Hong,DAKSIRI,PHC CLINIC ZHEDINYI,12.809555,11.29372,Health Clinic,Not Functioning,True
+Adamawa,Hong,GARAHA,DABNA  HC,7.8277621,11.299783,Health Post,Partially Functioning,True
+Adamawa,Hong,GARAHA,KINGING H/P,11.27986667,11.30556833,Hospital,Functioning,True
+Adamawa,Hong,GARAHA,KWAPE H/P,11.28283167,11.30928167,Health Clinic,Functioning,True
+Adamawa,Hong,GARAHA,PHCC GARAHA,12.875108,11.310343,Health Post,Functioning,True
+Adamawa,Hong,Gaya,E.Y.N. PHC MIJILI,11.728056,11.310833,Health Post,Functioning,True
+Adamawa,Hong,Gaya,PHCC KUVA GAYA,11.2628524,11.310912,Health Clinic,Functioning,True
+Adamawa,Hong,GAYA D.,GAYASIKALM PHC,11.1634266,11.311947,PHC,Functioning,True
+Adamawa,Hong,GAYA S.,GASHALA MAMUDA H/P,11.2253682,11.314605,Health Clinic,Functioning,True
+Adamawa,Hong,GAYA S.,GAYA MAKI PHCC,12.27,11.315556,Health Clinic,Functioning,True
+Adamawa,Hong,HILDI,DZAKWA H/P,11.1916854,11.324612,Health Clinic,Functioning,True
+Adamawa,Hong,HILDI,PARAGALDA HC,11.789444,11.325,Health Clinic,Functioning,True
+Adamawa,Hong,HILDI,PHCC HILDI,12.2952121,11.3251142,Health Post,Partially Functioning,True
+Adamawa,Hong,HONG,CLINIC A. HONG,11.678611,11.329167,PHC,Functioning,True
+Adamawa,Hong,HONG,CLINIC C. HONG,11.24666667,11.332395,Health Clinic,Not Functioning,True
+Adamawa,Hong,HONG,GUDUMIYA H/POST,11.679444,11.342222,Hospital,Functioning,True
+Adamawa,Hong,HOSHERIZUM,DZIGAYERIMA H/P,11.645833,11.3425,Health Post,Functioning,True
+Adamawa,Hong,HOSHERIZUM,EYN KWAKWAIAH CLINIC,11.38371333,11.34410167,PHC,Functioning,True
+Adamawa,Hong,HOSHERIZUM,GARARI PHC CLINIC,11.745278,11.344722,Health Post,Functioning,True
+Adamawa,Hong,HOSHERIZUM,MOMBOL PHC CLINIC,12.3454333,11.3456345,Health Post,Partially Functioning,True
+Adamawa,Hong,HOSHERIZUM,PHC CLINIC DILWACHIRA,12.899561,11.353923,Health Post,Partially Functioning,True
+Adamawa,Hong,HOSHERIZUM,PHCC KWAKWA'AH,12.432783,11.35656,Health Post,Functioning,True
+Adamawa,Hong,KWARHI,EYN PHC KWARHI,12.791888,11.358845,Health Post,Partially Functioning,True
+Adamawa,Hong,KWARHI,PHCC GASHALAMIGH,12.50611111,11.35944444,PHC,Functioning,True
+Adamawa,Hong,KWARHI,PHCC KWARHI,13.115,11.3642,Health Clinic,Functioning,True
+Adamawa,Hong,Mayo Lope,BAKIN-RISIYA H/P,13.03,11.3653,Health Clinic,Functioning,True
+Adamawa,Hong,Mayo Lope,JAMA'A N/MAYER,11.648056,11.371944,Health Post,Functioning,True
+Adamawa,Hong,Mayo Lope,MIRINYI,12.816811,11.37277,Health Post,Not Functioning,True
+Adamawa,Hong,Mayo Lope,NAIWA H/P,12.72908,11.381123,Health Clinic,Functioning,True
+Adamawa,Hong,Mayo Lope,NJAIRI H/P,11.151389,11.387778,Health Clinic,Functioning,True
+Adamawa,Hong,Mayo Lope,PHCC KURMI,12.41239134,11.39821933,Health Post,Partially Functioning,True
+Adamawa,Hong,Mayo Lope,PILLEFU H/P,12.8119,11.39987,Health Clinic,Functioning,False
+Adamawa,Hong,Mayo Lope,PURE MEMORCAL MATERNITY & NURSING HOME,11.668611,11.4,Health Clinic,Functioning,True
+Adamawa,Hong,SHANGUI,DAZAL H/POST,11.5575,11.407222,Health Clinic,Functioning,True
+Adamawa,Hong,SHANGUI,HONG GENERAL HOSPITAL,12.495825,11.4113518,Health Clinic,Functioning,True
+Adamawa,Hong,SHANGUI,MUNGA  HC,11.40093333,11.414925,Health Clinic,Not Functioning,False
+Adamawa,Hong,SHANGUI,SAFARAN CLINIC,11.35152,11.419565,Health Clinic,Functioning,True
+Adamawa,Hong,THILBANG,DILCHIDAMA H/POST,12.878525,11.42021,Health Post,Not Functioning,True
+Adamawa,Hong,THILBANG,FACHI H/POST,12.799233,11.439221,Health Post,Partially Functioning,True
+Adamawa,Hong,THILBANG,GASHAKA H/POST,12.93194444,11.44111111,Health Clinic,Functioning,True
+Adamawa,Hong,THILBANG,KOKKO H/POST,12.502838,11.4447772,Health Clinic,Functioning,True
+Adamawa,Hong,THILBANG,MIDILA H/POST,12.495621,11.455215,PHC,Partially Functioning,True
+Adamawa,Hong,THILBANG,NGALBI H/POST,11.5275,11.456111,Health Post,Functioning,True
+Adamawa,Hong,THILBANG,PELLA (WIH) PHCC,11.883056,11.458056,Health Post,Functioning,True
+Adamawa,Hong,THILBANG,PHC CLINIC DZUMAH,11.1932892,11.458598,Health Clinic,Not Functioning,True
+Adamawa,Hong,THILBANG,PNC CLINIC BUZZA,11.462778,11.4625,PHC,Functioning,True
+Adamawa,Hong,THILBANG,WURO-BOKKI H/POST,11.32632667,11.463965,Health Clinic,Functioning,True
+Adamawa,Hong,UBA,BARKA CLINIC,13.0669,11.4658,Health Clinic,Partially Functioning,True
+Adamawa,Hong,UBA,HUSSARA H/P,12.809943,11.46699,Health Clinic,Partially Functioning,True
+Adamawa,Hong,UBA,JANLINGO H/P,9.503,11.468913,Health Clinic,Functioning,True
+Adamawa,Hong,UBA,PHCC A. UBA,12.162352,11.472866,Health Clinic,Functioning,True
+Adamawa,Hong,UBA,PHCC UBA 'B',12.762172,11.472991,Health Post,Functioning,True
+Adamawa,Hong,UBA,WURO-KAE,12.314496,11.481403,PHC,Functioning,True
+Adamawa,Hong,WAYO-LOPE,PHCC GASHALAK,12.489266,11.489088,Health Post,Functioning,True
+Adamawa,Jada,Danaba,DANABA PHCC,13.953,11.49,Health Clinic,Functioning,True
+Adamawa,Jada,Danaba,DIMKUSUM HC,12.491369,11.491795,Hospital,Functioning,True
+Adamawa,Jada,Danaba,KAMENYA HP,11.984444,11.4925,Health Post,Functioning,True
+Adamawa,Jada,Danaba,SAMAN PHCC,12.868263,11.493896,Health Clinic,Partially Functioning,True
+Adamawa,Jada,Danaba,SANDAGUNI HP,12.46723,11.500215,Health Clinic,Functioning,True
+Adamawa,Jada,Danaba,SANKENPO HP,8.545431,11.5015,PHC,Partially Functioning,True
+Adamawa,Jada,JADA 1,JADA 1 PHCC,12.499249,11.504601,PHC,Functioning,True
+Adamawa,Jada,JADA 1,SIANT JOSEPH DISPENSARY,12.769783,11.510723,Health Clinic,Functioning,True
+Adamawa,Jada,JADA II,COTTAGE HOSPITAL JADA,12.501128,11.512964,Health Post,Functioning,True
+Adamawa,Jada,JADA II,JADA II PHCC,13.0808,11.513,Health Post,Partially Functioning,True
+Adamawa,Jada,JADA II,WURO YERIMA HC,12.268595,11.51309166,Health Clinic,Functioning,True
+Adamawa,Jada,Koma I,CHONCHA HP,11.997778,11.514167,Health Post,Functioning,True
+Adamawa,Jada,Koma I,N KOMA PHCC,9.493932,11.51877,PHC,Functioning,True
+Adamawa,Jada,Koma I,NALI HP,12.840535,11.521058,Health Clinic,Functioning,True
+Adamawa,Jada,Koma II,BELTI PHCC,10.1326,11.5222,Health Post,Functioning,True
+Adamawa,Jada,Koma II,SAMLO HP,12.5122096,11.525271,PHC,Partially Functioning,True
+Adamawa,Jada,Koma II,WARRI HP,11.995,11.527778,PHC,Functioning,True
+Adamawa,Jada,LEKO,ABEJO HP,11.671667,11.535556,PHC,Functioning,True
+Adamawa,Jada,LEKO,DALAM1 HP,12.521233,11.535787,PHC,Functioning,True
+Adamawa,Jada,LEKO,GAWALGU HP,7.900442,11.536457,Health Clinic,Partially Functioning,False
+Adamawa,Jada,LEKO,MAYO HAKO PHCC,11.092031,11.537015,PHC,Partially Functioning,True
+Adamawa,Jada,LEKO,SANGARA HP,12.96413,11.53799,Health Clinic,Not Functioning,True
+Adamawa,Jada,LEKO,SOLO PHCC,13.1489,11.5386,Health Post,Functioning,True
+Adamawa,Jada,Mapeo,JALINGO HP,13.1492,11.5386,Dispensary,Functioning,True
+Adamawa,Jada,Mapeo,KOJOLI PHCC,14.4183,11.5386,Dispensary,Partially Functioning,True
+Adamawa,Jada,Mapeo,LENGD0 HP,12.47477,11.538796,Health Clinic,Functioning,True
+Adamawa,Jada,Mapeo,MAPIO PHCC,13.1489,11.5389,Health Clinic,Functioning,True
+Adamawa,Jada,MAYO KALAYE,KILBAWO PHCC,13.1458,11.5405,Health Clinic,Partially Functioning,True
+Adamawa,Jada,MAYO KALEYE,WURO ABBO PHCC,13.1438,11.5408,Health Clinic,Functioning,True
+Adamawa,Jada,MAYO KALLAYI,GANGKIRI HP,10.93111111,11.54138889,Health Post,Partially Functioning,True
+Adamawa,Jada,Mayokalaye,GANGLARE PHCC,12.521831,11.542705,PHC,Partially Functioning,True
+Adamawa,Jada,MBULO,FARANG VAN,11.940556,11.544444,PHC,Functioning,True
+Adamawa,Jada,MBULO,GANGSANJI PHCC,11.999722,11.548889,Health Clinic,Functioning,True
+Adamawa,Jada,MBULO,LCCN DISPENSARY,13.1396458,11.549136,MCH,Partially Functioning,True
+Adamawa,Jada,MBULO,MBANGAN TIREN HC,12.463229,11.549556,Health Clinic,Partially Functioning,True
+Adamawa,Jada,MBULO,MBANGEN ESSANDE HP,11.3448588,11.550904,Health Clinic,Functioning,True
+Adamawa,Jada,MBULO,MBULO PHCC,11.48328167,11.55163333,Health Clinic,Partially Functioning,True
+Adamawa,Jada,NADEU,NADEU HP,12.5524588,11.5528908,Health Clinic,Partially Functioning,True
+Adamawa,Jada,NYBANGO,GLABDU HP,12.532064,11.553234,PHC,Functioning,True
+Adamawa,Jada,Nyibango,DASHEW PHCC,10.61055556,11.55333333,Health Clinic,Functioning,True
+Adamawa,Jada,Nyibango,GANGJAMARE HP,12.82783,11.559276,Health Clinic,Functioning,True
+Adamawa,Jada,Nyibango,JARANDI HP,11.05416667,11.56027778,Health Post,Functioning,True
+Adamawa,Jada,Nyibango,LCCN DISPENSARY,10.79777778,11.56305556,Health Post,Functioning,True
+Adamawa,Jada,Nyibango,MGBOMSISURI,8.4044,11.5714,Health Post,Functioning,True
+Adamawa,Jada,Nyibango,NYIBANGO HC,10.1131,11.5746,Health Post,Partially Functioning,True
+Adamawa,Jada,WURO ABBO,GANGNAI HP,9.32248772,11.5750269,Health Post,Partially Functioning,True
+Adamawa,Jada,Yelli,BALAURU HP,9.41369894,11.58261616,Health Clinic,Partially Functioning,True
+Adamawa,Jada,Yelli,GADJO HC,11.05694444,11.58527778,Health Clinic,Functioning,True
+Adamawa,Jada,Yelli,GELESIMA,12.8156255,11.585965,Health Clinic,Functioning,True
+Adamawa,Jada,Yelli,KOJOLI PHCC,11.288713,11.586111,Health Post,Functioning,False
+Adamawa,Jada,Yelli,LAPPO HP,11.994722,11.587222,Health Post,Not Functioning,True
+Adamawa,Jada,Yelli,MAYO JUNE HP,11.739722,11.594167,Health Post,Functioning,True
+Adamawa,Jada,Yelli,SAPEO PHC,13.115,11.6022,Health Post,Partially Functioning,True
+Adamawa,Lamurde,Dubwangun,BAFYOU HF,11.05055556,11.60388889,Health Post,Partially Functioning,True
+Adamawa,Lamurde,Dubwangun,DUBWANGUN HC,12.122776,11.605025,Health Clinic,Functioning,True
+Adamawa,Lamurde,Dubwangun,MBEMUN HC,9.36476595,11.60520503,Health Post,Partially Functioning,True
+Adamawa,Lamurde,Gyawana,GYAWANA PHCC,10.95722222,11.60722222,PHC,Functioning,True
+Adamawa,Lamurde,Gyawana,SAVANNAH CLNIC,9.53529,11.607263,PHC,Functioning,True
+Adamawa,Lamurde,Lafiya,LAFIYA FED. MODEL HC,12.894588,11.610976,Health Clinic,Functioning,True
+Adamawa,Lamurde,Lafiya,LAFIYA HC,12.488331,11.61125,Health Clinic,Functioning,True
+Adamawa,Lamurde,Lafiya,MAMSIRME PHCC,12.76596,11.6193,Health Clinic,Partially Functioning,True
+Adamawa,Lamurde,Lamurde,Alheri Clinic,11.432676,11.620334,Health Post,Functioning,True
+Adamawa,Lamurde,Lamurde,HADIYO H/P,11.1436048,11.620652,Health Clinic,Functioning,True
+Adamawa,Lamurde,Lamurde,LAMURDE PHCC,9.38426587,11.62450999,PHC,Functioning,True
+Adamawa,Lamurde,Lamurde,Sabongari HC,10.35587,11.62516,Health Clinic,Functioning,True
+Adamawa,Lamurde,Mgbebongun,SABONLAYI PHCC,11.685556,11.627778,Health Clinic,Functioning,True
+Adamawa,Lamurde,Mgbebongun,TIPTO HC,11.774167,11.628333,Health Post,Functioning,True
+Adamawa,Lamurde,Ngbakowo,NGBAKAWO PHCC,12.816255,11.634055,Health Clinic,Functioning,True
+Adamawa,Lamurde,Opalo,OPALO PHCC,9.474142,11.637145,Health Post,Functioning,True
+Adamawa,Lamurde,Opalo,ZEKUN HC,11.920278,11.6425,Health Clinic,Functioning,True
+Adamawa,Lamurde,Rigange,RIGANGE HC,9.50912,11.644477,PHC,Functioning,False
+Adamawa,Lamurde,Suwa,BALAIFI HC,10.79944444,11.64555556,Health Post,Not Functioning,False
+Adamawa,Lamurde,Suwa,GYAKAN PHCC,10.65722222,11.64583333,Health Post,Partially Functioning,True
+Adamawa,Lamurde,Suwa,LASSUN HC,11.1729106,11.646764,Health Clinic,Functioning,True
+Adamawa,Lamurde,Suwa,SUWA PHCC,12.7621908,11.64721476,Health Clinic,Not Functioning,True
+Adamawa,Lamurde,Waduku,KWAH HF,7.853083,11.651329,Health Post,Not Functioning,False
+Adamawa,Lamurde,Waduku,TINGNO DUTSE PHCC,9.613063,11.657298,PHC,Functioning,True
+Adamawa,Lamurde,Waduku,WADUKU PHCC,11.78777778,11.65944444,Health Post,Partially Functioning,True
+Adamawa,Madagali,Bebel,BEBEL HEALTH CLINIC,9.40630233,11.66112403,Health Post,Partially Functioning,True
+Adamawa,Madagali,Bebel,DRIFF HC,12.064211,11.662638,Health Clinic,Functioning,True
+Adamawa,Madagali,Bebel,SUKUR HEALTH POST,9.542555,11.66588,Health Post,Functioning,True
+Adamawa,Madagali,Bebel,VEMGO PHC,10.79027778,11.66805556,Health Post,Not Functioning,False
+Adamawa,Madagali,Duhu/ Shuwa,DUHU PHC,10.76583333,11.67222222,Health Clinic,Functioning,True
+Adamawa,Madagali,Duhu/ Shuwa,KWAMBULA,12.995,11.673,Health Post,Partially Functioning,True
+Adamawa,Madagali,Duhu/ Shuwa,LUMADU PHC,9.46545604,11.67427789,PHC,Functioning,True
+Adamawa,Madagali,Duhu/ Shuwa,MAYO WADU PHC,7.805793,11.674743,Health Clinic,Partially Functioning,True
+Adamawa,Madagali,Duhu/ Shuwa,SHUWA  MISSION MATERNITY,13.0733,11.675,Health Post,Functioning,True
+Adamawa,Madagali,Gulak,BAKIN DUTSE PHC,11.93694444,11.68027778,Hospital,Functioning,True
+Adamawa,Madagali,Gulak,COTTAGE HOSP.GULAK,10.93722222,11.68055556,Health Clinic,Functioning,True
+Adamawa,Madagali,Gulak,DAR HP,9.2481584,11.687755,Health Clinic,Partially Functioning,True
+Adamawa,Madagali,Gulak,GHANTSA,12.64113218,11.68804543,Health Clinic,Partially Functioning,True
+Adamawa,Madagali,Gulak,IJARAFARU MEMORIAL NURSING AND MATERNITY CLINIC,12.147799,11.688453,Health Clinic,Functioning,True
+Adamawa,Madagali,Gulak,KAYA PHC,7.914501,11.692429,Health Post,Not Functioning,False
+Adamawa,Madagali,Gulak,"KUBU HP
+\",9.35801083,11.69799369,Health Post,Partially Functioning,True
+Adamawa,Madagali,Gulak,WANUKI HP,11.03972222,11.69833333,Health Post,Functioning,True
+Adamawa,Madagali,Hyambula,BITIKU BHC,10.090555,11.69917333,PHC,Functioning,True
+Adamawa,Madagali,Hyambula,HYAMBULA II PHC,11.778889,11.699722,Health Post,Functioning,True
+Adamawa,Madagali,Hyambula,,9.171388889,11.70138889,PHC,Not Functioning,False
+Adamawa,Madagali,K/Wuro Ngayandi,DAGALI,9.556016,11.704967,PHC,Functioning,True
+Adamawa,Madagali,K/Wuro Ngayandi,GADAMAYO,11.70728474,11.70728474,Health Clinic,Partially Functioning,True
+Adamawa,Madagali,K/Wuro Ngayandi,KIRCHINGA PHC,11.68611342,11.7091745,PHC,Not Functioning,True
+Adamawa,Madagali,K/Wuro Ngayandi,KOPA PHC,10.0341667,11.7094444,Health Post,Functioning,True
+Adamawa,Madagali,K/Wuro Ngayandi,,8.32884,11.7117783,PHC,Partially Functioning,False
+Adamawa,Madagali,K/Wuro Ngayandi,SHUWARE,12.702661,11.717226,Health Post,Not Functioning,True
+Adamawa,Madagali,K/Wuro Ngayandi,WURO NGAYADI PHC,12.828103,11.721623,PHC,Partially Functioning,True
+Adamawa,Madagali,Madagali,COCIN HEALTH CLINIC,11.264088,11.723343,PHC,Functioning,True
+Adamawa,Madagali,Madagali,DAMAI KASA,11.04527778,11.72361111,Health Post,Partially Functioning,True
+Adamawa,Madagali,Madagali,MADAGALI COMP.CLINIC,9.458326956,11.72460016,PHC,Functioning,True
+Adamawa,Madagali,Madagali,MADAGALI PHCC,9.2949616,11.7255383,Health Clinic,Partially Functioning,True
+Adamawa,Madagali,Madagali,MADAGALI TOWN CLINIC,12.71061,11.72803,Health Post,Partially Functioning,True
+Adamawa,Madagali,Madagali,VIZIK PHC,9.196944444,11.72833333,PHC,Functioning,True
+Adamawa,Madagali,Pallam,DZUEL HEALTH POST,10.81027778,11.73194444,Health Clinic,Functioning,True
+Adamawa,Madagali,Pallam,GAJAMA,10.61873,11.73385,Health Clinic,Not Functioning,True
+Adamawa,Madagali,Pallam,KERU JAKU HEALTH POST,9.576388889,11.73527778,PHC,Functioning,True
+Adamawa,Madagali,Pallam,KWAJITI HC,9.168611111,11.74111111,PHC,Functioning,True
+Adamawa,Madagali,Pallam,PALLAM PHC,11.98888889,11.74555556,Health Post,Functioning,True
+Adamawa,Madagali,Pallam,TAKYA HEALTH POST,11.36861111,11.74972222,Health Post,Partially Functioning,True
+Adamawa,Madagali,Pallam,TUHUM-WAZIRI HP,9.2254433,11.752455,Health Clinic,Partially Functioning,True
+Adamawa,Madagali,Pallam,WURO GAS HF,9.44907885,11.75561014,Health Clinic,Functioning,True
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,KURANG HC,9.5718495,11.7558767,PHC,Functioning,True
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,MDGS MIDLU HC,11.966667,11.756111,Health Clinic,Functioning,True
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,MODEL SHELMI,10.71027778,11.75861111,Health Post,Partially Functioning,True
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,NDALMI HP,9.573888889,11.76083333,PHC,Functioning,True
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,PUBBU HP,8.022214,11.765336,Health Post,Partially Functioning,False
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,RUGUDUM HC,9.30351,11.765643,PHC,Functioning,True
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,SUKUR SAMA PHC,10.88412,11.76641,Health Post,Functioning,True
+Adamawa,Madagali,Shelmi / Sukur/ Vapura,VAPURA HP,10.91772,11.769556,Health Post,Functioning,True
+Adamawa,Madagali,Wagga,CHAKAWA BHC,10.43341,11.77055,Health Clinic,Functioning,True
+Adamawa,Madagali,Wagga,GORI HC,10.43341,11.77055,Health Clinic,Functioning,True
+Adamawa,Madagali,Wagga,TUR HP,12.160435,11.770764,Health Clinic,Functioning,True
+Adamawa,Madagali,Wagga,WAGGA PHC,9.750833333,11.77277778,Health Clinic,Functioning,True
+Adamawa,Madagali,Wagga,ZIDDA HP,12.14783814,11.77457,PHC,Functioning,True
+Adamawa,Madagali,Wula,WULLA PHC,10.66547,11.77601,Health Post,Functioning,True
+Adamawa,Madagali,Wula,,13.0925,11.7792,Health Post,Functioning,True
+Adamawa,Madagali,Wula,,8.650283,11.779777,Health Post,Not Functioning,False
+Adamawa,Maiha,Belel,BELEL PHCC,9.44272197,11.78539214,Health Clinic,Functioning,True
+Adamawa,Maiha,Belel,BUNGEL HC,12.59034437,11.78827,Health Clinic,Not Functioning,True
+Adamawa,Maiha,Belel,JAMTARI HC,12.6809204,11.79158249,Health Clinic,Functioning,True
+Adamawa,Maiha,HUMBUTUDI,HUMBUTUDI PHCC,7.981213,11.794486,Health Post,Not Functioning,False
+Adamawa,Maiha,HUMBUTUDI,KAPULE HC,12.099912,11.796077,Health Post,Functioning,True
+Adamawa,Maiha,HUMBUTUDI,KILANGE HC,9.31244666,11.8017116,PHC,Functioning,True
+Adamawa,Maiha,HUMBUTUDI,LUBUM PHCC,8.033889,11.803016,Health Clinic,Partially Functioning,False
+Adamawa,Maiha,HUMBUTUDI,MBALAGI HC,11.354023,11.807711,PHC,Functioning,True
+Adamawa,Maiha,HUMBUTUDI,VOKNA PHCC,10.55166667,11.81027778,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,KONKOL,KONKOL PHCC,8.621447,11.810328,Health Post,Partially Functioning,False
+Adamawa,Maiha,KONKOL,,12.59422,11.8188016,Health Clinic,Functioning,True
+Adamawa,Maiha,KONKOL,,12.9769,11.8197,Health Post,Partially Functioning,True
+Adamawa,Maiha,KONKOL,MARRABA HC,9.3191766,11.8218083,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,KONKOL,WUROHAMADI HC,9.88641666,11.82371166,Health Post,Not Functioning,True
+Adamawa,Maiha,Maiha Gari,BOKKEN HC,8.623355,11.824765,Health Clinic,Functioning,False
+Adamawa,Maiha,Maiha Gari,JABAJABA HC,12.667756,11.825638,Health Post,Functioning,True
+Adamawa,Maiha,Maiha Gari,LUGGA BABBA PHCC,13.058,11.8263,Health Clinic,Functioning,True
+Adamawa,Maiha,Maiha Gari,MAIHAGARI PHCC,9.625105,11.827985,Health Post,Partially Functioning,True
+Adamawa,Maiha,Maiha Gari,NASSARAWO HC,9.625128,11.8280597,PHC,Functioning,True
+Adamawa,Maiha,MANJEKIN,DAFRA HC,10.38472222,11.83055556,Health Post,Partially Functioning,True
+Adamawa,Maiha,MANJEKIN,HUBBARE HC,9.9871205,11.83114166,Health Post,Functioning,True
+Adamawa,Maiha,MANJEKIN,KWABOON ARDO,11.999722,11.833056,Health Clinic,Functioning,True
+Adamawa,Maiha,MANJEKIN,MANJEKIN PHCC,11.302706,11.833684,Health Post,Functioning,True
+Adamawa,Maiha,MANJEKIN,PAIWAWOL PHCC,9.568767,11.83393,Health Post,Partially Functioning,True
+Adamawa,Maiha,MANJEKIN,SALMAKOLI HC,7.99854,11.834321,Health Post,Partially Functioning,False
+Adamawa,Maiha,MANJEKIN,SALMAMODIBBO HC,8.736388889,11.83694444,PHC,Functioning,True
+Adamawa,Maiha,MANJEKIN,SHUWARE HC,9.085555556,11.83777778,Health Post,Not Functioning,True
+Adamawa,Maiha,MAYONGULI,AMANA CLINIC,11.994167,11.838333,Health Post,Functioning,True
+Adamawa,Maiha,MAYONGULI,BWADE HC,11.705278,11.839444,PHC,Functioning,True
+Adamawa,Maiha,MAYONGULI,COTTAGE HOSPITAL,9.96695526,11.84154666,Health Post,Functioning,True
+Adamawa,Maiha,MAYONGULI,DEDE PHCC,9.60067,11.84326,Health Post,Functioning,True
+Adamawa,Maiha,MAYONGULI,HAMDALLA HP,12.83364,11.843685,Health Post,Functioning,True
+Adamawa,Maiha,MAYONGULI,HUDU HC,10.78659667,11.850075,PHC,Partially Functioning,True
+Adamawa,Maiha,MAYONGULI,LUGDIRA HC,12.9594,11.8519,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,MAYONGULI,MAYONGULI PHCC,9.86678533,11.855685,PHC,Functioning,True
+Adamawa,Maiha,PAKKA,FURAMANE,9.85666666,11.85574166,Health Post,Partially Functioning,True
+Adamawa,Maiha,PAKKA,LCCN HC,11.935833,11.856111,Health Clinic,Functioning,True
+Adamawa,Maiha,PAKKA,MAANE HC,9.6252416,11.8567865,Health Clinic,Functioning,True
+Adamawa,Maiha,PAKKA,PAKKA PHCC,9.3728716,11.8614637,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,PAKKA,PEGIN PHCC,9.251909131,11.86238856,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,Sorau 'A',ELYAZ CLINIC,9.337925,11.8630083,Health Post,Partially Functioning,True
+Adamawa,Maiha,Sorau 'A',KOLWA HC,11.90166667,11.86388889,Health Post,Functioning,True
+Adamawa,Maiha,Sorau 'A',KOWOGOL PHCC,8.83915,11.864643,Health Post,Not Functioning,False
+Adamawa,Maiha,Sorau 'A',WURO GENDE HC,9.567592,11.869007,PHC,Functioning,True
+Adamawa,Maiha,Sorau 'A',WURO LADDE PHCC,9.90832666,11.86936833,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,Sorau 'A',WUROBOKA HC,8.644913,11.87031384,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,Sorau 'B',MAYO VAMDE,12.922641,11.873681,PHC,Partially Functioning,True
+Adamawa,Maiha,Sorau 'B',SORAU PHCC,12.81113256,11.87798308,Health Clinic,Functioning,False
+Adamawa,Maiha,Sorau 'B',,7.91387,11.879025,Health Clinic,Partially Functioning,True
+Adamawa,Maiha,Sorau 'B',WURO MALLUM HC,9.90693833,11.87916999,Health Post,Partially Functioning,True
+Adamawa,Maiha,TAMBAJAM,MAGARA HC,9.40090886,11.87975008,Health Clinic,Functioning,True
+Adamawa,Maiha,TAMBAJAM,TAMBAJAM PHCC,9.5902398,11.8803217,Health Clinic,Functioning,True
+Adamawa,Maiha,TAMBAJAM,,9.59024,11.880322,Health Post,Partially Functioning,True
+Adamawa,Maiha,TAMBAJAM,WURO IYA HC,9.56956,11.881802,PHC,Functioning,True
+Adamawa,Mayo-Belwa,BAJAMA,Bajama PHCC,12.9197,11.8825,Health Post,Functioning,True
+Adamawa,Mayo-Belwa,BAJAMA,Goni HC,8.663382,11.88733,Health Post,Functioning,True
+Adamawa,Mayo-Belwa,BINYERI,Bamfo HC,9.211829,11.88769376,Health Clinic,Partially Functioning,True
+Adamawa,Mayo-Belwa,BINYERI,Binyeri PHCC,9.8425656,11.88980166,Health Post,Functioning,True
+Adamawa,Mayo-Belwa,BINYERI,Gangtang'en PHCC,11.474167,11.890833,Health Post,Functioning,True
+Adamawa,Mayo-Belwa,BINYERI,KOSHIM H/POST,9.072222222,11.89111111,Health Post,Functioning,False
+Adamawa,Mayo-Belwa,BINYERI,UANG PANA H/POST,9.907009867,11.89189999,Health Post,Not Functioning,True
+Adamawa,Mayo-Belwa,GANGFADA,Gambe HC,8.95959,11.895287,PHC,Functioning,True
+Adamawa,Mayo-Belwa,GANGFADA,Gangfada PHCC,9.019265,11.895957,PHC,Functioning,True
+Adamawa,Mayo-Belwa,GANGFADA,Gangsubeni HC,11.10611111,11.89666667,Health Post,Functioning,True
+Adamawa,Mayo-Belwa,GANGFADA,Mbanga HC,8.663365,11.89674,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,GANGFADA,Pola Kanoki HC,9.25804055,11.89744831,PHC,Functioning,True
+Adamawa,Mayo-Belwa,GANGFADA,Pola Sabongari HC,12.58944444,11.89805556,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,GANGFADA,TAKKO,12.793546,11.899335,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,GENGLE,Gengle PHCC,11.986389,11.899722,PHC,Functioning,True
+Adamawa,Mayo-Belwa,GENGLE,Kugama HC,10.00022333,11.89995166,PHC,Functioning,True
+Adamawa,Mayo-Belwa,GENGLE,Tugga PHCC,9.5921501,11.9005358,PHC,Functioning,True
+Adamawa,Mayo-Belwa,GENGLE,Wappa HC,10.70704,11.9014,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,GENGLE,Yandang Karaje HC,10.06833333,11.90222222,PHC,Partially Functioning,False
+Adamawa,Mayo-Belwa,GOROBI,GOROBI,9.88558166,11.90260166,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,GOROBI,LCCN COMMUNITY HEALTH CLINIC,9.30944351,11.90449839,Health Clinic,Partially Functioning,True
+Adamawa,Mayo-Belwa,GOROBI,SAKPANE H/POST,8.82,11.90583333,PHC,Not Functioning,True
+Adamawa,Mayo-Belwa,GOROBI,Ubakka PHCC,9.574722,11.9059784,Health Post,Functioning,True
+Adamawa,Mayo-Belwa,GOROBI,Wakka HC,9.5734226,11.9061046,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,GOROBI,Wateme HC,9.574801,11.91,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,GOROBI,Yelwa PHCC,9.574801,11.906246,PHC,Functioning,True
+Adamawa,Mayo-Belwa,JERENG,BAMBE,9.96796666,11.90885833,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,JERENG,BURA,8.7975,11.90888889,Health Post,Not Functioning,True
+Adamawa,Mayo-Belwa,JERENG,DADORU,11.817778,11.909444,Health Clinic,Not Functioning,True
+Adamawa,Mayo-Belwa,JERENG,DANGSA,9.36295998,11.91014105,PHC,Functioning,True
+Adamawa,Mayo-Belwa,JERENG,GIJARO,8.677262,11.91095,PHC,Functioning,True
+Adamawa,Mayo-Belwa,JERENG,JERENA,11.04861111,11.91388889,PHC,Functioning,True
+Adamawa,Mayo-Belwa,JERENG,JERENG,9.589388,11.914907,PHC,Functioning,True
+Adamawa,Mayo-Belwa,JEYRENG,ZAYONG,8.537312,11.915297,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,MaYOFARANG,G1JARO,11.566078,11.916278,Health Clinic,Partially Functioning,True
+Adamawa,Mayo-Belwa,MaYOFARANG,LAINDE,10.38416667,11.91666667,PHC,Functioning,True
+Adamawa,Mayo-Belwa,MaYOFARANG,MAYOFRANGA,13.10944444,11.9166667,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,MaYOFARANG,MBALGARE,11.7275,11.916944,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,MaYOFARANG,RUMDEGIWA,13.0788,11.9175,Health Clinic,Partially Functioning,True
+Adamawa,Mayo-Belwa,MaYOFARANG,SEBORE,13.0789,11.9175,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,MaYOFARANG,WURO YOMBE,13.0786,11.9177,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,AMINCHI NURSING & MATERNITY,9.5377136,11.9178593,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,COTTAGE HOSPITAL,9.5577141,11.91787,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,J.TAFFIR BABADA DISPENSARY,9.5577141,11.91787,Health Clinic,Not Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,JAWAB CLINIC,9.587714,11.91787,PHC,Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,KOWA CLINIC,9.587714,11.91787,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,MaRKET CLINIC,12887665,11.918195,Hospital,Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,Mayo Belwa PHCC,9.588372,11.918583,PHC,Functioning,False
+Adamawa,Mayo-Belwa,MBILLA,Mayo Sanganare HC,9.588372,11.918583,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,MBILLA,9.588372,11.918583,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,Sabongari Tike Hc,9.90188333,11.9192335,Health Post,Not Functioning,True
+Adamawa,Mayo-Belwa,MBILLA,Township  PHCC,9.824987,11.920445,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,Dalehi HC,11.736111,11.921944,Hospital,Partially Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,Douleggal HC,11.990833,11.922222,IDP Clinic,Functioning,False
+Adamawa,Mayo-Belwa,NDIKONG,Garu HC,8.72158,11.923872,PHC,Partially Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,Jumtobe PHCC,8.7675,11.92555556,Health Clinic,Not Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,,9.800299,11.927558,PHC,Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,KAURAME,12.898345,11.9281133,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,Ndikong PHCC,10.42471,11.92902,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,POLE WARE HEALTH CLINIC,9.90779666,11.92909666,PHC,Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,Sindigawo HC,9.90860166,11.93108333,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,NDIKONG,Wuro Yombe HC,9.856355,11.932202,PHC,Functioning,True
+Adamawa,Mayo-Belwa,Ribadu,Labbare PHCC,9.96761666,11.93318833,Health Post,Functioning,True
+Adamawa,Mayo-Belwa,Ribadu,Ribadu PHCC,11.503353,11.933424,PHC,Functioning,True
+Adamawa,Mayo-Belwa,Ribadu,Yolde Gubudo HC,11.503353,11.933424,PHC,Functioning,True
+Adamawa,Mayo-Belwa,TOLA,DEJJA H/POST,11.663333,11.936111,IDP Clinic,Partially Functioning,True
+Adamawa,Mayo-Belwa,TOLA,Gangwaso PHCC,11.3353946,11.938802,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,TOLA,MUNSHI H/POST,9.38543296,11.93889341,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,TOLA,Tola Jabu HC,9.81219,11.940101,Health Clinic,Partially Functioning,True
+Adamawa,Mayo-Belwa,TOLA,Tola PHCC,9.91881666,11.94047517,Hospital,Functioning,False
+Adamawa,Mayo-Belwa,YOFFO,Binkola PHCC,8.542733,11.945197,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,YOFFO,Chukkol PHCC,11.776667,11.945278,Health Clinic,Not Functioning,False
+Adamawa,Mayo-Belwa,YOFFO,Mbella HC,12.5817106,11.945684,Health Clinic,Functioning,True
+Adamawa,Mayo-Belwa,YOFFO,NYAKAKAWA H/POST,8.485278,11.945957,Health Post,Partially Functioning,True
+Adamawa,Mayo-Belwa,YOFFO,Yoffo HC,9.823968,11.946395,Health Post,Partially Functioning,True
+Adamawa,Michika,BAKIN KASUWA,MAIN MARKET,11.680833,11.947778,Health Clinic,Functioning,False
+Adamawa,Michika,Bazza Margi,Bazza Town PHCC,9.5463162,11.9481513,Health Clinic,Functioning,True
+Adamawa,Michika,Bazza Margi,BIANG,9.90915166,11.9487625,Health Clinic,Functioning,True
+Adamawa,Michika,Futudou / Futules,DIBIKE HP,9.850555556,11.94916667,Health Post,Functioning,False
+Adamawa,Michika,Futudou / Futules,FUTU,12.5933724,11.95008,Health Post,Functioning,True
+Adamawa,Michika,Futudou / Futules,FUTUDOU,11.748889,11.951111,PHC,Functioning,True
+Adamawa,Michika,Futudou / Futules,HIMIKEDOU HC,8.843583,11.95541,Health Post,Functioning,True
+Adamawa,Michika,GARTA / GHUNCHI,GARTA KASSA HC,11.728333,11.955556,Hospital,Functioning,True
+Adamawa,Michika,GARTA / GHUNCHI,GARTA PHCC,11.763333,11.955556,Hospital,Functioning,True
+Adamawa,Michika,GARTA / GHUNCHI,GHUMCH  HP,9.003792,11.956457,PHC,Functioning,True
+Adamawa,Michika,GARTA / GHUNCHI,HYELIMI HC,11.736389,11.956944,Health Post,Not Functioning,True
+Adamawa,Michika,GARTA / GHUNCHI,MBORORO HC,11.704444,11.958611,Health Clinic,Functioning,True
+Adamawa,Michika,INAMBILIMI,WAMBILIM PHCC,11.737778,11.958611,PHC,Not Functioning,True
+Adamawa,Michika,Jigalambu,JiGALAMBU PHCCgalmbu FMHC,9.91799333,11.95908833,PHC,Functioning,True
+Adamawa,Michika,Jigalambu,KAN KILIA,11.755,11.96,Health Clinic,Functioning,True
+Adamawa,Michika,Jigalambu,MANJI CLINIC,9.98485666,11.96057333,Health Clinic,Functioning,True
+Adamawa,Michika,Jigalambu,TUUNWAD HC,9.82239,11.960663,Health Clinic,Not Functioning,True
+Adamawa,Michika,Madzi,Blashafa PHCC,11.754167,11.960833,Health Clinic,Functioning,True
+Adamawa,Michika,Madzi,Kuburshosho FMHC,9.8235562,11.96102,Health Clinic,Functioning,True
+Adamawa,Michika,Madzi,WATA HP,9.823562,11.96102,Health Clinic,Not Functioning,True
+Adamawa,Michika,MAIZY,KWAGHE ALBARKACHIRI AND MATERNITY,9.823562,11.96102,Health Clinic,Functioning,True
+Adamawa,Michika,Michika  II,GENERAL HOSPITAL MICHIKA,11.750556,11.962222,Health Clinic,Not Functioning,False
+Adamawa,Michika,Michika  II,JOHN GOLI HC,11.748611,11.9625,Health Clinic,Functioning,True
+Adamawa,Michika,Michika  II,MICHIKA MATERNITY,11.736944,11.962778,Health Clinic,Functioning,True
+Adamawa,Michika,Michika  II,TAMAWA CLINIC,11.746944,11.963056,PHC,Functioning,True
+Adamawa,Michika,MiCHIKA 1,KOFAN SARKI,9.790988,11.963075,Health Clinic,Functioning,True
+Adamawa,Michika,MiCHIKA 1,MICHIKATOWO PHCC,9.91103666,11.96393166,Health Post,Functioning,True
+Adamawa,Michika,Minkisi/ Wuro Ngiki,DRIGIMI HC,11.745278,11.966111,PHC,Functioning,True
+Adamawa,Michika,Minkisi/ Wuro Ngiki,LIDLE HP,11.966389,11.966389,Health Post,Functioning,True
+Adamawa,Michika,Minkisi/ Wuro Ngiki,Minkisi PHCC,8.766111111,11.96861111,PHC,Functioning,True
+Adamawa,Michika,MIODA / DLARA,MODA  PHCC,11.739444,11.968889,Health Clinic,Functioning,True
+Adamawa,Michika,MKICHIKA 1,ABUSA CLINIC AND MATERNITY,9.706838,11.969155,PHC,Functioning,True
+Adamawa,Michika,Moda / Dlaka / Ghenjuwa,DLAKA HP,8.908942,11.97,Health Post,Functioning,True
+Adamawa,Michika,Moda / Dlaka / Ghenjuwa,SHADA NURSING HOME,10.02872833,11.97172,PHC,Functioning,True
+Adamawa,Michika,MUNKAVICITA,MUNI HC,12.275278,11.974722,Health Post,Not Functioning,True
+Adamawa,Michika,MUNNKAFACHITTA,NKAFAMIYA PHCC,9.91372833,11.97545333,Health Post,Not Functioning,True
+Adamawa,Michika,SINA KAMALE,E HP,9.649166667,11.9775,PHC,Functioning,True
+Adamawa,Michika,SINA KAMALE,KAMALE PHCC,11.756944,11.978056,IDP Clinic,Partially Functioning,True
+Adamawa,Michika,SINA KAMALE,NYIBURI HEALTH POST,8.498367,11.978625,PHC,Functioning,True
+Adamawa,Michika,SINA KAMALE,SINA - GALI HC,9.048154,11.981049,Health Post,Not Functioning,False
+Adamawa,Michika,SINA KAMALE,SINAKWANDE,11.7475,11.984167,Health Clinic,Functioning,True
+Adamawa,Michika,SINA KAMALE,SINAMALLA,9.687777778,11.98722222,PHC,Functioning,True
+Adamawa,Michika,Sukumu / Tillijo,Tsukumu PHCC,8.462003,11.988572,Health Post,Partially Functioning,True
+Adamawa,Michika,T / NGABILI,KELE HP,9.643611111,11.98972222,Health Post,Functioning,True
+Adamawa,Michika,TSUKUMA / TILIJO,KUDZUME HC,9.956944444,11.99027778,PHC,Functioning,True
+Adamawa,Michika,TSUKUMA / TILIJO,KUDZUMI HC,8.109053,11.991084,Health Post,Functioning,False
+Adamawa,Michika,TSUKUMA / TILIJO,SANTAMARIYA,8.018084,11.991369,Health Post,Not Functioning,False
+Adamawa,Michika,TSUKUMA / TILIJO,WATSILA,9.431965,11.991423,Health Post,Not Functioning,False
+Adamawa,Michika,TSUKUMA / TILIJO,WUMMU HP,9.28661629,11.99197125,Health Post,Partially Functioning,True
+Adamawa,Michika,Tumbara / Ngabili,Dzurok PHCC,9.28661629,11.99197125,PHC,Functioning,True
+Adamawa,Michika,Tumbara / Ngabili,KWABAPALE PHCC,11.99,11.993611,Health Post,Functioning,True
+Adamawa,Michika,Tumbara / Ngabili,KWALIA,9.4117018,11.99450417,Health Post,Functioning,True
+Adamawa,Michika,VIH/BOKKA,BOKKA PHCC,9.39383611,11.99456072,PHC,Functioning,True
+Adamawa,Michika,VIH/BOKKA,KHOURO PHCC,11.983333,11.994722,Health Post,Not Functioning,True
+Adamawa,Michika,VIH/BOKKA,SHAFFA H/ POST,9.688333333,11.995,Health Post,Functioning,True
+Adamawa,Michika,VIH/BOKKA,TILIJO HC,11.988333,11.996111,Health Post,Functioning,True
+Adamawa,Michika,VIH/BOKKA,VIH HC,11.458611,11.999722,Health Post,Functioning,True
+Adamawa,Michika,Wamblimi / Tilli,BOKKU HC,11.550833,11.999722,Health Post,Functioning,True
+Adamawa,Michika,Wamblimi / Tilli,TILLI HC,11.280905,12.00141,Health Post,Partially Functioning,True
+Adamawa,Michika,ZAH,GRITEA,11.276864,12.002983,Health Post,Partially Functioning,True
+Adamawa,Michika,ZAH,KALI  HC,9.6825,12.00333333,PHC,Functioning,True
+Adamawa,Michika,ZAH,KARA ZAH HC,8.911398,12.00454,PHC,Functioning,True
+Adamawa,Michika,ZAH,ZAH,8.564008,12.005232,PHC,Partially Functioning,True
+Adamawa,Michika,ZAH,Zah Greatea PHCC,11.261084,12.005964,Hospital,Not Functioning,False
+Adamawa,Mubi North,BAHULI,BAHULI HC,10.5776,12.00628,Health Post,Not Functioning,False
+Adamawa,Mubi North,BAHULI,BAHULI PHCC,13.0244,12.0069,Health Clinic,Partially Functioning,True
+Adamawa,Mubi North,BAHULI,BOURHA VAMNGO PHCC,8.092485,12.007312,Health Post,Not Functioning,False
+Adamawa,Mubi North,BAHULI,MADUGUVA PHCC,9.895277778,12.0075,PHC,Functioning,True
+Adamawa,Mubi North,BETSO,BESTO PHCC,9.017032,12.009158,Health Clinic,Functioning,True
+Adamawa,Mubi North,BETSO,BETSO MANGO HC,9.529225,12.009178,Health Post,Partially Functioning,True
+Adamawa,Mubi North,BETSO,KWA PHCC,10.43238,12.01085,Health Post,Partially Functioning,True
+Adamawa,Mubi North,BETSO,MAUZIL HC,8.17791,12.01098,Health Post,Partially Functioning,False
+Adamawa,Mubi North,BETSO,SUZUWA PHCC,11.736667,12.011667,Health Clinic,Functioning,False
+Adamawa,Mubi North,BETSO,WAMIZHILI HC,8.443072,12.011863,PHC,Functioning,True
+Adamawa,Mubi North,BETSO,WUMMU HC,12.8588575,12.0121681,Health Clinic,Functioning,True
+Adamawa,Mubi North,DIGIL,DIDIF PHC,9.56018,12.012697,PHC,Functioning,True
+Adamawa,Mubi North,DIGIL,DIGIL HC,9.890833333,12.01305556,Health Post,Functioning,True
+Adamawa,Mubi North,DIGIL,DIGIL PHCC,10.067778,12.015,Health Post,Partially Functioning,True
+Adamawa,Mubi North,DIGIL,WURO HANDE HC,9.672777778,12.01555556,Health Post,Functioning,True
+Adamawa,Mubi North,DIGIL,YAZA PHCC,9.530625,12.01697,Health Post,Partially Functioning,True
+Adamawa,Mubi North,KOLERE,KOLERE PHCC,9.530625,12.01697,Health Clinic,Partially Functioning,True
+Adamawa,Mubi North,LOKUWA,ADSU  MEDICAL  CENT,8.12438,12.017017,Health Clinic,Partially Functioning,True
+Adamawa,Mubi North,LOKUWA,BAFA HC,9.48636,12.017197,PHC,Functioning,True
+Adamawa,Mubi North,LOKUWA,COLLEGE OF HEALTH CL.,9.699166667,12.01805556,Health Post,Partially Functioning,True
+Adamawa,Mubi North,LOKUWA,DIVINE,9.52041,12.018102,PHC,Functioning,True
+Adamawa,Mubi North,LOKUWA,FED. POLY. CLINIC,8.8175,12.01888889,PHC,Functioning,True
+Adamawa,Mubi North,LOKUWA,GTSS MUBI,9.885,12.02027778,Health Post,Not Functioning,False
+Adamawa,Mubi North,LOKUWA,WURO GUDE PHCC,10.02305556,12.02027778,PHC,Partially Functioning,True
+Adamawa,Mubi North,LOKWUWA,GSS MUBI HC,10775476,12.02071,Health Clinic,Functioning,True
+Adamawa,Mubi North,LOKWUWA,LOKWUWA PHCC,9.900833333,12.02277778,Health Post,Functioning,True
+Adamawa,Mubi North,LOKWUWA,UBANDOMA DISP,9.447667,12.02348,Health Post,Partially Functioning,True
+Adamawa,Mubi North,MAYO BANI,KOTIRDE PHCC,9.884444444,12.02361111,PHC,Functioning,True
+Adamawa,Mubi North,MAYO BANI,MUVA PHCC,9.46325377,12.02441957,PHC,Functioning,True
+Adamawa,Mubi North,MIJILU,EYN  DISPENSARY  GADZA,9.882222222,12.02472222,Health Post,Functioning,True
+Adamawa,Mubi North,MIJILU,GEMBULA HC,9.46734831,12.02576871,Health Post,Functioning,True
+Adamawa,Mubi North,MIJILU,KIRYA HC,11.208962,12.02757,Health Clinic,Functioning,True
+Adamawa,Mubi North,MIJILU,KWATALA CBBI CLINIC,9.461765,12.028363,PHC,Functioning,True
+Adamawa,Mubi North,MIJILU,MIJILU PHCC,9.046493,12.028578,Health Post,Functioning,False
+Adamawa,Mubi North,MIJILU,MIZA PHCC,9.694722222,12.02861111,PHC,Functioning,True
+Adamawa,Mubi North,MIJILU,MUKTA HC,9.470847,12.029507,Health Post,Partially Functioning,True
+Adamawa,Mubi North,MUCHALLA,BAGIRA PHCC,9.459823,12.029965,PHC,Functioning,True
+Adamawa,Mubi North,MUCHALLA,CDM  HC LIRA JILVU,9.9675,12.03027778,PHC,Functioning,True
+Adamawa,Mubi North,MUCHALLA,FMHC MUCHALLA,9.46580615,12.03073089,Health Clinic,Functioning,True
+Adamawa,Mubi North,MUCHALLA,GOVA HC,9.45245,12.030947,PHC,Functioning,True
+Adamawa,Mubi North,MUCHALLA,JILVU PHCC,9.467757,12.031828,Health Clinic,Partially Functioning,True
+Adamawa,Mubi North,MUCHALLA,MUCHALLA DISPENSARY,9.466833,12.032437,PHC,Functioning,True
+Adamawa,Mubi North,MUCHALLA,MUCHALLA HC,12.9869,12.0328,Health Clinic,Functioning,True
+Adamawa,Mubi North,MUCHALLA,MUVUR HC,9.46842707,12.0329016,PHC,Partially Functioning,True
+Adamawa,Mubi North,MUCHALLA,NAKOWA NURSING & MATERNITY HOME,9.46842707,12.0329016,Hospital,Functioning,True
+Adamawa,Mubi North,NAYO BANI,NAYO BANI PHCC,9.4530419,12.0330938,PHC,Functioning,True
+Adamawa,Mubi North,SABON LAYI,RAMADAN DISPENSARY,8.4377522,12.033101,PHC,Functioning,True
+Adamawa,Mubi North,SABON LAYI,SABON LAYI PHCC,8.1895383,12.033353,PHC,Partially Functioning,False
+Adamawa,Mubi North,SABON LAYI,WURO ALKALI PHCC,9.46235,12.033533,PHC,Functioning,True
+Adamawa,Mubi North,VIMTIM,BAPTIST HIGH SCH. CLINIC,9.457437,12.033818,Health Post,Partially Functioning,True
+Adamawa,Mubi North,VIMTIM,GSS VIMTIM CLINIC,11.034982,12.035661,Health Post,Not Functioning,False
+Adamawa,Mubi North,VIMTIM,NAKOWA HC,8.105452,12.036205,Health Post,Partially Functioning,False
+Adamawa,Mubi North,VIMTIM,RIBAWO HC,9.459243,12.03646,PHC,Functioning,True
+Adamawa,Mubi North,VIMTIM,SATAM HANATU MEMORIAL CLINIC,9.462663,12.036695,PHC,Partially Functioning,True
+Adamawa,Mubi North,VIMTIM,VIMTIM PHCC,9.44658295,12.03722469,Health Clinic,Functioning,True
+Adamawa,Mubi North,VUMTUM,DUDA HC,9.007108,12.038425,PHC,Functioning,True
+Adamawa,Mubi North,WURU JABIR,AL - AMIN DISP,8.12159,12.040392,Health Post,Partially Functioning,False
+Adamawa,Mubi North,YELWA,BASIRA CLINIC,8.189975,12.040897,Health Post,Partially Functioning,False
+Adamawa,Mubi North,YELWA,DAZALA HP,9.859722222,12.04111111,Health Post,Partially Functioning,True
+Adamawa,Mubi North,YELWA,KOCHIFA PHCC,8.175658,12.041942,Health Post,Partially Functioning,True
+Adamawa,Mubi North,YELWA,NEW MARKET PHCC,8.125943,12.043776,PHC,Partially Functioning,True
+Adamawa,Mubi North,YELWA,SAMUNAKA H/POST,8.146328,12.044583,Health Clinic,Partially Functioning,False
+Adamawa,Mubi South,Dirbishi/Gandira,DIRBISHI PHCC,9.45782431,12.04473492,Health Post,Partially Functioning,True
+Adamawa,Mubi South,Dirbishi/Gandira,GANDRA H/C,9.941944444,12.045,PHC,Functioning,True
+Adamawa,Mubi South,Duvu/ Chaba/ Girburum,DUVU PHCC,8.121464,12.045955,Health Post,Partially Functioning,True
+Adamawa,Mubi South,Duvu/ Chaba/ Girburum,GIRBURUM PHCC,9.45208409,12.04651772,PHC,Functioning,True
+Adamawa,Mubi South,GELLA,GELLA PHCC,8.435929,12.0476,Health Post,Partially Functioning,True
+Adamawa,Mubi South,GELLA,MALLUHA PHCC,8.435929,12.0476,PHC,Functioning,True
+Adamawa,Mubi South,GUDE,GUDE PHCC,8.4363321,12.0476756,Health Post,Partially Functioning,True
+Adamawa,Mubi South,GUDE,MONDUVA PHCC,8.111813,12.048033,Health Post,Partially Functioning,False
+Adamawa,Mubi South,GUDE,,8.111593,12.048218,Health Post,Partially Functioning,False
+Adamawa,Mubi South,GUDE,NGAVAHI PHCC,9.968056,12.04833,PHC,Functioning,True
+Adamawa,Mubi South,GUDE,WURO PATUJI PHCC,8.151892,12.04921,Health Clinic,Partially Functioning,True
+Adamawa,Mubi South,KWAJA,KINGA H/P,10.58651,12.0502,Health Post,Partially Functioning,False
+Adamawa,Mubi South,KWAJA,KISSA,9.180277778,12.05138889,Health Post,Not Functioning,False
+Adamawa,Mubi South,KWAJA,KWAJA PHCC,9.633888889,12.05138889,Health Post,Partially Functioning,True
+Adamawa,Mubi South,LAMORDE,ARAHAN KUNU PHCC,9.059938,12.053323,PHC,Partially Functioning,True
+Adamawa,Mubi South,LAMORDE,ASAAL NURSING HOME,9.772777778,12.05444444,Health Post,Functioning,True
+Adamawa,Mubi South,LAMORDE,BEKAY CLINIC,10.97298,12.0547,Health Post,Partially Functioning,False
+Adamawa,Mubi South,LAMORDE,ECOGET CLINIC,8.4384008,12.0552264,PHC,Partially Functioning,True
+Adamawa,Mubi South,LAMORDE,GAYA H/POST,9.54095739,12.05553432,Health Clinic,Functioning,True
+Adamawa,Mubi South,LAMORDE,LAMURDE PHCC,9.803333333,12.05555556,Health Post,Partially Functioning,True
+Adamawa,Mubi South,MUDARA,BAGUNA H/C,10.00777778,12.05555556,PHC,Functioning,True
+Adamawa,Mubi South,MUDARA,YEWA H/CLINIC,9.790555556,12.05666667,PHC,Functioning,True
+Adamawa,Mubi South,Mugulbu/ Yadafa,CHAKAMAJE H/C,9.0506,12.056908,PHC,Functioning,True
+Adamawa,Mubi South,Mugulbu/ Yadafa,MUDA PHCC,9.055407,12.058195,Health Clinic,Functioning,True
+Adamawa,Mubi South,Mugulbu/ Yadafa,MUGULBU PHCC,11.642222,12.058333,Health Clinic,Functioning,True
+Adamawa,Mubi South,Mugulbu/ Yadafa,SAHUDA PHCC,8.4372921,12.0584394,Hospital,Functioning,True
+Adamawa,Mubi South,Mugulbu/ Yadafa,YADAFA H/POST,9.056778,12.060263,Health Clinic,Functioning,True
+Adamawa,Mubi South,MUJARA,MUJARA PHCC,8.951765,12.061633,PHC,Functioning,True
+Adamawa,Mubi South,NASSARAWO,ALUMMA CLINIC,9.058107,12.061972,Health Clinic,Partially Functioning,False
+Adamawa,Mubi South,NASSARAWO,BISHOP T. COTTER MEMORIAL H/C,9.454896,12.0621816,PHC,Partially Functioning,True
+Adamawa,Mubi South,NASSARAWO,DIVINE NURSING HOME,9.05673,12.063103,PHC,Not Functioning,False
+Adamawa,Mubi South,NASSARAWO,GENERAL HOSPITAL,8.2868024,12.0637359,PHC,Functioning,True
+Adamawa,Mubi South,NASSARAWO,Nassarawo PHCC,9.551111111,12.06388889,Hospital,Functioning,True
+Adamawa,Mubi South,NASSARAWO,WURO BULUDE /HP,9.915277778,12.06722222,Health Post,Partially Functioning,False
+Adamawa,Mubi South,NDUKU,AIWA HC,10.53472222,12.06722222,PHC,Functioning,True
+Adamawa,Mubi South,NDUKU,DUBU-DUBU PHCC,12.62722222,12.0675,Health Clinic,Functioning,True
+Adamawa,Mubi South,NDUKU,KAGII PHCC,9.068333333,12.06833333,Health Clinic,Partially Functioning,True
+Adamawa,Mubi South,NDUKU,KWADANKIN,8.877368,12.070267,PHC,Functioning,True
+Adamawa,Mubi South,NDUKU,NDUKU HC,9.978055556,12.07305556,Health Post,Partially Functioning,True
+Adamawa,Mubi South,NDUKU,TSARANYI HP,9.084482,12.074577,Health Clinic,Partially Functioning,True
+Adamawa,Numan,BARE,BARE PHCC,9.433578,12.075115,PHC,Functioning,True
+Adamawa,Numan,BARE,UBADONMA HP,9.02117,12.07833,Health Clinic,Partially Functioning,True
+Adamawa,Numan,BOLKI,BANG HEALTH POST,9.358776,12.0783716,Health Post,Partially Functioning,True
+Adamawa,Numan,BOLKI,BOLKI HEALTH CLINIC,9.6675,12.07916667,PHC,Functioning,True
+Adamawa,Numan,BOLKI,KEGBALI HEALTH POST,9.861666667,12.08027778,PHC,Functioning,True
+Adamawa,Numan,BOLKI,NZUMOSU PHCC,9.846111111,12.08111111,Health Post,Functioning,True
+Adamawa,Numan,BOLKI,YANGA HEALTH CENTER,11.575515,12.083396,Health Post,Not Functioning,False
+Adamawa,Numan,GAMADIO,GAMADIO PHCC,10.35083333,12.08416667,PHC,Functioning,True
+Adamawa,Numan,GAMADIO,TUNGA LADAN HC,10.90566,12.08567,Health Clinic,Functioning,True
+Adamawa,Numan,IMBURU,IMBURU PHCC,13.1158,12.0875,Health Clinic,Partially Functioning,False
+Adamawa,Numan,IMBURU,J RAPHA,8.894897,12.0882117,Health Post,Functioning,True
+Adamawa,Numan,IMBURU,KWAPUKAI HC,9.461708,12.08944,PHC,Functioning,True
+Adamawa,Numan,IMBURU,NGBALANG PHCC,12.82666667,12.08944444,Health Clinic,Functioning,True
+Adamawa,Numan,IMBURU,ZAGUN PHCC,9.8775,12.08972222,Health Post,Partially Functioning,True
+Adamawa,Numan,KODOMTI,BYEMTI HEALTH POST,10.72161,12.09355,Health Post,Partially Functioning,True
+Adamawa,Numan,KODOMTI,KIKON HC,9.231944444,12.09472222,Health Post,Not Functioning,True
+Adamawa,Numan,KODOMTI,KODOMTI HEALTH CLINIC,8.217483,12.095273,Health Clinic,Not Functioning,False
+Adamawa,Numan,KODOMTI,NZURUWE  HC,9.686666667,12.09833333,PHC,Functioning,True
+Adamawa,Numan,KODOMTI,SHAFORON PHCC,10.05222222,12.09888889,Health Post,Partially Functioning,True
+Adamawa,Numan,NUMAN I,BAMTATO PHCC,9.3391667,12.100277,Health Post,Functioning,True
+Adamawa,Numan,NUMAN I,TUDUN WADA,8.1181016,12.10048,Health Clinic,Partially Functioning,False
+Adamawa,Numan,NUMAN II,LUTHER CARE HC,9.802777778,12.10222222,Health Post,Partially Functioning,True
+Adamawa,Numan,NUMAN II,PARE PHCC,9.814166667,12.1025,PHC,Functioning,True
+Adamawa,Numan,NUMAN II,WODI SAKATO HEALTH POST,8.4436,12.1027,PHC,Partially Functioning,True
+Adamawa,Numan,NUMAN II,ZABARMA HEALTH POST,10.61902,12.10334,Health Clinic,Functioning,True
+Adamawa,Numan,NUMAN III,MAKERA PHCC,13.0942,12.1036,Hospital,Not Functioning,True
+Adamawa,Numan,NUMAN III,PILO TARA,13.0941,12.1039,Health Post,Partially Functioning,True
+Adamawa,Numan,NUMAN III,SHEKINAH H CENTER,13.0991,12.1042,Health Clinic,Functioning,True
+Adamawa,Numan,SABON PEGI,BASHA HC,10.60538,12.10554,Health Post,Functioning,True
+Adamawa,Numan,SABON PEGI,DOWAYA,8.442882,12.107123,PHC,Functioning,True
+Adamawa,Numan,SABON PEGI,GWEDA MALAN PHCC,10.11194444,12.1077778,Health Clinic,Not Functioning,True
+Adamawa,Numan,SABON PEGI,LCCN MISSION,9.50028,12.109205,PHC,Functioning,True
+Adamawa,Numan,SABON PEGI,MCH NUMAN,8.510241,12.110261,Health Post,Partially Functioning,False
+Adamawa,Numan,SABON PEGI,NUMAN GENERAL HOSPITAL,8.201147,12.1110121,Health Post,Partially Functioning,True
+Adamawa,Numan,SABON PEGI,SABON PEGI PHCC,8.909652,12.111248,Health Clinic,Functioning,True
+Adamawa,Numan,SABON PEGI,WAYAM HC,9.445995,12.11559515,Health Post,Partially Functioning,True
+Adamawa,Numan,SABON PEGI,WISDOM,9.3266667,12.11611111,Health Post,Functioning,False
+Adamawa,Numan,VULPI,GBALAPUNG HC,8.43368,12.118382,Health Post,Not Functioning,False
+Adamawa,Numan,VULPI,SALTI HEALTH CLINIC,8.77569,12.119483,Health Clinic,Functioning,True
+Adamawa,Numan,VULPI,VULPI PHCC,9.735,12.12305556,Health Post,Partially Functioning,True
+Adamawa,Shelleng,Bakta,BAKTA  PHCC,8.2304933,12.1245733,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Bakta,JUMBO HP,9.492476,12.12558667,Health Clinic,Functioning,True
+Adamawa,Shelleng,Bakta,PUPAH HP,9.57508228,12.12617242,Health Post,Not Functioning,False
+Adamawa,Shelleng,Bodwai,BODWAI HC,11.11964,12.1273503,Health Post,Functioning,True
+Adamawa,Shelleng,Bodwai,Bolama HP,10.65345,12.12751,Health Post,Partially Functioning,True
+Adamawa,Shelleng,Bodwai,Gwakta HP,9.8825,12.13138889,PHC,Functioning,True
+Adamawa,Shelleng,Bodwai,JALINGO HP,8.451985,12.131632,Health Post,Partially Functioning,True
+Adamawa,Shelleng,Bodwai,RIWIRIWI HP,9.2922222,12.1344444,Health Clinic,Functioning,True
+Adamawa,Shelleng,Gundo,BOBERE HC,10.20055556,12.13583333,PHC,Functioning,True
+Adamawa,Shelleng,Gundo,DASO-FULANI HP,9.697222,12.136389,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Gundo,GUNDO HC,9.4275216,12.1374016,PHC,Functioning,True
+Adamawa,Shelleng,Gundo,KEM MCH,8.2511433,12.139417,Health Post,Not Functioning,False
+Adamawa,Shelleng,Gundo,Kurungu HP,10.47947,12.14034,Health Post,Not Functioning,False
+Adamawa,Shelleng,Gundo,LABABIRI HP,9.66694,12.141389,Health Post,Partially Functioning,True
+Adamawa,Shelleng,Gwapopolok,GWAPOPOLOK HC,9.4292183,12.1436983,Health Post,Functioning,True
+Adamawa,Shelleng,Gwapopolok,KARLAJE PHCC,9.43459064,12.1447014,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Gwapopolok,KONGMA HC,9.4346189,12.14495053,Health Clinic,Partially Functioning,False
+Adamawa,Shelleng,Gwapopolok,Nafada HC,10.72651,12.1453,Health Clinic,Functioning,True
+Adamawa,Shelleng,Jumbul,BIRABIRA HC,10.72949,12.145578,Health Post,Not Functioning,False
+Adamawa,Shelleng,Jumbul,DONGE HC,8.210666,12.146078,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Jumbul,GOMBEYEL HC,9.55842442,12.14651877,Health Post,Functioning,True
+Adamawa,Shelleng,Jumbul,JAMALI PHCC,10.43008,12.14766,Health Post,Partially Functioning,True
+Adamawa,Shelleng,Jumbul,KULA MCH,9.4543366,12.1515783,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Jumbul,YORRONG HC,9.42196491,12.15334705,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Ketembere,BARATA HC,8.200846,12.158788,Health Post,Not Functioning,False
+Adamawa,Shelleng,Ketembere,GONDONG HC,10.67807,12.15908,Health Clinic,Functioning,True
+Adamawa,Shelleng,Ketembere,KETEMBERE PHCC,9.53727916,12.15944008,PHC,Functioning,True
+Adamawa,Shelleng,Ketembere,LABAU HC,9.395202,12.161165,Health Clinic,Functioning,True
+Adamawa,Shelleng,Kiri,KIRI MCH,8.466259,12.163597,Health Post,Not Functioning,True
+Adamawa,Shelleng,Kiri,KIRI PHCC,8.466259,12.163597,Health Clinic,Functioning,True
+Adamawa,Shelleng,Kiri,LCCN REKI HP,10.25305556,12.16388889,Health Post,Partially Functioning,True
+Adamawa,Shelleng,Kiri,SENIOR CAMP,9.818611111,12.16472222,Health Post,Not Functioning,True
+Adamawa,Shelleng,Libbo,DUMBURI HP,8.3651,12.17,Health Post,Partially Functioning,False
+Adamawa,Shelleng,Libbo,JABI HP,9.5044,12.1715,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Libbo,KAMBILAM HP,9.851388889,12.17166667,PHC,Functioning,True
+Adamawa,Shelleng,Libbo,KATE HP,9.02716,12.17176,PHC,Partially Functioning,True
+Adamawa,Shelleng,Libbo,WUROYANKA PHCC,9.004618,12.171993,Health Post,Functioning,True
+Adamawa,Shelleng,Shelleng,AYEBOI HP,9.004618,12.171993,Health Post,Functioning,True
+Adamawa,Shelleng,Shelleng,DALWA PHCC,8.969015,12.172007,Health Post,Not Functioning,False
+Adamawa,Shelleng,Shelleng,Gadam Health Post,9.541333,12.172885,Hospital,Functioning,True
+Adamawa,Shelleng,Shelleng,SHELLENG NYSC Clinic,9.497,12.1735,Health Post,Not Functioning,False
+Adamawa,Shelleng,Shelleng,SHELLENG TOWN CLINIC,9.45703,12.1742313,Health Clinic,Partially Functioning,True
+Adamawa,Shelleng,Shelleng,Tetek Health Post,9.707222222,12.175,PHC,Functioning,True
+Adamawa,Shelleng,Tallum,GWAGARAP PHCC,8.455,12.178,Health Post,Partially Functioning,False
+Adamawa,Shelleng,Tallum,KULA DUTSE HP,9.5377216,12.1780866,PHC,Functioning,True
+Adamawa,Shelleng,Tallum,TALUM HP,9.62090141,12.18146689,Health Post,Not Functioning,False
+Adamawa,Shelleng,Tallum,WURO LADDE HP,10.61523,12.18163,IDP Clinic,Functioning,True
+Adamawa,Song,Dirma,BATUM,10.61506,12.18194,IDP Clinic,Functioning,True
+Adamawa,Song,Dirma,BOTTA,9.2922,12.1821,PHC,Functioning,True
+Adamawa,Song,Dirma,BWARA DISPENSARY,11.742778,12.182222,PHC,Functioning,True
+Adamawa,Song,Dirma,DIRMA PHCC,9.51391411,12.18264127,Health Post,Not Functioning,False
+Adamawa,Song,Dirma,DOMBI,9.56267161,12.18290203,Health Post,Partially Functioning,False
+Adamawa,Song,Dirma,SHIURE,9.363672,12.182938,PHC,Functioning,False
+Adamawa,Song,Dumne,BAKKA,8.2264533,12.183045,Health Post,Not Functioning,False
+Adamawa,Song,Dumne,DUMNE LCCN,9.273055556,12.18527778,Health Clinic,Partially Functioning,True
+Adamawa,Song,Dumne,DUMNE PHCC,11.744722,12.188333,IDP Clinic,Functioning,True
+Adamawa,Song,Dumne,DUMNE T DISPENSARY,8.589252,12.1917321,PHC,Functioning,True
+Adamawa,Song,Dumne,HOMBO HC,9.51129021,12.19239782,PHC,Functioning,True
+Adamawa,Song,Dumne,HOPE DISPENSARY,8.590097,12.194206,Health Clinic,Functioning,True
+Adamawa,Song,Dumne,KALPENGE HC,8.38,12.1948,Health Post,Not Functioning,False
+Adamawa,Song,Dumne,PULLE YNK HC,9.60829014,12.19538423,PHC,Functioning,True
+Adamawa,Song,Dumne,SILON HC,10.61139953,12.19609,Health Post,Functioning,True
+Adamawa,Song,Dumne,WALKISE HP,8.213987,12.197186,Health Post,Not Functioning,False
+Adamawa,Song,Gudu Mboi,BREDENG HP,9.17,12.20083333,PHC,Functioning,False
+Adamawa,Song,Gudu Mboi,CHIBAWURO HC,9.535068,12.203753,Health Clinic,Partially Functioning,True
+Adamawa,Song,Gudu Mboi,GAKTA HC,7.981235,12.204093,Health Clinic,Partially Functioning,False
+Adamawa,Song,Gudu Mboi,GUDU PHCC,10.77618,12.20577,Health Post,Not Functioning,False
+Adamawa,Song,Gudu Mboi,HANDA HC,9.217222222,12.2075,PHC,Not Functioning,True
+Adamawa,Song,Kilange Funa,GURIKI PHCC,10.60374,12.20864,Hospital,Functioning,True
+Adamawa,Song,Kilange Funa,PAKIN  HC,9.031015,12.2091816,Health Clinic,Partially Functioning,True
+Adamawa,Song,Kilange Funa,WURO DE HC,8.345,12.2097222,PHC,Functioning,True
+Adamawa,Song,Kilange Funa,WURO MALLUM HC,11.606697,12.21177,Health Post,Not Functioning,False
+Adamawa,Song,Kilange Hirna,BOLOKO HP,9.511,12.2129,PHC,Partially Functioning,True
+Adamawa,Song,Kilange Hirna,GELENG HP,9.2721,12.2131,Health Clinic,Functioning,True
+Adamawa,Song,Kilange Hirna,KANAWA HC,9.63116424,12.21359025,Health Post,Not Functioning,False
+Adamawa,Song,Kilange Hirna,WURO DAUDA PHCC,9.45790583,12.21621681,PHC,Functioning,True
+Adamawa,Song,Sigire,GILDAMBARA HC,10.59625,12.21742,Health Post,Functioning,True
+Adamawa,Song,Sigire,GOLONTOBAL PHCC,10.091715,12.21823167,Health Clinic,Functioning,True
+Adamawa,Song,Sigire,KESURE HC,10.09281167,12.21849667,Health Post,Not Functioning,True
+Adamawa,Song,Sigire,SIGIRE,9.0960366,12.2197583,PHC,Partially Functioning,True
+Adamawa,Song,Song Gari,BOLKI PHCC,8.9267,12.2203866,Health Post,Partially Functioning,True
+Adamawa,Song,Song Gari,CLINIC A HC,9.45105167,12.22262,Health Clinic,Partially Functioning,True
+Adamawa,Song,Song Gari,CLINIC B HC,8.3032,12.2231,Health Post,Partially Functioning,False
+Adamawa,Song,Song Gari,COTTAGE HOSPITAL,9.42384209,12.22381149,Health Clinic,Functioning,True
+Adamawa,Song,Song Gari,GULUNGO HP,9.49230156,12.22411619,Health Clinic,Functioning,True
+Adamawa,Song,Song Gari,MBILLA HC,8.979585,12.224555,Health Post,Functioning,True
+Adamawa,Song,Song Gari,NURSING HOME,9.2342,12.2258,PHC,Functioning,True
+Adamawa,Song,Song Gari,SABON LOKO PHCC,10.77869,12.22905,Health Post,Functioning,True
+Adamawa,Song,Song Gari,SONG MATERNITY AND NURSING HOME,9.1151266,12.2307333,PHC,Partially Functioning,True
+Adamawa,Song,Song Gari,TOWN DISPENSARY,9.315014,12.230778,PHC,Functioning,False
+Adamawa,Song,Song Gari,TSOHON LOKO HC,9.5027,12.2317,Health Post,Partially Functioning,False
+Adamawa,Song,Song Waje,DADINROWA,9.4716,12.233,Health Clinic,Functioning,True
+Adamawa,Song,Song Waje,DIDANGO HC,9.29982,12.233083,Health Clinic,Functioning,False
+Adamawa,Song,Song Waje,GALAMBA PHCC,9.19218,12.23386,Health Post,Partially Functioning,True
+Adamawa,Song,Song Waje,GEWAN PHCC,9.39534584,12.2343173,Health Post,Not Functioning,True
+Adamawa,Song,Song Waje,GIDEKEN HP,9.46521977,12.23454042,Health Clinic,Functioning,True
+Adamawa,Song,Song Waje,LAIDE HC,8.4037,12.237,Health Post,Not Functioning,False
+Adamawa,Song,Song Waje,MAIGERO HC,11.519461,12.237936,Health Post,Not Functioning,True
+Adamawa,Song,Song Waje,MUDUNGO HP,9.2916667,12.2380555,PHC,Functioning,True
+Adamawa,Song,Song Waje,MULENG PHCC,9.2916667,12.2380556,Health Clinic,Functioning,True
+Adamawa,Song,Song Waje,MUNAM NURSING HOME,12.2261111,12.23888889,Health Clinic,Functioning,True
+Adamawa,Song,Song Waje,MURKE PHCC,8.273,12.239,PHC,Functioning,True
+Adamawa,Song,Suktu,BALMA,9.2927778,12.2427778,PHC,Functioning,True
+Adamawa,Song,Suktu,GBERWENE HC,9.2239,12.2431,PHC,Functioning,True
+Adamawa,Song,Suktu,JUMBO,9.37368352,12.2439908,Health Clinic,Functioning,True
+Adamawa,Song,Suktu,MBAI,9.4828,12.2447,PHC,Functioning,False
+Adamawa,Song,Suktu,ROMA,11.577545,12.245175,Health Post,Not Functioning,False
+Adamawa,Song,Suktu,SALASA PHCC,8.395,12.2455,Health Post,Partially Functioning,True
+Adamawa,Song,Suktu,SATTE,9.4647845,12.24552934,Health Post,Functioning,True
+Adamawa,Song,Suktu,SOKORON,8.4455,12.246,Health Post,Partially Functioning,True
+Adamawa,Song,Suktu,SUKTU TSARKI,12.30789333,12.24617167,Health Post,Not Functioning,True
+Adamawa,Song,Waltandi,DIKIR HC,9.54866,12.246365,Health Clinic,Partially Functioning,True
+Adamawa,Song,Waltandi,KUKTA  HC,9.46540448,12.247644,Health Clinic,Functioning,True
+Adamawa,Song,Waltandi,PRAMBE HC,9.51349,12.247787,Health Clinic,Partially Functioning,True
+Adamawa,Song,Waltandi,PUPA  HC,8.723142,12.247982,Hospital,Partially Functioning,False
+Adamawa,Song,Waltandi,TSAUBIRI HC,13.0089,12.2508,Health Clinic,Functioning,True
+Adamawa,Song,Waltandi,WALTADI  HC,10.71206,12.25106,Health Post,Functioning,True
+Adamawa,Song,Zumo,HOLMA MHC,9.258888889,12.25194444,Health Clinic,Partially Functioning,True
+Adamawa,Song,Zumo,LAMORDE HC,9.46162499,12.25472138,Health Clinic,Functioning,True
+Adamawa,Song,Zumo,ZUMO PHCC,9.360768,12.25487,Health Post,Partially Functioning,True
+Adamawa,Toungo,Dawo II,DADUKEN PHCC,9.568835,12.255273,Health Clinic,Functioning,True
+Adamawa,Toungo,Dawo II,DAKALAJI,9.0371816,12.2562066,Health Post,Partially Functioning,False
+Adamawa,Toungo,Dawo II,DASU HEALTH POST,9.3745125,12.26160404,Health Post,Not Functioning,False
+Adamawa,Toungo,Dawo II,TIMYEREN  HP,8.3755,12.2621,PHC,Functioning,True
+Adamawa,Toungo,GANGSENI,GANGSEINI,9.07419,12.26246,Health Post,Partially Functioning,True
+Adamawa,Toungo,Gumti,GUMTI H/POST,10.10744833,12.26254667,Health Clinic,Functioning,True
+Adamawa,Toungo,Gumti,Gumti HC,10.2050725,12.26280111,Health Post,Not Functioning,True
+Adamawa,Toungo,Gumti,Kilalai HC,9.4148,12.2632,Health Clinic,Functioning,True
+Adamawa,Toungo,Gumti,Nyasikasi HC,9.1912702,12.2635682,PHC,Functioning,True
+Adamawa,Toungo,Gumti,PHCC TIPSAN,10.382,12.2645,PHC,Functioning,True
+Adamawa,Toungo,Kiri I, Metani PHC,9.5718,12.2654,Health Clinic,Functioning,True
+Adamawa,Toungo,Kiri I,Dalasun HC,9.49504106,12.26650584,Health Post,Functioning,True
+Adamawa,Toungo,Kiri I,Dugdun HC,9.80698,12.270468,Health Post,Partially Functioning,False
+Adamawa,Toungo,Kiri I,Kiri PHC,8.54524,12.271412,Health Clinic,Functioning,True
+Adamawa,Toungo,Kiri II,DADTIM H/POST,11.613193,12.27277,Health Clinic,Partially Functioning,True
+Adamawa,Toungo,Kiri II,DAKEU,9.207698,12.2727858,PHC,Functioning,True
+Adamawa,Toungo,Kiri II,DALUGA,8.577379,12.273597,Health Clinic,Functioning,True
+Adamawa,Toungo,Kiri II,KUDORI H/POST,8.6722014,12.27789,Health Clinic,Partially Functioning,True
+Adamawa,Toungo,Kiri II,PHCC TIMBUKUM,9.189078,12.283426,Health Clinic,Functioning,True
+Adamawa,Toungo,Kiri II,Taksi G HC,9.1921912,12.2836138,Health Post,Partially Functioning,True
+Adamawa,Toungo,Kiri II,Timbo PHCC,9.47673468,12.28879926,PHC,Functioning,True
+Adamawa,Toungo,Kongin Baba I,Songoli HP,9.308914,12.289553,PHC,Functioning,True
+Adamawa,Toungo,Kongin Baba II,DADIRI H/POST,9.2353316,12.292874,Health Post,Not Functioning,False
+Adamawa,Toungo,Kongin Baba II,Dambara PHCC,9.333263,12.293154,Health Post,Not Functioning,False
+Adamawa,Toungo,Kongin Baba II,KOGIN BABA II,9.257384,12.293848,Health Post,Not Functioning,False
+Adamawa,Toungo,Kongin Baba II,TIMPWA H/POST,9.43247501,12.29417545,Health Clinic,Partially Functioning,True
+Adamawa,Toungo,Toungo I,COTTAGE HOSPITAL,9.286487,12.29458,Health Post,Functioning,False
+Adamawa,Toungo,Toungo I,Dadin Kowa HC,7.581197,12.29506,Health Clinic,Functioning,True
+Adamawa,Toungo,Toungo I,RISKU,9.4636,12.2951,Health Clinic,Partially Functioning,True
+Adamawa,Toungo,Toungo I,TOUNGO PHCC I,8.589262,12.2991738,Health Post,Not Functioning,False
+Adamawa,Toungo,Toungo II,FMHC YELIS0,6.58308,12.30372,PHC,Partially Functioning,True
+Adamawa,Toungo,Toungo II,KPWASA H/POST,11.548395,12.304538,Health Post,Not Functioning,False
+Adamawa,Toungo,Toungo II,Layinde Chita  HC,9.568048,12.304843,Health Clinic,Partially Functioning,True
+Adamawa,Toungo,Toungo II,MAYO BUTALI,9.4928,12.305,Health Clinic,Partially Functioning,False
+Adamawa,Toungo,Toungo II,Toungo 2 PHC,10.18612056,12.30511639,Health Post,Not Functioning,True
+Adamawa,Toungo,Toungo III,ADAMU YALAKI H/POST,9.3955,12.306,PHC,Partially Functioning,True
+Adamawa,Toungo,Toungo III,Gang Zamanu PHC,10.20311556,12.30684444,Health Post,Not Functioning,True
+Adamawa,Toungo,Toungo III,GARIN YOHANA HP,9.438,12.3115,Health Post,Not Functioning,True
+Adamawa,Toungo,Toungo III,LABBARE H/P,9.400608,12.312561,Health Clinic,Functioning,False
+Adamawa,Toungo,Toungo III,Lawan Dakka HC,8.355,12.315,PHC,Functioning,True
+Adamawa,Toungo,Toungo III,MAIHULA H/P,9.350894,12.315112,Health Post,Not Functioning,False
+Adamawa,Toungo,Toungo III,Namdu HC,9.46328186,12.315321,Health Post,Partially Functioning,True
+Adamawa,Toungo,Toungo III,Nawai HC,9.5612,12.317,PHC,Functioning,True
+Adamawa,Toungo,Toungo III,TAKSI GONI H/POST,11.488088,12.317603,PHC,Not Functioning,False
+Adamawa,Yola North,Ajiya,Ajiya PHCC,10.10731389,12.32018889,Health Clinic,Not Functioning,True
+Adamawa,Yola North,Ajiya,DAWA U CLINIC,9.4946,12.3214,Health Post,Not Functioning,True
+Adamawa,Yola North,Alkalawa,Atiku Abubakar PHCC,8.571996,12.32199321,Health Post,Not Functioning,True
+Adamawa,Yola North,Alkalawa,DA'AMA HOSPITAL YOLA,9.5531,12.3234,Health Clinic,Partially Functioning,True
+Adamawa,Yola North,Alkalawa,GALBOSE HOSPITAL,9.2155278,12.3234476,PHC,Functioning,True
+Adamawa,Yola North,Doubeli,BAMAIYI HOSPITAL,10.2356,12.3238,Health Post,Functioning,True
+Adamawa,Yola North,Doubeli,Major Aminu Urban Health Centre,9.3911,12.3325,Health Clinic,Partially Functioning,True
+Adamawa,Yola North,Doubeli,SAUKI MEDICAL,9.3926,12.3327,PHC,Partially Functioning,True
+Adamawa,Yola North,Gwadabawa,FEDERAL COLLEGE OF EDUCATION CLINIC,10.052,12.3329,PHC,Functioning,True
+Adamawa,Yola North,Gwadabawa,GOVT. GIRLS SEC. SCH. CLINIC,9.46587053,12.33519624,PHC,Functioning,True
+Adamawa,Yola North,Gwadabawa,GOVT. HOUSE CLINIC,10.09326333,12.33573,PHC,Functioning,True
+Adamawa,Yola North,Gwadabawa,Gwadabawa PHCC,9.374683,12.337806,Health Post,Partially Functioning,False
+Adamawa,Yola North,Gwadabawa,Idi Attah PHCC,10.30642611,12.33795586,Health Clinic,Not Functioning,True
+Adamawa,Yola North,Gwadabawa,UNIVERSAL BASIL EDUCATION CLINIC,9.0051566,12.3386466,Health Post,Partially Functioning,True
+Adamawa,Yola North,Jambutu,Damilu PHCC,9.2913889,12.3411111,Health Post,Functioning,True
+Adamawa,Yola North,Jambutu,GIRIO NURSING & MATERN,10.51,12.3433,Health Clinic,Functioning,True
+Adamawa,Yola North,Jambutu,Jambutu PHCC,9.545648,12.347925,PHC,Functioning,True
+Adamawa,Yola North,Jambutu,MERCYLAND,9.391021,12.35032,Health Post,Functioning,False
+Adamawa,Yola North,Jambutu,ST. FRANCIS,9.468,12.351,Health Clinic,Partially Functioning,True
+Adamawa,Yola North,KAREWA,163 NAF HOSPITAL,10.20296694,12.35567194,Health Post,Not Functioning,True
+Adamawa,Yola North,KAREWA,22 BDE MEDICAL CENTER,8.958243,12.3582,Health Post,Not Functioning,False
+Adamawa,Yola North,KAREWA,ADAMAWA STATE POLYTECHNIC,8.6127014,12.35982,PHC,Partially Functioning,True
+Adamawa,Yola North,KAREWA,BACHURE PHCC,10.69345,12.36135,PHC,Functioning,True
+Adamawa,Yola North,KAREWA,BEKAJI PHCC,9.4723,12.3617,PHC,Functioning,True
+Adamawa,Yola North,KAREWA,BOSHANG CLINIC & MATERNITY LTD,9.5326,12.363,Health Clinic,Partially Functioning,True
+Adamawa,Yola North,KAREWA,GENERAL MURTALA MOHD. COLLEGE CLINIC,9.504,12.3639,Health Post,Partially Functioning,True
+Adamawa,Yola North,KAREWA,MALAMRE PHCC,9.4432,12.3643,Health Clinic,Partially Functioning,True
+Adamawa,Yola North,KAREWA,MATCO CLINIC,9.48431866,12.36573657,Health Clinic,Partially Functioning,True
+Adamawa,Yola North,KAREWA,POLICE CLINIC,9.554,12.37,PHC,Functioning,True
+Adamawa,Yola North,KAREWA,Royal Hospital,10.18891833,12.37025,Health Clinic,Functioning,True
+Adamawa,Yola North,KAREWA,VALADA HOSPITAL,9.499,12.3715,Hospital,Functioning,True
+Adamawa,Yola North,KAREWA,VALLI MEDICAL CLNIC,10.18612833,12.37209667,Health Clinic,Functioning,True
+Adamawa,Yola North,KAREWA,ZENITH CARE CONSULTANT,9.7244444,12.37277776,PHC,Functioning,True
+Adamawa,Yola North,Limawa,Gambo Jimeta PHCC,9.4925,12.3737,Health Post,Not Functioning,True
+Adamawa,Yola North,Limawa,ZAITUNE CLINIC,9.502,12.3743,PHC,Functioning,True
+Adamawa,Yola North,Luggere,AHMAD DENTAL CLNIC,9.48579455,12.37470641,Health Clinic,Functioning,True
+Adamawa,Yola North,Luggere,FORTLAND HOSPITAL,9.1894444,12.3761111,PHC,Functioning,True
+Adamawa,Yola North,Luggere,FREEDOM POLYCLINIC,12.05555556,12.37666667,Health Post,Functioning,True
+Adamawa,Yola North,Luggere,Jimeta Clinic and Maternity,8.5736,12.3802,PHC,Functioning,True
+Adamawa,Yola North,Luggere,Peace Hospital,9.535882,12.383845,Health Post,Not Functioning,False
+Adamawa,Yola North,Luggere,ST THERESA,10.015,12.3858,PHC,Functioning,True
+Adamawa,Yola North,Luggere,TRUMPH HOSPITAL,9.0882633,12.3873833,PHC,Partially Functioning,True
+Adamawa,Yola North,NASSARAWO,Demsawo PHCC,8.594,12.3905,Health Post,Not Functioning,False
+Adamawa,Yola North,NASSARAWO,Nassarawo PHCC,9.4657,12.391,PHC,Partially Functioning,True
+Adamawa,Yola North,NASSARAWO,YOLA SPECIALIST HOSPITAL,10.13280833,12.394435,Health Clinic,Functioning,True
+Adamawa,Yola North,Rumde,AAMD RUMDE,9.399,12.3955,Health Clinic,Partially Functioning,True
+Adamawa,Yola North,YELWA,AA Namtari PHCC,8.501,12.396,PHC,Functioning,True
+Adamawa,Yola South,ADARAWO,WURO HAUSA DISPENSARY,9.0253633,12.39702,Health Post,Partially Functioning,True
+Adamawa,Yola South,ADARAWO,WURO HAUSA PHCC,9.4451,12.399,Health Clinic,Not Functioning,True
+Adamawa,Yola South,Bako,BAKO PHCC,8.85077,12.39924,Health Post,Partially Functioning,True
+Adamawa,Yola South,Bole Yolde Pate,Bole Yolde Pate PHC,8.896111111,12.39944444,Health Post,Partially Functioning,True
+Adamawa,Yola South,Bole Yolde Pate,FMC YOLA,8.51,12.401,Health Post,Not Functioning,False
+Adamawa,Yola South,Bole Yolde Pate,NICE MATERNITY,8.976666667,12.4025,PHC,Partially Functioning,True
+Adamawa,Yola South,Bole Yolde Pate,Shagari HC,9.4849,12.4025,Health Post,Not Functioning,False
+Adamawa,Yola South,Bole Yolde Pate,YOLDE PATE,10.684988,12.402628,PHC,Partially Functioning,True
+Adamawa,Yola South,MAKAMA A,DAMAKE POLO,9.2605556,12.4027778,PHC,Functioning,True
+Adamawa,Yola South,MAKAMA A,Lamido Aliyu HC,9.296736,12.40282,Health Post,Partially Functioning,False
+Adamawa,Yola South,Makama 'B',Adamawa Hospital,8.9708308,12.4046454,Health Post,Partially Functioning,True
+Adamawa,Yola South,Makama 'B',Nana Asmau PHCC,8.984722222,12.41055556,Health Clinic,Partially Functioning,True
+Adamawa,Yola South,Makama 'B',YOLA CENTER,9.2831064,12.4139826,Hospital,Functioning,True
+Adamawa,Yola South,Mbamba,MBAMBA ARDO YAHYA PHCC,9.902222222,12.41666667,Health Clinic,Partially Functioning,True
+Adamawa,Yola South,Mbamba,Njoboli PHC,9.2222222,12.4166667,Health Clinic,Functioning,True
+Adamawa,Yola South,Mbamba,NJOBOLIYO    HP,9.266006,12.417014,Hospital,Functioning,True
+Adamawa,Yola South,Mbamba,RUGANGE HP,9.2350632,12.4187787,Health Clinic,Functioning,True
+Adamawa,Yola South,Mbamba,SEBORE HP,11.14535028,12.41888889,Health Clinic,Not Functioning,True
+Adamawa,Yola South,MBAMOI,BAKARI MBAMOI PHCC,9.270516,12.419067,PHC,Functioning,True
+Adamawa,Yola South,Namtari,CHANGARA H POST,8.7997933,12.4203783,Health Post,Partially Functioning,True
+Adamawa,Yola South,Namtari,DOULABI H/POST,10.151935,12.421775,PHC,Functioning,True
+Adamawa,Yola South,Namtari,DUNGA H/POST,9.2433352,12.4245433,PHC,Functioning,True
+Adamawa,Yola South,Namtari,MALKOHI IDP CAMP HC,9.4441,12.4248,PHC,Functioning,True
+Adamawa,Yola South,Namtari,Malkohi PHC,9.2864239,12.4255207,Health Post,Functioning,True
+Adamawa,Yola South,Namtari,NAMTARI GUREL,9.2852341,12.4303044,PHC,Functioning,True
+Adamawa,Yola South,Namtari,Namtari manga PHCC,9.483,12.4314,PHC,Functioning,True
+Adamawa,Yola South,Namtari,NURO DADI H POST,10.15116167,12.43299167,Health Clinic,Partially Functioning,True
+Adamawa,Yola South,Namtari,SAMINAKA H/P,9.4556,12.43333,PHC,Functioning,True
+Adamawa,Yola South,Namtari,SANGERE H/POST,9.286107,12.4334187,Health Clinic,Functioning,True
+Adamawa,Yola South,Namtari,Walowol,9.2785928,12.4341346,PHC,Functioning,True
+Adamawa,Yola South,Namtari,WAURO JABBE PHCC,9.2698843,12.4351047,Hospital,Functioning,True
+Adamawa,Yola South,NaMTERmtari,HULLERE,10.14613667,12.43726833,Health Clinic,Not Functioning,True
+Adamawa,Yola South,Ngurore,GDCMH,9.2812864,12.4376645,Health Clinic,Functioning,True
+Adamawa,Yola South,Ngurore,MBOI H POST,8.591944,12.437777,Health Post,Partially Functioning,False
+Adamawa,Yola South,Ngurore,NAKOWA NURSING,9.543287,12.437948,PHC,Functioning,True
+Adamawa,Yola South,Ngurore,NGURORE MCH,0.2092623,12.438186,PHC,Functioning,False
+Adamawa,Yola South,Ngurore,RUMDE,10.2092623,12.438186,PHC,Functioning,False
+Adamawa,Yola South,Ngurore,WURO YANKA HC,9.259551,12.4394286,PHC,Functioning,True
+Adamawa,Yola South,Ngurore,YELWA CLINIC,9.2703383,12.4395178,Hospital,Functioning,True
+Adamawa,Yola South,NHURURE,GODUWO,9.257911,12.4400564,Health Clinic,Functioning,True
+Adamawa,Yola South,NHURURE,PHILIP JIRJI,9.2577986,12.44114662,Health Clinic,Functioning,True
+Adamawa,Yola South,SARKI DAWAKI,TOUNGO NURSING,9.4044,12.4416,Health Post,Not Functioning,True
+Adamawa,Yola South,Toungo,MEDDY PRIVATE CLINIC,9.3931,12.4424,Health Clinic,Partially Functioning,True
+Adamawa,Yola South,Toungo,TOUNGO PHCC,9.4225,12.4437,Health Clinic,Partially Functioning,True
+Adamawa,Yola South,Yolde Kohi,DINGAU H/POST,9.412,12.4439,Health Clinic,Partially Functioning,True
+Adamawa,Yola South,Yolde Kohi,JAURO BAPPA HP,10.5248,12.4439,Health Post,Functioning,True
+Adamawa,Yola South,Yolde Kohi,MELTARA H/POST,9.2803116,12.4439172,PHC,Functioning,True
+Adamawa,Yola South,Yolde Kohi,Wuro Ardo HC,10.439,12.444,PHC,Functioning,True
+Adamawa,Yola South,Yolde Kohi,YOLDE KOHI HP,9.272751,12.444174,Hospital,Functioning,True
+Borno,Abadam,Arege,AREGE HEALTH CLINIC,9.3359,12.4443,Health Post,Partially Functioning,True
+Borno,Abadam,Arege,Metile Health Clinic,9.277694,12.445486,Hospital,Functioning,True
+Borno,Abadam,Arege,Tumbin Gini Health Clinic,9.2729202,12.4463236,IDP Clinic,Functioning,True
+Borno,Abadam,Banowa,Arge Health Clinic,9.2364665,12.4465586,Hospital,Functioning,True
+Borno,Abadam,Fuguwa,Nga'am Health Clinic,9.250169,12.44783,Health Clinic,Functioning,True
+Borno,Abadam,Jabullam,Jabullam Health Clinic,9.274735,12.448166,Health Clinic,Functioning,True
+Borno,Abadam,Kudokurgu,Kudokurgo MCH Clinic,9.2848332,12.4484393,PHC,Functioning,True
+Borno,Abadam,Kudokurgu,Kudokurgo PHC Clinic,9.262351,12.449526,Health Clinic,Functioning,False
+Borno,Abadam,Malam Kaunari,COCIN HEALTH CLINIC,8.767,12.45,Health Post,Not Functioning,False
+Borno,Abadam,Malam Kaunari,COCIN Hospital,9.2816232,12.4506361,Hospital,Functioning,True
+Borno,Abadam,Mallamfatori Kessa,Doro MCH  (Private),9.2630518,12.4516826,Health Clinic,Functioning,True
+Borno,Abadam,Yau,Yau Health Clinic,9.492975,12.451978,PHC,Functioning,True
+Borno,Abadam,Yau,Yauma Wango,9.2747031,12.4521767,Hospital,Functioning,True
+Borno,Abadam,Yawa Kura,General Hospital Abadam,9.2670203,12.4526442,Health Clinic,Functioning,True
+Borno,Abadam,Yituwa,ABADAM HEALTH CLINIC,9.2465968,12.4529042,PHC,Functioning,True
+Borno,Askira/Uba,,Model Primary Health Care Centre (MPHC) Rumirgo,9.280298,12.453227,PHC,Functioning,True
+Borno,Askira/Uba,Askira East,FSP Clinic,9.240666,12.453322,Health Clinic,Functioning,True
+Borno,Askira/Uba,Askira East,Yimir Ali Health Clinic,9.2710999,12.4536324,Hospital,Functioning,True
+Borno,Askira/Uba,Chul / Rumirgo,Chull PHC (Temp),9.2600888,12.4537124,PHC,Functioning,True
+Borno,Askira/Uba,Chul / Rumirgo,Jairi A. Gadzama,9.2464396,12.455048,Health Clinic,Functioning,True
+Borno,Askira/Uba,Chul / Rumirgo,RUMIRGO DISPENSARY,9.265288,12.45519,Hospital,Functioning,True
+Borno,Askira/Uba,Dille / Huyum,DILLE DISPENSARY,9.283698,12.455503,PHC,Functioning,False
+Borno,Askira/Uba,Dille / Huyum,Huyum Dispensary,10.81114,12.45593,Health Post,Partially Functioning,True
+Borno,Askira/Uba,Dille / Huyum,Kille Dispensary,9.211031,12.456686,Health Clinic,Functioning,False
+Borno,Askira/Uba,Dille / Huyum,Nkurvu Dispensary,9.268362,12.457405,PHC,Functioning,True
+Borno,Askira/Uba,Dille / Huyum,Pumbum Dispensary,9.241073,12.458244,PHC,Functioning,False
+Borno,Askira/Uba,Husara / Tampul,Husara Health Clinic,9.2822911,12.4586337,Health Clinic,Functioning,True
+Borno,Askira/Uba,Husara / Tampul,Sabongari dispensary (Temp),9.2832119,12.4588621,PHC,Functioning,True
+Borno,Askira/Uba,Husara / Tampul,Tampul dispensary,9.2633739,12.4589891,Health Clinic,Functioning,True
+Borno,Askira/Uba,Kopa / Multhafu,Kopa dispensary,9.2782179,12.4590095,PHC,Functioning,True
+Borno,Askira/Uba,Kopa / Multhafu,Ndagu Dispensary,9.070555556,12.46027778,Health Post,Partially Functioning,True
+Borno,Askira/Uba,Kopa / Multhafu,Ngurthavu Health Clinic,8.241011,12.462171,Health Post,Not Functioning,False
+Borno,Askira/Uba,Kopa / Multhafu,Primary Health care centre,9.277549,12.463093,PHC,Functioning,True
+Borno,Askira/Uba,Lassa,General Hospital Lassa,8.888611111,12.46416667,Health Post,Partially Functioning,True
+Borno,Askira/Uba,Lassa,SAMUWA DISPENSARY,9.266696,12.464604,Health Clinic,Functioning,True
+Borno,Askira/Uba,Mussa,Dembo Dispensary,9.255249,12.466088,Health Clinic,Functioning,True
+Borno,Askira/Uba,Mussa,EYN Dispensary,9.207778,12.4675,PHC,Functioning,True
+Borno,Askira/Uba,Mussa,Gwandang Dispensary,9.249318,12.467547,Health Post,Partially Functioning,True
+Borno,Askira/Uba,Mussa,Mussa PHC Clinic,9.212837,12.472068,Hospital,Functioning,False
+Borno,Askira/Uba,Ngohi,Alagarno Dispensary,9.2607923,12.4749898,PHC,Functioning,True
+Borno,Askira/Uba,Ngohi,Bijibiji Dispensary,9.2569629,12.4752724,Health Clinic,Functioning,True
+Borno,Askira/Uba,Ngohi,Kilargal Dispensary,10.147125,12.47678,Health Clinic,Not Functioning,True
+Borno,Askira/Uba,Ngohi,Leho B Dispensary,9.208499,12.476962,Health Clinic,Functioning,True
+Borno,Askira/Uba,Ngohi,Ngohi Dispensary,10.14772167,12.47716,Health Post,Not Functioning,True
+Borno,Askira/Uba,Ngulde,Garambal Health Clinic,9.20218,12.477481,PHC,Functioning,False
+Borno,Askira/Uba,Ngulde,Ngulde Comprehensive Health Centre,9.49857,12.478285,Health Post,Partially Functioning,True
+Borno,Askira/Uba,Ngulde,Ngulde Dispensary,9.109444444,12.47888889,PHC,Partially Functioning,True
+Borno,Askira/Uba,Ngulde,Wawataku Dispensary,9.2052778,12.4791666,PHC,Functioning,True
+Borno,Askira/Uba,UBA,Alheri Clinic,9.310238,12.479267,Health Clinic,Functioning,True
+Borno,Askira/Uba,UBA,General Hospital Uba,9.300567,12.481695,PHC,Functioning,True
+Borno,Askira/Uba,UBA,Kuma Dispensary,8.81,12.48555556,Health Post,Partially Functioning,True
+Borno,Askira/Uba,UBA,Muffa Dispensary,9.1977778,12.4857778,Health Clinic,Functioning,True
+Borno,Askira/Uba,UBA,Uba town Dispensary,8.700845,12.485943,Health Post,Not Functioning,False
+Borno,Askira/Uba,Uda / Uvu,KWAHYELI DISPENARY,9.298598,12.488157,Health Clinic,Functioning,True
+Borno,Askira/Uba,Uda / Uvu,Uda Dispensary,9.214248,12.488884,Health Clinic,Functioning,False
+Borno,Askira/Uba,Uda / Uvu,Uvu Health Centre,9.1936111,12.4900556,Hospital,Functioning,True
+Borno,Askira/Uba,Wamdeo / Giwi,EYN Clinic Wamdeo,9.1983333,12.491944,Health Clinic,Functioning,True
+Borno,Askira/Uba,Wamdeo / Giwi,Giwi Dispensary,9.053888889,12.49305556,Health Post,Not Functioning,False
+Borno,Askira/Uba,Wamdeo / Giwi,Walafa Dispensary,9.506097,12.501255,Health Post,Partially Functioning,True
+Borno,Askira/Uba,Wamdeo / Giwi,Wamdeo Dispensary,9.532512,12.502185,Health Post,Partially Functioning,True
+Borno,Askira/Uba,Zadawa / Hausari,GENERAL HOSPITAL ZADAWA,13.1053,12.50583,PHC,Functioning,True
+Borno,Askira/Uba,Zadawa / Hausari,Leho A Dispensary,9.347022,12.505898,Health Clinic,Functioning,True
+Borno,Askira/Uba,Zadawa / Hausari,Zadawa Dispensary,8.8425,12.50638889,Health Clinic,Partially Functioning,True
+Borno,Bama,Andara / Ajiri /Wulba,Andara Dispensary,8.725,12.511,PHC,Functioning,True
+Borno,Bama,Andara / Ajiri /Wulba,Barkari Health Clinic,8.986666667,12.51138889,Health Post,Not Functioning,False
+Borno,Bama,Andara / Ajiri /Wulba,BEMBEM HEALTH POST,9.343848,12.511675,Health Clinic,Functioning,True
+Borno,Bama,Andara / Ajiri /Wulba,KALAMUGDO HEALTH POST,9.227355,12.51282,Health Post,Not Functioning,True
+Borno,Bama,Andara / Ajiri /Wulba,NDABAZA HEALTH CLINIC,8.4945,12.52,PHC,Partially Functioning,True
+Borno,Bama,Buduwa / Bula Chirabe,Bama  MCH Clinic,8.856388889,12.52194444,Health Post,Partially Functioning,True
+Borno,Bama,Buduwa / Bula Chirabe,Banki IDP Camp Clinic,9.4852,12.5327,Health Clinic,Partially Functioning,True
+Borno,Bama,Buduwa / Bula Chirabe,COCIN Clinic Bama,9.526785,12.53766557,Health Post,Partially Functioning,True
+Borno,Bama,Buduwa / Bula Chirabe,Tarmuwa Health Clinic,10.16226,12.54183667,Health Clinic,Not Functioning,False
+Borno,Bama,Buduwa / Bula Chirabe,UMTH Comprensive Health Centre,9.365858,12.54285,Health Post,Not Functioning,False
+Borno,Bama,Dipchari / Jere / Dar-Jamal / Kotembe,Dara Jamal Health Clinic,8.723,12.55,Health Post,Partially Functioning,False
+Borno,Bama,Dipchari / Jere / Dar-Jamal / Kotembe,Dupchari Dispensary,9.367855,12.550477,PHC,Functioning,True
+Borno,Bama,Dipchari / Jere / Dar-Jamal / Kotembe,Jere Dispensary,11.095277,12.563333,Health Post,Functioning,True
+Borno,Bama,Gulumba / Jukkuri / Batra,Kashimri Health Clinic,10.46936667,12.56439,PHC,Functioning,True
+Borno,Bama,Gulumba / Jukkuri / Batra,Model Primary Health Care Centre (MPHC) Gulumba,9.5137,12.5648,PHC,Functioning,True
+Borno,Bama,Kasugula,FSP Tandari Health Clinic,10.41313167,12.56486167,Hospital,Functioning,True
+Borno,Bama,Kasugula,Kasugula Skin Clinic,10.41640333,12.565205,Health Post,Not Functioning,False
+Borno,Bama,Kumshe /Nduguno,Bula Umarye Health Clinic,10.40106167,12.56617333,PHC,Functioning,True
+Borno,Bama,Kumshe /Nduguno,KUMSHE HEALTH CLINIC,8.758,12.567,PHC,Functioning,True
+Borno,Bama,Lawanti / Malam / Mastari / Abbaram,Army Barrack Health Clinic,9.574265,12.567828,Health Post,Partially Functioning,True
+Borno,Bama,Lawanti / Malam / Mastari / Abbaram,Bula Ngaldaye Dispensary,10.41601,12.56868833,Health Clinic,Functioning,True
+Borno,Bama,Lawanti / Malam / Mastari / Abbaram,Mallam Masari Health Clinic,10.38757667,12.57375667,Health Clinic,Functioning,True
+Borno,Bama,Lawanti / Malam / Mastari / Abbaram,Modu Kimeri Dispensary,9.502125,12.574363,PHC,Functioning,True
+Borno,Bama,Marka / Malge / Amchaka,Model Primary Health Care Centre (MPHC) Amchaka,8.847777778,12.575,PHC,Partially Functioning,True
+Borno,Bama,Marka / Malge / Amchaka,WALASA CLINIC,9.2243283,12.5808917,Health Post,Partially Functioning,True
+Borno,Bama,Mbuliya / Goniri / Siraja,COCIN Clinic Mbuliya,8.955277778,12.58333333,PHC,Partially Functioning,True
+Borno,Bama,Mbuliya / Goniri / Siraja,Goioni Kurmi Dispensary,9.551111111,12.58333333,Health Clinic,Functioning,True
+Borno,Bama,Mbuliya / Goniri / Siraja,Goniri Health Clinic,9.200997,12.588039,PHC,Functioning,True
+Borno,Bama,Sabsabwa / Soye/ Bulongu,Bulungu Health Clinic,9.41367,12.5942,PHC,Partially Functioning,True
+Borno,Bama,Sabsabwa / Soye/ Bulongu,Soye  MCH Clinic,9.41823,12.5972516,IDP Clinic,Partially Functioning,True
+Borno,Bama,Shehuri / Hausari / Mairi,21 BRIGADE MEDICAL CENTRE,9.381132,12.60337,Health Clinic,Functioning,True
+Borno,Bama,Shehuri / Hausari / Mairi,BAMA MCH CLINIC,10.37410167,12.60537667,Health Clinic,Partially Functioning,True
+Borno,Bama,Shehuri / Hausari / Mairi,COCIN Clinic Bama,8.9275,12.60694444,Health Post,Partially Functioning,True
+Borno,Bama,Shehuri / Hausari / Mairi,GENERAL HOSPITAL BAMA,9.162222222,12.61,Health Post,Partially Functioning,True
+Borno,Bama,Shehuri / Hausari / Mairi,GENERAL HOSPITAL BAMA IDP CAMP CLINIC,12.58885,12.61565,Health Post,Functioning,True
+Borno,Bama,Shehuri / Hausari / Mairi,NAF EMERGENCY CLINIC,10.21666667,12.61916667,PHC,Functioning,True
+Borno,Bama,Wulbari/Ndine/Chachile,BOGOMARI HEALTH CLINIC,9.82,12.62,PHC,Partially Functioning,True
+Borno,Bama,Wulbari/Ndine/Chachile,Borjino Dispensary,9.4580433,12.6210483,Health Post,Partially Functioning,False
+Borno,Bama,Wulbari/Ndine/Chachile,Jabbari Health Clinic,8.201124,12.6218434,Health Post,Not Functioning,False
+Borno,Bama,Yabiri Kura/Yabiri Gana/Chongolo,Abuja Dispensary,10.07090667,12.62199333,Health Clinic,Not Functioning,False
+Borno,Bama,Yabiri Kura/Yabiri Gana/Chongolo,Chongolo Dispensary,8.7,12.6233,Health Post,Partially Functioning,True
+Borno,Bama,Yabiri Kura/Yabiri Gana/Chongolo,Kote Health Clinic,9.003055556,12.62527778,Health Post,Partially Functioning,True
+Borno,Bama,Yabiri Kura/Yabiri Gana/Chongolo,MBA'A HEALTH POST,10.09741667,12.6367,Health Post,Not Functioning,False
+Borno,Bama,Zangeri/Kash  Kash,Zangeri Health Clinic,10.03755,12.638555,PHC,Not Functioning,False
+Borno,Bayo,,Balbaya  MCH Clinic,9.371575,12.6393433,Health Post,Partially Functioning,True
+Borno,Bayo,Balbaya,KukwalDispensary,9.203611111,12.63944444,Health Post,Partially Functioning,True
+Borno,Bayo,Briyel,Briyel  MCH Clinic,9.205833333,12.63944444,PHC,Partially Functioning,True
+Borno,Bayo,Briyel,Chekele Dispensary,9.253611111,12.64055556,Health Post,Partially Functioning,True
+Borno,Bayo,Briyel,MCH BRIYEL,9.169444444,12.64222222,Health Post,Partially Functioning,True
+Borno,Bayo,Briyel,TASHAN ITACE DISPENSARY,9.50968,12.643775,Health Post,Partially Functioning,True
+Borno,Bayo,Fikayel,Fikayel PHC Clinic,11.04377,12.64598,Health Clinic,Partially Functioning,True
+Borno,Bayo,Gamadadi,Gamadadi Comprensive Health Centre,10.09458278,12.65564333,PHC,Not Functioning,False
+Borno,Bayo,Gamadadi,Maina Baba Dispensary,9.253611111,12.65833333,PHC,Partially Functioning,True
+Borno,Bayo,Jara Dali,Guvayako Dispensary,9.226111111,12.66083333,Health Clinic,Partially Functioning,True
+Borno,Bayo,Jara Dali,Jaradali PHC Clinic,10.33972167,12.66121333,Health Post,Functioning,True
+Borno,Bayo,Jara Dali,Zange Dispensary,8.388134,12.663732,Health Post,Partially Functioning,False
+Borno,Bayo,Jara Gol,Jaragol PHC Clinic,8.2770234,12.6637352,PHC,Functioning,True
+Borno,Bayo,Jara Gol,Korko Dispensary,9.217195,12.6642033,Hospital,Partially Functioning,True
+Borno,Bayo,Limanti,Kuva Health Clinic,9.248055556,12.66555556,PHC,Partially Functioning,True
+Borno,Bayo,Limanti,Limanti Dispensary,10.26106,12.6674,Health Post,Partially Functioning,False
+Borno,Bayo,Teli,Garin Gado Dispensary,10.04904,12.66924,Health Post,Not Functioning,False
+Borno,Bayo,Teli,Teli PHC Clinic,9.074722222,12.67166667,PHC,Partially Functioning,True
+Borno,Bayo,Wuyo,Dambitam Dispensary,9.075277778,12.67444444,Health Post,Partially Functioning,True
+Borno,Bayo,Wuyo,Gaidam Dispensary,9.34566333,12.68146,PHC,Partially Functioning,True
+Borno,Bayo,Wuyo,Guburunde Dispensary,9.211666667,12.68444444,IDP Clinic,Partially Functioning,True
+Borno,Bayo,Wuyo,Laroh Dispensary,9.291111111,12.69,Health Post,Partially Functioning,True
+Borno,Bayo,Wuyo,MABBODE DISPENSARY,9.37931667,12.70039333,PHC,Partially Functioning,True
+Borno,Bayo,Wuyo,SAKDIYA HEALTH CLINIC,9.51122,12.7021,Health Clinic,Partially Functioning,True
+Borno,Bayo,Wuyo,TOBULE DISPENSARY,8.876388889,12.70388889,Health Post,Partially Functioning,True
+Borno,Bayo,Wuyo,Wuyo PHC Clinic,11.0359,12.70409,Health Post,Partially Functioning,True
+Borno,Bayo,Zara,Zara Dispensary,8.3675,12.704444,Health Post,Partially Functioning,True
+Borno,Biu,,KIMBA DISPENSARY,10.11410167,12.70676833,PHC,Functioning,True
+Borno,Biu,Buratai,Bam dispensary,10.16553833,12.708155,Health Post,Not Functioning,False
+Borno,Biu,Buratai,Buratai Health Centre,9.095555556,12.71388889,Health Post,Partially Functioning,True
+Borno,Biu,Buratai,CHARA DISPENSARY,10.16535167,12.71464333,Health Post,Not Functioning,False
+Borno,Biu,Buratai,KAMUYA DISPENSARY,9.41329667,12.72311,Health Clinic,Partially Functioning,True
+Borno,Biu,Dadin Kowa,Berum Dispensary,8.5413,12.724,PHC,Partially Functioning,True
+Borno,Biu,Dadin Kowa,CHC GUNDA,9.192222222,12.72555556,Health Clinic,Partially Functioning,True
+Borno,Biu,Dadin Kowa,Duzuwa Dispensary,10.15618667,12.72905,PHC,Functioning,True
+Borno,Biu,Dadin Kowa,PANANA DISPENSARY,10.15803667,12.73045667,Health Clinic,Functioning,True
+Borno,Biu,Dugja,Hizhi dispensary,11.769722,12.734167,Health Clinic,Partially Functioning,True
+Borno,Biu,Dugja,TSAHUYAM,10.16739333,12.73602667,Health Clinic,Functioning,True
+Borno,Biu,Dugja,Tum Dispensary,10.163675,12.73605333,Health Clinic,Functioning,True
+Borno,Biu,Garubula,Bera Dispensary,10.15457667,12.73647833,Health Clinic,Functioning,True
+Borno,Biu,Garubula,Charangi dispensary,10.17884,12.73726833,PHC,Functioning,True
+Borno,Biu,Garubula,Garubula Sabo Health Centre,10.16464333,12.73854333,PHC,Functioning,True
+Borno,Biu,Garubula,Madthlau Dispensary,9.2225683,12.7387416,Health Post,Partially Functioning,True
+Borno,Biu,Gur,Gur Dispensary,10.16595333,12.73992833,PHC,Functioning,True
+Borno,Biu,Gur,Gur Garubula Dispensary,10.159015,12.74225833,Health Clinic,Functioning,True
+Borno,Biu,Kenken,FSP Clinic,10.16406,12.74289833,PHC,Functioning,True
+Borno,Biu,Kenken,GGSS Biu,10.155005,12.74350778,Health Clinic,Functioning,False
+Borno,Biu,Kenken,Vocational Training Centre,10.15352833,12.74561667,Health Clinic,Functioning,True
+Borno,Biu,Mandara Girau,DEBIRO DISPENSARY,10.16393833,12.74934222,Health Post,Not Functioning,False
+Borno,Biu,Mandara Girau,Liya Dispensary,9.538125,12.750075,Health Post,Partially Functioning,True
+Borno,Biu,Mandara Girau,Mandaragrau Health Centre,9.308333333,12.7525,PHC,Partially Functioning,True
+Borno,Biu,Mandara Girau,Nguma Dispensary,11.14817,12.75301,IDP Clinic,Partially Functioning,True
+Borno,Biu,Miringa,Mirnga  MCH Clinic,11.14817,12.75301,IDP Clinic,Partially Functioning,True
+Borno,Biu,Miringa,Mirnga Dispensary,11.04713,12.75358,Health Post,Partially Functioning,True
+Borno,Biu,Sulumthla,Biu Town Dispensary,11.13161,12.75444,Health Post,Partially Functioning,True
+Borno,Biu,Sulumthla,General Hospital Biu,11.15879,12.7554,IDP Clinic,Not Functioning,False
+Borno,Biu,Yawi,Yawi Dispensary,11.15879,12.7554,IDP Clinic,Partially Functioning,True
+Borno,Biu,Zarawuyaku,JALINGO DISPENSARY,11.16233,12.75596,IDP Clinic,Partially Functioning,True
+Borno,Biu,Zarawuyaku,Maina Hari Clinic,8.804,12.757,Health Post,Partially Functioning,True
+Borno,Biu,Zarawuyaku,Mandafuma Dispensary,11.16051,12.75765,Health Clinic,Partially Functioning,True
+Borno,Biu,Zarawuyaku,MCH Clinic Biu,11.16658,12.76139,IDP Clinic,Partially Functioning,True
+Borno,Chibok,Chibok Garu,GENERAL HOSPITAL GARU,11.14788,12.76305,IDP Clinic,Partially Functioning,True
+Borno,Chibok,Chibok Garu,MCH GARU,10.29627,12.773955,PHC,Functioning,True
+Borno,Chibok,Chibok Wuntaku,Bamzir Dispensary,11.842979,12.7755,Health Clinic,Functioning,True
+Borno,Chibok,Chibok Wuntaku,Bwalagyang Dispensary,10.80291,12.77594,PHC,Functioning,True
+Borno,Chibok,Chibok Wuntaku,Hirpaya Dispensary,10.85046,12.77646,Health Post,Functioning,True
+Borno,Chibok,Chibok Wuntaku,Njilang Dispensary,9.56176167,12.77976,PHC,Partially Functioning,True
+Borno,Chibok,Gatamarwa,Gatamarwa Dispensary,10.87589,12.78162,Health Post,Functioning,True
+Borno,Chibok,Gatamarwa,Paya Yesu Dispensary,11.17556,12.78659,Health Post,Partially Functioning,True
+Borno,Chibok,Kautikari,EYN Dispensary Kautikari,9.38817833,12.78746,Health Post,Partially Functioning,True
+Borno,Chibok,Kautikari,Model Primary Health Care Centre (MPHC) Kautikari,9.352222222,12.78861111,PHC,Partially Functioning,True
+Borno,Chibok,Korongilim,Korongillim Dispensary,10.86781,12.78934,Health Post,Functioning,True
+Borno,Chibok,Kuburmbula,Kaumatayahi Dispensary,9.39156333,12.795,PHC,Partially Functioning,True
+Borno,Chibok,Kuburmbula,Kuburmbula Dispensary,10.8315,12.79657,Health Post,Functioning,True
+Borno,Chibok,Kuburmbula,Mifa Dispensary,9.298611111,12.79805556,Health Post,Partially Functioning,True
+Borno,Chibok,Mbalala, EYN Dispensary Mbalala,8.796221,12.7993721,PHC,Functioning,True
+Borno,Chibok,Mbalala,Mbalala Dispensary,11.06,12.80846,Health Post,Partially Functioning,True
+Borno,Chibok,Mboa Kura,HEALTH POST MBOA KURA,10.38285684,12.82369226,Health Clinic,Functioning,True
+Borno,Chibok,Pemi,Pemi Dispensary,10.17748784,12.82518671,Health Clinic,Functioning,True
+Borno,Chibok,Pemi,Yimirmgza Dispensary,9.3295099,12.8384383,Health Clinic,Partially Functioning,True
+Borno,Chibok,Shikarkir,Model Primary Health Care Centre (MPHC) Shikarkir,9.39753833,12.84157833,Health Clinic,Partially Functioning,True
+Borno,Damboa,,MCH DAMBOA,8.4522,12.842,Health Post,Partially Functioning,True
+Borno,Damboa,,Model Primary Health Care Centre (MPHC) Ajigin,10.75511,12.84453,Health Post,Functioning,True
+Borno,Damboa,Ajign (A),Ajigin Health Clinic,9.37824,12.85152,Health Post,Partially Functioning,True
+Borno,Damboa,Ajign (A),Auma Dispensary,10.86657,12.85289,Hospital,Functioning,True
+Borno,Damboa,Ajign (A),Chilariya Dispensary,10.86672,12.854,Health Clinic,Functioning,True
+Borno,Damboa,Ajign (B),Gorgore Dispensary,9.53784,12.8568,Health Post,Partially Functioning,True
+Borno,Damboa,Ajign (B),Talala Dispensary,9.64442167,12.862215,Health Post,Partially Functioning,True
+Borno,Damboa,Azur/Multe/Forfor,Azir Health Clinic,9.326388889,12.86583333,Health Post,Partially Functioning,True
+Borno,Damboa,Azur/Multe/Forfor,Forfor Dispensary,10.36257621,12.86668047,Health Post,Functioning,True
+Borno,Damboa,Azur/Multe/Forfor,Kauji Dispensary,9.060555556,12.86805556,Health Post,Partially Functioning,True
+Borno,Damboa,Azur/Multe/Forfor,Multe Dispensary,9.326944444,12.87472222,PHC,Partially Functioning,True
+Borno,Damboa,Azur/Multe/Forfor,Sabon Gari Dispensary,10.77929,12.87491,Health Post,Functioning,True
+Borno,Damboa,Azur/Multe/Forfor,Wajiroko Dispensary,10.45076167,12.87593,Health Post,Partially Functioning,True
+Borno,Damboa,Bego/Yerwa/Ngurna,Kallah Dispensary,9.129722222,12.87611111,Health Post,Partially Functioning,True
+Borno,Damboa,Bego/Yerwa/Ngurna,Kolgiri Dispensary,9.248333333,12.87722222,PHC,Partially Functioning,True
+Borno,Damboa,Bego/Yerwa/Ngurna,Njawa Dispensary,8.702264,12.8779602,Health Clinic,Functioning,True
+Borno,Damboa,Bego/Yerwa/Ngurna,Yerwa Dispensary,10.7705,12.88056,Health Post,Not Functioning,False
+Borno,Damboa,Damboa,AJARI ICRC,10.7705,12.88056,Health Post,Functioning,True
+Borno,Damboa,Damboa,AJARI ICRC HEALTH CLINIC,9.123611111,12.88555556,PHC,Partially Functioning,True
+Borno,Damboa,Damboa,Damboa  Town Dispensary,10.17758274,12.8888718,PHC,Not Functioning,False
+Borno,Damboa,Damboa,DAMBOA CENTRAL PRIMARY SCHOOL CLINIC,10.2945093,12.88903975,Health Clinic,Functioning,True
+Borno,Damboa,Damboa,GENERAL HOSPITAL,13.0975,12.8903,Health Post,Not Functioning,True
+Borno,Damboa,Damboa,General Hospital MSF clinic,10.15310057,12.90571027,Health Post,Partially Functioning,True
+Borno,Damboa,Damboa,Shuwari Host Community Clinic-UNICEF,10.65705,12.90709,Hospital,Functioning,True
+Borno,Damboa,Damboa,Shuwari Host Community Clinic-UNICEF (Temp),10.22263993,12.91467851,Health Clinic,Functioning,True
+Borno,Damboa,Gumsuri/Misakurbudu,Gumsuri Dispensary,10.18074109,12.91550341,Health Post,Not Functioning,False
+Borno,Damboa,Gumsuri/Misakurbudu,Kaya Dispensary,9.5781,12.91554333,PHC,Partially Functioning,True
+Borno,Damboa,Gumsuri/Misakurbudu,Model Primary Health Care Centre (MPHC) Gumsuri,9.1675,12.91861111,Health Clinic,Functioning,True
+Borno,Damboa,Kafa / Mafi,Abulam Dispensary,8.4533,12.92,Health Post,Partially Functioning,True
+Borno,Damboa,Kafa / Mafi,Dusula Dispensary,10.87933,12.92469,Health Post,Functioning,True
+Borno,Damboa,Kafa / Mafi,Kafa Health Clinic,10.1527688,12.92483681,Health Clinic,Functioning,True
+Borno,Damboa,Mulgwai / Kopchi,Baale Health Clinic,10.14194492,12.92722761,Health Clinic,Functioning,True
+Borno,Damboa,Mulgwai / Kopchi,Bulajilin Dispensary,10.22770537,12.92759664,Health Clinic,Functioning,True
+Borno,Damboa,Mulgwai / Kopchi,Izge Dispensary,12.87166667,12.93222222,Health Clinic,Functioning,True
+Borno,Damboa,Mulgwai / Kopchi,Kopchi Dispensary,8.4623,12.935,Hospital,Functioning,True
+Borno,Damboa,Mulgwai / Kopchi,MUGE DISPENSARY,10.17574575,12.93694928,Health Post,Partially Functioning,True
+Borno,Damboa,Mulgwai / Kopchi,Ngalalimiri Dispensary,8.662192,12.937792,PHC,Functioning,True
+Borno,Damboa,Nguda / Wuyaram,Hausari IDP camp,10.23358482,12.93809744,Health Clinic,Functioning,False
+Borno,Damboa,Nguda / Wuyaram,HAUSARI MEDICINE DUMONDE,10.23420859,12.94632814,Hospital,Functioning,True
+Borno,Damboa,Nguda / Wuyaram,Kachallaburari dispensary,10.26223704,12.9464089,Health Post,Not Functioning,False
+Borno,Damboa,Nguda / Wuyaram,Malaharam Dispensary,9.66733,12.94712167,Health Post,Partially Functioning,True
+Borno,Damboa,Nguda / Wuyaram,Nzuda Mairi Dispensary,10.77485,12.94921,Health Post,Functioning,True
+Borno,Damboa,Wawa / Korede,Bulagibam Dispensary,9.951944444,12.95194444,Health Post,Partially Functioning,True
+Borno,Damboa,Wawa / Korede,Korede Dispensary,9.4980745,12.9529262,Health Clinic,Not Functioning,False
+Borno,Damboa,Wawa / Korede,Wawa Dispensary,10.09597857,12.95445423,Health Post,Partially Functioning,True
+Borno,Dikwa,Boboshe,Boboshe MCH Clinic,10.1638049,12.96681017,Health Post,Not Functioning,False
+Borno,Dikwa,Boboshe,Bulonguwa Maibe Dispensary,10.34059627,12.96812085,Health Post,Not Functioning,False
+Borno,Dikwa,Boboshe,Mujigute Dispensary,10.23059537,12.96942962,Health Clinic,Functioning,True
+Borno,Dikwa,Dikwa,BULA BUSLIN,9.65096767,12.97058167,Health Clinic,Partially Functioning,True
+Borno,Dikwa,Dikwa,Dikwa MCH Clinic,10.31438705,12.97066815,Health Post,Not Functioning,False
+Borno,Dikwa,Dikwa,General Hospital Dkwa,10.16942319,12.97205473,Health Post,Partially Functioning,True
+Borno,Dikwa,Dikwa,PHC DIKWA,10.42300951,12.97432621,PHC,Functioning,True
+Borno,Dikwa,Dikwa,PHC MALLAM MAJA,10.3477271,12.9795794,Health Post,Partially Functioning,True
+Borno,Dikwa,Dikwa,Sangaiya  IDPs Camp,10.703687,12.981865,Health Post,Functioning,True
+Borno,Dikwa,Dikwa,Shehu Sanda Kyarimi IDPs,10.81822,12.98423,PHC,Functioning,True
+Borno,Dikwa,Gajibo,Gajibo MCH Clinic,10.14248815,12.98842541,Health Clinic,Functioning,True
+Borno,Dikwa,Gajibo,GAMEYE HEALTH POST,10.19466311,12.99099488,PHC,Partially Functioning,True
+Borno,Dikwa,Gajibo,NGABURE DISPENSARY,10.23243328,12.99114063,Health Post,Not Functioning,False
+Borno,Dikwa,Magarta / Sheffri,Jejemi Dispensary,9.57807667,12.997955,Health Clinic,Partially Functioning,True
+Borno,Dikwa,Mallam Maja,Mukdala Dispensary,10.14917829,13.00239025,Health Clinic,Not Functioning,False
+Borno,Dikwa,Mudu / Kaza,Kaza Dispensary,10.4441177,13.00327195,Health Post,Functioning,True
+Borno,Dikwa,Mudu / Kaza,Mudu Dispensary,9.50920667,13.01027667,Health Post,Not Functioning,False
+Borno,Dikwa,Mudu / Kaza,Muzuguli Dispensary,10.3249182,13.02092456,Health Post,Partially Functioning,False
+Borno,Dikwa,Muliye / Jemuri,Durbe Dispensary,10.25500901,13.03164177,Health Clinic,Partially Functioning,True
+Borno,Dikwa,Muliye / Jemuri,Masa PHC Clinic,10.21722671,13.03308528,Health Post,Not Functioning,False
+Borno,Dikwa,Muliye / Jemuri,Muliye Dispensary,9.63895,13.03677833,Health Post,Partially Functioning,True
+Borno,Dikwa,Ngudoram,Antul Dispensary,10.37913422,13.03967154,PHC,Functioning,True
+Borno,Dikwa,Ngudoram,Ngudoram Dispensary,10.5896,13.04223,PHC,Functioning,True
+Borno,Dikwa,Sogoma / Afuye,Kudeye Dispensary,10.19173951,13.04334497,Health Post,Functioning,True
+Borno,Dikwa,Sogoma / Afuye,Sogoma Dispensary,10.47922,13.04555,Health Post,Functioning,True
+Borno,Dikwa,Ufaye / Gujile,Bulonguwa Fadabe Dispensary,10.26023725,13.0462507,Health Post,Partially Functioning,True
+Borno,Gubio,Ardimini,Baram Kuruwu Dispensary,10.18296152,13.0463895,Health Clinic,Functioning,True
+Borno,Gubio,Gazabure,Gazabure Dispensary,10.11382748,13.0511198,Health Clinic,Functioning,True
+Borno,Gubio,Gubio Town  I,BAZAM DISPENSARY,10.7532,13.0516,PHC,Functioning,True
+Borno,Gubio,Gubio Town  I,Goni Abatchari Health Clinic,9.59492,13.05348,Health Post,Not Functioning,False
+Borno,Gubio,Gubio Town  I,Gubio MCH Clinic,10.025165,13.06273335,Health Clinic,Partially Functioning,False
+Borno,Gubio,Gubio Town II,General Hospital Gubio,10.25083333,13.06861111,Health Clinic,Functioning,True
+Borno,Gubio,Kingowa,DUNGA DISPENSARY,11.82787,13.07246,IDP Clinic,Not Functioning,False
+Borno,Gubio,Kingowa,KINGOWA HEALTH CLINIC,11.83788,13.07336,Health Clinic,Functioning,True
+Borno,Gubio,Ngetra,Bindoldul Dispensary,10.10594106,13.07603821,Health Clinic,Partially Functioning,True
+Borno,Gubio,Ngetra,MODEL PRIMARY HEALTH CARE CENTRE(MPHC),10.28298032,13.07619089,PHC,Partially Functioning,True
+Borno,Gubio,Ngetra,NGETRA COMPREHENSIVE HEALTH CARE,10.047138,13.07809,Health Post,Partially Functioning,True
+Borno,Gubio,Zowo,Model Primary Health care Centre (MPHC) Zowo,11.83529,13.07969,Health Clinic,Not Functioning,False
+Borno,Guzamala,Aduwa,Aduwa Health Clinic,10.4971,13.08218,Health Post,Functioning,True
+Borno,Guzamala,Gudumbali East,Bulturam Health Clinic,10.32762992,13.08332941,PHC,Functioning,True
+Borno,Guzamala,Gudumbali East,General Hospital Gudumbali,11.83035,13.0845,Health Clinic,Functioning,True
+Borno,Guzamala,Gudumbali East,Gudumbali MCH Clinic,11.83429,13.08778,Hospital,Functioning,True
+Borno,Guzamala,Gudumbali West,GARANDA HEALTH CLINIC,10.2666449,13.09456548,PHC,Partially Functioning,True
+Borno,Guzamala,Guworam,LINGIR HEALTH CLINIC,10.39957359,13.09729858,PHC,Not Functioning,False
+Borno,Guzamala,Guzamala East,Goni Adamti Health Clinic,10.01611111,13.0975,Health Clinic,Partially Functioning,False
+Borno,Guzamala,Guzamala West,Guzamala Health Clinic,12.1094,13.0983,Health Post,Functioning,True
+Borno,Guzamala,Kingarwa,BUWA HEALTH CLINIC,10.0907233,13.0993483,Health Clinic,Partially Functioning,True
+Borno,Guzamala,Kingarwa,Kingarwa Health Clinic,11.5047,13.1001,Health Post,Functioning,True
+Borno,Guzamala,Mairari,Aligambari MCH Clinic,9.627565,13.100583,Health Clinic,Partially Functioning,False
+Borno,Guzamala,Moduri,Moduri Health Clinic,11.84478,13.10065,IDP Clinic,Functioning,True
+Borno,Guzamala,Wamiri,Wamiri Health Clinic,11.82777,13.10154,PHC,Functioning,True
+Borno,Gwoza,Ashigashiya,Ashigasha Health Clinic,9.645517,13.103397,PHC,Functioning,True
+Borno,Gwoza,Bita / Izge,Izge MCH,9.789108,13.105385,Health Clinic,Functioning,False
+Borno,Gwoza,Bita / Izge,Izge PHC Clinic,9.551807,13.106207,PHC,Functioning,True
+Borno,Gwoza,Bita / Izge,Modube Dispensary,9.57289,13.106588,Health Post,Not Functioning,False
+Borno,Gwoza,Dure / Wala / Warabe,Dure Dispensary,10.1339516,13.108015,Health Clinic,Not Functioning,False
+Borno,Gwoza,Dure / Wala / Warabe,Takwala Dispensary,10.35301136,13.10839844,PHC,Partially Functioning,True
+Borno,Gwoza,Dure / Wala / Warabe,Wala MCH Clinic,10.20763983,13.10847151,Health Clinic,Functioning,True
+Borno,Gwoza,Dure / Wala / Warabe,Warabe Dispensary,10.50247,13.10933,Health Post,Not Functioning,True
+Borno,Gwoza,Gavva / Agapalwa,Agafalawa Dispensary,10.070416,13.1103466,Health Clinic,Not Functioning,False
+Borno,Gwoza,Gavva / Agapalwa,Gava Dispensary,11.90636,13.11101,Hospital,Functioning,True
+Borno,Gwoza,Guduf Nagadiyo,Guduf Dispensary,10.4453,13.1136,Health Post,Functioning,True
+Borno,Gwoza,Guduf Nagadiyo,Kimbe Dispensary,9.711693,13.113607,Health Clinic,Partially Functioning,False
+Borno,Gwoza,Gwoza Town Gadamayo,General Hospital Gwoza,11.78653,13.11547,IDP Clinic,Functioning,True
+Borno,Gwoza,Gwoza Town Gadamayo,GWOZA HEALTH CLINIC,10.71312,13.11743,Health Clinic,Partially Functioning,True
+Borno,Gwoza,Gwoza Town Gadamayo,MCH CLINIC,10.71313,13.11749,Health Post,Not Functioning,False
+Borno,Gwoza,Gwoza Wakane / Bulabulin,Fadagwe Dispensary,9.970682,13.117687,Health Clinic,Partially Functioning,False
+Borno,Gwoza,Hambagda/ Liman Kara/ New Settlement,Jaje Dispensary,10.30117125,13.118438,Health Post,Partially Functioning,False
+Borno,Gwoza,Hambagda/ Liman Kara/ New Settlement,Limankara Health Clinic,11.86515,13.11874,Hospital,Functioning,True
+Borno,Gwoza,Hambagda/ Liman Kara/ New Settlement,Valangede Health Clinic,11.82635,13.1193,IDP Clinic,Functioning,True
+Borno,Gwoza,Hambagda/ Liman Kara/ New Settlement,Yamatake Dispensary,10.33009858,13.12090495,Health Post,Partially Functioning,False
+Borno,Gwoza,Johode/Chikide/Kughum,Arboko Health Clinic,11.79134,13.1214,IDP Clinic,Functioning,True
+Borno,Gwoza,Johode/Chikide/Kughum,Barawa PHC Clinic,10.23203,13.12302,Health Clinic,Functioning,True
+Borno,Gwoza,Johode/Chikide/Kughum,EYN Clinic,11.85773,13.12327,PHC,Functioning,True
+Borno,Gwoza,Johode/Chikide/Kughum,Hada Kaya Dispensary,10.171825,13.1243783,Health Clinic,Not Functioning,True
+Borno,Gwoza,Johode/Chikide/Kughum,Kugum Health Clinic,10.2058783,13.1250833,Health Clinic,Partially Functioning,True
+Borno,Gwoza,Kirawa/Jimini,General Hospital Kirawa,11.87328,13.127,Health Clinic,Not Functioning,False
+Borno,Gwoza,Kirawa/Jimini,Kirawa Dispensary,9.535075,13.1277,Health Clinic,Partially Functioning,False
+Borno,Gwoza,Kirawa/Jimini,Ndaba Health Clinic,11.83754,13.1303,Health Clinic,Functioning,True
+Borno,Gwoza,Kurana Bassa/Ngoshe - Sama'A,Huduncha Dispensary,10.09171,13.1311766,PHC,Functioning,True
+Borno,Gwoza,Kurana Bassa/Ngoshe - Sama'A,Ngoshe Sama Dispensary,11.79203,13.13175,IDP Clinic,Functioning,True
+Borno,Gwoza,Ngoshe,General Hospital Ngoshe,11.84475,13.13463,IDP Clinic,Functioning,True
+Borno,Gwoza,Pulka/Bokko,BOKO DISPENSARY,10.0395066,13.1347516,PHC,Functioning,True
+Borno,Gwoza,Pulka/Bokko,EYN Clinic,11.86073,13.13701,Health Clinic,Partially Functioning,True
+Borno,Gwoza,Pulka/Bokko,Pulka Health Clinic,10.24932011,13.1407311,Health Post,Partially Functioning,True
+Borno,Gwoza,Pulka/Bokko,Pulka MCH Clinic,10.24932011,13.1407311,PHC,Partially Functioning,True
+Borno,Hawul,Bilingwi,FSP Clinic Ghumma,11.86111,13.14129,Health Clinic,Functioning,True
+Borno,Hawul,Dzar/ Vinadum/ Birni/ Dlandi,GRIMDAMCHORA DISPENSARY,10.007553,13.142745,Health Clinic,Partially Functioning,False
+Borno,Hawul,Dzar/ Vinadum/ Birni/ Dlandi,Vinadam Dispensary,11.82681,13.14424,Hospital,Functioning,True
+Borno,Hawul,Gwanzang  Pusda,Chata Dispensary,11.1443,13.14439,Health Clinic,Functioning,True
+Borno,Hawul,Gwanzang  Pusda,Mbulatawiwi Dispensary,11.8266,13.14463,Health Clinic,Functioning,True
+Borno,Hawul,Hizhi,General Hospital Azare,11.85374,13.14502,Health Clinic,Functioning,True
+Borno,Hawul,Hizhi,Pelathabu Dispensary,11.85295,13.14753,Health Post,Functioning,True
+Borno,Hawul,Kida,Gyarha Dispensary,11.88002,13.14761,Health Clinic,Functioning,True
+Borno,Hawul,Kida,Kida PHC Clinic,11.8455,13.14769,IDP Clinic,Functioning,True
+Borno,Hawul,Kida,Yimirshika Health Post,11.83926,13.15012,Hospital,Functioning,True
+Borno,Hawul,Kwajaffa/Hang,Gangshaffa Dispensary,11.83619,13.15104,Hospital,Functioning,True
+Borno,Hawul,Kwajaffa/Hang,Harang Dispensary,10.2432767,13.15343259,PHC,Functioning,True
+Borno,Hawul,Kwajaffa/Hang,Kirputu PHC Clinic,11.85796,13.15575,Health Clinic,Functioning,True
+Borno,Hawul,Kwajaffa/Hang,Kwaguhulatu Dispensary,11.84547,13.15629,Health Clinic,Functioning,True
+Borno,Hawul,Kwajaffa/Hang,Kwajafa Dispensary,10.31776154,13.15800418,PHC,Partially Functioning,True
+Borno,Hawul,Kwajaffa/Hang,T/ Alade Dispensary,10.0582766,13.158466,Health Post,Partially Functioning,True
+Borno,Hawul,Kwaya-Bur/Tanga Rumta,EYN DHC DURKWA,12.49215,13.15876,Health Clinic,Partially Functioning,True
+Borno,Hawul,Kwaya-Bur/Tanga Rumta,Kwayabura Dispensary,10.1222933,13.1595916,PHC,Functioning,True
+Borno,Hawul,Kwaya-Bur/Tanga Rumta,MULBIYA DISPENSARY,11.85683,13.15964,Health Clinic,Functioning,True
+Borno,Hawul,Marama/Kidang,GENERAL HOSPITAL MARAMA,11.8476,13.16102,Health Clinic,Functioning,True
+Borno,Hawul,Marama/Kidang,Kidang Dispensary,10.32889335,13.16169338,PHC,Partially Functioning,True
+Borno,Hawul,Pama/Whitambaya,Pama Dispensary,10.31051151,13.16304799,Health Clinic,Functioning,True
+Borno,Hawul,Pama/Whitambaya,Whitambaya Dispensary,10.359973,13.16308306,Health Post,Not Functioning,False
+Borno,Hawul,Puba/Vidau/Lokoja,Gwalam Dispensary,9.560703,13.16559,Health Clinic,Functioning,False
+Borno,Hawul,Puba/Vidau/Lokoja,Gyung Health Post,10.29918227,13.16654556,Health Clinic,Functioning,True
+Borno,Hawul,Puba/Vidau/Lokoja,Hyera Dispensary,11.85117,13.16814,Hospital,Partially Functioning,True
+Borno,Hawul,Puba/Vidau/Lokoja,Kukurupu Dispensary,11.85103,13.16856,Health Post,Functioning,True
+Borno,Hawul,Puba/Vidau/Lokoja,LOKOJA DISPENSARY,10.40212914,13.16874924,Health Clinic,Functioning,True
+Borno,Hawul,Puba/Vidau/Lokoja,PELABIRNI DISPENSARY,11.86728,13.16914,Health Clinic,Functioning,True
+Borno,Hawul,Sakwa/Hema,Hema Health Post,10.13068,13.17048,Health Clinic,Partially Functioning,True
+Borno,Hawul,Sakwa/Hema,SAKWA PHC,11.83982,13.17052,Health Post,Functioning,True
+Borno,Hawul,Shaffa,EYN Dispensary,11.79107,13.17156,Health Clinic,Functioning,True
+Borno,Hawul,Shaffa,Gula Dispensary,11.79107,13.17156,Hospital,Functioning,True
+Borno,Hawul,Shaffa,SHAFFA PHC,10.17629,13.1735383,PHC,Functioning,True
+Borno,Jere,Alau,ALAU DISPENSARY,11.84662,13.17387,Health Post,Functioning,True
+Borno,Jere,Bale Galtimari,Fori Health Clinic,11.8514,13.17616,Health Clinic,Functioning,True
+Borno,Jere,Bale Galtimari,Jiddari Health Clinic,11.79972,13.1779,Health Clinic,Partially Functioning,True
+Borno,Jere,Bale Galtimari,Royal Hospital,11.81593,13.17796,Health Clinic,Functioning,True
+Borno,Jere,Dala Lawanti,Dala Dispensary,9.932067,13.178748,Health Post,Not Functioning,False
+Borno,Jere,Dusuman,CHAD BASIN CLINIC,11.87829,13.17941,IDP Clinic,Functioning,True
+Borno,Jere,Dusuman,CUSTOM HOUSE IDP CAMP CLINIC,11.8473,13.18106,Health Clinic,Functioning,True
+Borno,Jere,Dusuman,DUSUMAN CLINIC,10.06287,13.1843916,PHC,Functioning,True
+Borno,Jere,Dusuman,Farm Centre IDP Camp,10.026116,13.1845116,Health Clinic,Partially Functioning,False
+Borno,Jere,Dusuman,Muna IDP Camp Clinic A,10.39769597,13.18582713,Health Clinic,Partially Functioning,True
+Borno,Jere,Dusuman,Muna IDP Camp Clinic B,9.952092,13.186055,PHC,Partially Functioning,False
+Borno,Jere,Dusuman,Police Hospital,11.80327,13.18634,Health Clinic,Not Functioning,False
+Borno,Jere,Gomari,Dominion Maternity,11.81101,13.188,Health Clinic,Functioning,True
+Borno,Jere,Gomari,Gomari Health Clinic,11.80317,13.18827,Health Clinic,Functioning,True
+Borno,Jere,Gomari,RAHAMA CLINIC,12.53075,13.18881,Health Clinic,Partially Functioning,False
+Borno,Jere,Gomari,Rehabilitation Centre IDP Camp,10.06519893,13.1897933,Hospital,Functioning,False
+Borno,Jere,Gomari,Umaru Shehu Ultra Modern Hospital,10.211677,13.190472,Health Clinic,Partially Functioning,True
+Borno,Jere,Gongulong,7 Division Hospital Maimalari,11.92189,13.19148,PHC,Partially Functioning,True
+Borno,Jere,Gongulong,Gongulong Comprensive Health Centre,9.935823,13.193205,Health Clinic,Partially Functioning,False
+Borno,Jere,Gongulong,Kesa Kura Dispensary,10.41598,13.19506,Health Post,Partially Functioning,True
+Borno,Jere,Maimusari,Maimusari Health Clinic,10.1149866,13.1951216,PHC,Partially Functioning,True
+Borno,Jere,Mairi,Dalori IDP Camp Airforce,10.113846,13.1961216,Health Clinic,Partially Functioning,False
+Borno,Jere,Mairi,Dalori Quarters Health Clinic,10.159282,13.19656,Health Post,Partially Functioning,True
+Borno,Jere,Mairi,Divine Health Clinic,11.84805,13.19798,IDP Clinic,Functioning,True
+Borno,Jere,Mairi,Federal Training Centre Dalori IDP Camp clinic B,11.84825,13.19807,Health Clinic,Functioning,True
+Borno,Jere,Mairi,Federal Training Centre Dalori IDP Camp clinic C,10.63478,13.19859,Health Post,Partially Functioning,True
+Borno,Jere,Mairi,Mairi Health Clinic,10.0919783,13.198725,Health Clinic,Partially Functioning,True
+Borno,Jere,Mairi,NAF Emaergency medical centre IDPs camp,10.23451,13.20061,Health Post,Not Functioning,False
+Borno,Jere,Mairi,UniMaid Health Clinic,9.891205,13.200755,Health Clinic,Partially Functioning,True
+Borno,Jere,Mairi,University of Maiduguri Teaching Hospital (UMTH),11.8515,13.20135,Health Clinic,Functioning,True
+Borno,Jere,Mashamari,505 Housing Estate Health Clinic,9.891165,13.20451,PHC,Functioning,False
+Borno,Jere,Mashamari,Goni Kachallari IDP Camp,10.22500664,13.20541378,Health Post,Not Functioning,False
+Borno,Jere,Mashamari,Mashamari Health Clinic,10.119965,13.206745,Health Post,Functioning,True
+Borno,Jere,Mashamari,Taimakon Jamaa Health Clinic,10.136067,13.207002,PHC,Partially Functioning,True
+Borno,Jere,Ngudaa/Addamari,Khadamari Health Clinic,12.4853,13.20794,Hospital,Not Functioning,False
+Borno,Jere,Ngudaa/Addamari,Zabarmari Health Clinic,10.38921189,13.20944696,Health Post,Not Functioning,False
+Borno,Jere,Old Maiduguri,Dalaram Health Clinic,10.45601,13.21016,Health Clinic,Partially Functioning,True
+Borno,Jere,Old Maiduguri,Madinatu IDP Camp,12.48785,13.21232,Health Post,Partially Functioning,False
+Borno,Jere,Tuba,Aliturari Dispensary,10.014085,13.21336,Health Clinic,Partially Functioning,False
+Borno,Jere,Tuba,Tuba dispensary,12.49424,13.21383,Health Clinic,Partially Functioning,True
+Borno,Kaga,Afa/Dig/Maudori,Fai Dispensary,10.1148367,13.21407563,Health Clinic,Not Functioning,False
+Borno,Kaga,Benisheikh,Benisheik MCH Clinic,11.86163,13.21465,IDP Clinic,Functioning,True
+Borno,Kaga,Benisheikh,General Hospital Benisheik,10.32061,13.21632,Health Post,Not Functioning,False
+Borno,Kaga,Dongo,Dongo Dispensary,11.85973,13.21639,Hospital,Functioning,True
+Borno,Kaga,Galangi,Galangi Health Clinic,10.45130247,13.21792718,PHC,Partially Functioning,True
+Borno,Kaga,Guwo,Guwo Dispensary,11.77678,13.21816,Health Clinic,Functioning,True
+Borno,Kaga,Karagawaru,Karagawaru Dispensary,9.993427,13.218328,PHC,Partially Functioning,False
+Borno,Kaga,Mainok,Mainok MCH Clinic,10.1234116,13.2188566,PHC,Functioning,True
+Borno,Kaga,Marguba,Marguba Dispensary,9.63697,13.21892,Health Clinic,Partially Functioning,False
+Borno,Kaga,Ngamdu,PRIMARY HEALTH CENTRE,10.24789554,13.21939466,Health Post,Not Functioning,False
+Borno,Kaga,Ngamdu,Tamsu Kawu PHC Clinic,10.27889545,13.21939777,Health Post,Not Functioning,False
+Borno,Kaga,Shettimari,Shettimari Health Clinic,11.86389,13.2208,Health Clinic,Functioning,True
+Borno,Kaga,Tobolo,Tobolo Health Clinic,10.150915,13.22124,PHC,Partially Functioning,True
+Borno,Kaga,Wajiro / Burgumma,Burguma Dispensary,9.90498,13.223195,Health Clinic,Not Functioning,False
+Borno,Kaga,Wajiro / Burgumma,Maintakururi MCH Clinic,11.77923,13.22321,Health Clinic,Functioning,True
+Borno,Kaga,Wassaram,Wasaram MCH Clinic,10.35370977,13.22324032,Health Post,Not Functioning,False
+Borno,Kala/Balge,Jarawa/Sangaya,Jarawa Dispensary,10.199757,13.223344,PHC,Functioning,True
+Borno,Kala/Balge,"Jilbe  ""A""",Jilbe PHC Clinic,11.77898,13.22375,IDP Clinic,Functioning,True
+Borno,Kala/Balge,"Jilbe ""B""/Koma Kaudi",Koma Kaudi Health Clinic,11.78076,13.22392,IDP Clinic,Functioning,True
+Borno,Kala/Balge,"Jilbe ""B""/Koma Kaudi",KURFA HEALTH POST,10.46039455,13.22419563,Health Clinic,Partially Functioning,True
+Borno,Kala/Balge,Kala,Kala Dispensary,9.666647,13.22494,PHC,Functioning,True
+Borno,Kala/Balge,Kumaga,KALMA HEALTH CLINIC,9.9561,13.226665,Health Clinic,Partially Functioning,False
+Borno,Kala/Balge,Mada,Minsherde Health Clinic,11.78132,13.22677,IDP Clinic,Functioning,True
+Borno,Kala/Balge,Moholo,Moholo Health Post,9.974043,13.226875,Health Clinic,Partially Functioning,False
+Borno,Kala/Balge,"Rann  ""A""",ICRC CLINIC,10.45840467,13.22701988,Health Clinic,Partially Functioning,True
+Borno,Kala/Balge,"Rann  ""A""",MSF IDP CLINIC,10.373142,13.229003,PHC,Partially Functioning,True
+Borno,Kala/Balge,"Rann  ""A""",RANN GENERAL HOSPITAL,10.149432,13.230827,Health Clinic,Not Functioning,False
+Borno,Kala/Balge,"Rann  ""A""",RANN IDP CLINIC,10.383,13.2311,Hospital,Partially Functioning,True
+Borno,Kala/Balge,"Rann  ""A""",RANN PHC CLINIC,9.91595,13.23283,Health Clinic,Not Functioning,False
+Borno,Kala/Balge,"Rann  ""A""",Tilam Health Clinic,10.054407,13.23496,Health Clinic,Functioning,False
+Borno,Kala/Balge,"Rann  ""A""",Wumbi Health Clinic,10.4838455,13.23595632,Health Post,Not Functioning,False
+Borno,Kala/Balge,"Rann ""B''/Daima",Daima Health clinic,9.924187,13.237023,Health Clinic,Functioning,False
+Borno,Kala/Balge,"Rann ""B''/Daima",Sabkura Health Clinic,10.194725,13.238687,PHC,Functioning,True
+Borno,Kala/Balge,Sigal/Karche,Bulung Health Clinic,10.441397,13.240775,PHC,Partially Functioning,True
+Borno,Kala/Balge,Sigal/Karche,Sigal MCH Clinic,11.928,13.24294,Health Clinic,Functioning,True
+Borno,Kala/Balge,Sigal/Karche,Sigal PHC,10.28061,13.24318,Health Post,Functioning,True
+Borno,Konduga,Auno / Chabbol,1000 Housing Estate Health Clinic,10.073545,13.245738,Health Post,Partially Functioning,False
+Borno,Konduga,Auno / Chabbol,400 Housing Estate Gubio Road IDP Camp Clinic A,10.00112,13.246187,Health Clinic,Partially Functioning,False
+Borno,Konduga,Auno / Chabbol,400 Housing Estate Gubio Road IDP Camp Clinic B,10.092463,13.246351,Health Clinic,Partially Functioning,False
+Borno,Konduga,Auno / Chabbol,777 Housing Estate Health Clinic,9.745787,13.248883,PHC,Functioning,False
+Borno,Konduga,Auno / Chabbol,AUNO HEALTH CLINIC,11.85126,13.24956,Health Clinic,Functioning,True
+Borno,Konduga,Auno / Chabbol,CHABBAL HEALTH CLINIC,11.87126,13.24976,IDP Clinic,Functioning,True
+Borno,Konduga,Auno / Chabbol,NAF CLINIC,10.105473,13.250427,Health Clinic,Partially Functioning,True
+Borno,Konduga,Auno / Chabbol,Njimtilo Health Clinic,11.8743,13.25059,IDP Clinic,Functioning,True
+Borno,Konduga,Auno / Chabbol,Pompomari Health Clinic,10.25893,13.251335,Health Clinic,Functioning,True
+Borno,Konduga,Auno / Chabbol,TUNGUSHE HEALTH CLINIC,10.23124,13.252161,PHC,Functioning,True
+Borno,Konduga,Dalori / Wanori,250 Housing Estate (Kofa) Camp Clinic,10.265134,13.25223,Health Clinic,Functioning,True
+Borno,Konduga,Dalori / Wanori,Dalori Health Clinic,10.201625,13.25348,Health Clinic,Functioning,True
+Borno,Konduga,Dalori / Wanori,Dengelti Health Clinic,10.261358,13.255423,Health Post,Partially Functioning,True
+Borno,Konduga,Dalori / Wanori,Wanori Health Clinic,10.2693242,13.2557067,Health Post,Not Functioning,False
+Borno,Konduga,Dawa East / Malari / Kangamari,BIDINGERI CLINIC,10.243438,13.25614,PHC,Functioning,True
+Borno,Konduga,Dawa East / Malari / Kangamari,Sherifdariri Health Clinic,10.147286,13.257236,Health Post,Partially Functioning,True
+Borno,Konduga,Jewu / Lamboa,ABBA FURI CLINIC,10.304305,13.257643,Health Clinic,Partially Functioning,True
+Borno,Konduga,Jewu / Lamboa,Jakana Comprehensive Health Centre,10.26207,13.257942,Health Post,Functioning,True
+Borno,Konduga,Jewu / Lamboa,Jewu Health Clinic,11.8942,13.26102,Health Clinic,Partially Functioning,True
+Borno,Konduga,Kawuri,Aulari Health Clinic,10.5186111,13.2613889,Health Clinic,Not Functioning,False
+Borno,Konduga,Kawuri,Kashimiri Health Clinic,10.319433,13.262505,Health Clinic,Not Functioning,True
+Borno,Konduga,Kawuri,Kawuri MCH Clinic,10.260248,13.263537,Health Post,Partially Functioning,True
+Borno,Konduga,Kawuri,Maidurmari Health Clinic,10.27929,13.265735,PHC,Partially Functioning,True
+Borno,Konduga,Kelumiri / Ngalbi Amari / Yale,Gabchari Health Clinic,10.261018,13.266703,Health Clinic,Not Functioning,False
+Borno,Konduga,Kelumiri / Ngalbi Amari / Yale,Mastagujari Health Clinic,10.261698,13.266865,Health Clinic,Functioning,True
+Borno,Konduga,Kelumiri / Ngalbi Amari / Yale,Model Primary Health Care Centre (MPHC) Yale,10.314903,13.267453,PHC,Partially Functioning,True
+Borno,Konduga,Konduga,28 HOUSING CLINIC,10.66837,13.26753,Health Post,Functioning,True
+Borno,Konduga,Konduga,Boarding Primary School IDP Camp,10.304205,13.267601,Health Post,Not Functioning,False
+Borno,Konduga,Konduga,General Hospital Konduga,10.266567,13.268017,Health Clinic,Partially Functioning,True
+Borno,Konduga,Konduga,Konduga MCH Clinic,10.259057,13.268425,Health Post,Functioning,True
+Borno,Konduga,Mairamri / Yeleri / Bazamri,Arnari Health Clinic,10.273952,13.270077,PHC,Partially Functioning,True
+Borno,Konduga,Mairamri / Yeleri / Bazamri,Lawanti Health Clinic,10.06375,13.270207,Health Clinic,Partially Functioning,False
+Borno,Konduga,Mairamri / Yeleri / Bazamri,Mairari PHC Clinic,10.261765,13.270277,Hospital,Functioning,True
+Borno,Konduga,Mairamri / Yeleri / Bazamri,Malari Dispensary,10.266593,13.27116,PHC,Functioning,True
+Borno,Konduga,Mairamri / Yeleri / Bazamri,Muktari Health Clinic,10.26642,13.272317,PHC,Partially Functioning,True
+Borno,Konduga,Mairamri / Yeleri / Bazamri,Yabbal Health Clinic,10.262358,13.273357,Health Post,Functioning,True
+Borno,Konduga,Masba / Dalwa West,Dalwa Dispensary,10.270415,13.2749478,PHC,Functioning,True
+Borno,Konduga,Masba / Dalwa West,MAICHURI HEALTH CLINIC,10.5303333,13.27778,Health Clinic,Partially Functioning,True
+Borno,Konduga,Masba / Dalwa West,Mastafantamiri Health Clinic,10.55777778,13.27778,PHC,Functioning,True
+Borno,Konduga,Masba / Dalwa West,Masuwa Abbari Health Clinic,10.72607,13.278287,Health Clinic,Partially Functioning,True
+Borno,Konduga,Nyaleri/Sandia/Yejiwa,Abulam Health Clinic,10.252651,13.27839,Health Post,Functioning,True
+Borno,Konduga,Nyaleri/Sandia/Yejiwa,Bulabulin Health Clinic,10.593208,13.279768,Health Clinic,Functioning,True
+Borno,Konduga,Nyaleri/Sandia/Yejiwa,Nyaleri Health Clinic,10.51043,13.279785,Health Post,Not Functioning,True
+Borno,Konduga,Nyaleri/Sandia/Yejiwa,Sandia Dispensary,9.968438,13.280462,Health Clinic,Functioning,False
+Borno,Konduga,Nyaleri/Sandia/Yejiwa,Yagiwa Health Clinic,10.275175,13.28087,Health Post,Partially Functioning,True
+Borno,Konduga,Sojiri/ Nguro - Nguro,Ajiri Binami Health Clinic,10.436555,13.280887,Health Clinic,Not Functioning,True
+Borno,Konduga,Sojiri/ Nguro - Nguro,Champu Health Clinic,10.282467,13.280924,Hospital,Partially Functioning,True
+Borno,Konduga,Sojiri/ Nguro - Nguro,Kayamla Health Clinic,10.247485,13.282588,PHC,Functioning,True
+Borno,Konduga,Sojiri/ Nguro - Nguro,Kimeri Health Clinic,10.499937,13.282973,Health Clinic,Not Functioning,True
+Borno,Kukawa,Alagarno,Alagarno Health Clinic,10.473397,13.283158,PHC,Partially Functioning,True
+Borno,Kukawa,Alagarno,Doran Naira Health Clinic,10.26634,13.283898,Health Clinic,Functioning,True
+Borno,Kukawa,Alagarno,Kangarwa Health Clinic,12.54113,13.28391,Health Clinic,Not Functioning,False
+Borno,Kukawa,Alagarno,Shiwaram Health Clinic,10.608972,13.284292,Health Clinic,Functioning,True
+Borno,Kukawa,Baga,Baga COCIN Health Clinic,10.269192,13.287083,Health Post,Partially Functioning,True
+Borno,Kukawa,Baga,BAGA PHC CLINIC,10.240305,13.287643,PHC,Partially Functioning,False
+Borno,Kukawa,Bundur,Barwati Health Clinic,10.207805,13.287877,Health Post,Functioning,True
+Borno,Kukawa,Bundur,Bundur Health Clinic,10.283401,13.2893001,Health Post,Partially Functioning,True
+Borno,Kukawa,Dogoshi,Dogoshi Health Clinic,10.282032,13.289668,PHC,Partially Functioning,True
+Borno,Kukawa,Doro / Duguri,DORO PHC CLINIC,10.27421,13.291825,Health Clinic,Partially Functioning,True
+Borno,Kukawa,Doro / Duguri,Duguri Health Clinic,10.9972,13.2953,Health Clinic,Partially Functioning,True
+Borno,Kukawa,Doro / Duguri,MADAYI HEALTH CLINIC,10.648874,13.296899,PHC,Partially Functioning,True
+Borno,Kukawa,Kauwa,FSP Cross CLINIC,10.170755,13.299698,Health Post,Partially Functioning,True
+Borno,Kukawa,Kekeno,Dabar Masara Health Clinic,10.157057,13.302193,PHC,Functioning,True
+Borno,Kukawa,Kekeno,Kekeno PHC Clinic,10.091134,13.30234,Health Post,Partially Functioning,True
+Borno,Kukawa,Kekeno,Kwata Daban Masara PHC Clinic,10.328668,13.304427,Health Clinic,Partially Functioning,True
+Borno,Kukawa,Kekeno,Malam Bayeri Dispensary,10.106808,13.304924,Health Post,Partially Functioning,True
+Borno,Kukawa,Kekeno,Mile 90 PHC Clinic,10.32135,13.306088,Health Post,Partially Functioning,False
+Borno,Kukawa,Kukawa,General Hospital Kukawa,10.412677,13.308015,PHC,Partially Functioning,True
+Borno,Kukawa,Kukawa,KUKAWA MCH CLINIC,10.420693,13.30916,PHC,Partially Functioning,False
+Borno,Kukawa,Moduari / Barwari,Ali Sheriff Health Clinic,10.322875,13.309278,PHC,Partially Functioning,False
+Borno,Kukawa,Yoyo,Yoyo Health Clinic,10.688547,13.309521,Health Clinic,Partially Functioning,True
+Borno,Kwaya Kusar,Gondi,EYN Wandali Health Clinic,10.404223,13.309702,Health Clinic,Not Functioning,True
+Borno,Kwaya Kusar,Gusi / Billa,Fika Dispensary,10.197347,13.310308,PHC,Functioning,True
+Borno,Kwaya Kusar,Gusi / Billa,Gusi Dispensary,10.106732,13.31212,PHC,Functioning,True
+Borno,Kwaya Kusar,Guwal,Guwal Dispensary,10.286005,13.312315,Health Post,Partially Functioning,True
+Borno,Kwaya Kusar,Guwal,Savira Dispensary,10.2285,13.315498,Health Clinic,Partially Functioning,True
+Borno,Kwaya Kusar,Gwandi,Wandali PHC Clinic,9.541,13.317,Health Clinic,Functioning,True
+Borno,Kwaya Kusar,Kubuku,DAYAR DISPENSARY,11.70918,13.32075,Health Clinic,Functioning,True
+Borno,Kwaya Kusar,Kubuku,Kubuku Dispensary,10.217792,13.321622,PHC,Functioning,True
+Borno,Kwaya Kusar,Kubuku,Kwardum Dispensary,10.632908,13.322529,PHC,Functioning,True
+Borno,Kwaya Kusar,Kurba,JUGGAL DISPENSARY,10.496967,13.324185,Health Clinic,Not Functioning,True
+Borno,Kwaya Kusar,Kurba,Kurbagayi MCH Clinic,10.34818,13.324533,PHC,Partially Functioning,True
+Borno,Kwaya Kusar,Kurba,Kurbagayi PHC Clinic,10.571003,13.326408,PHC,Partially Functioning,True
+Borno,Kwaya Kusar,Kwaya Kusar,Babadidi Health Clinic,10.568395,13.327325,Health Clinic,Partially Functioning,False
+Borno,Kwaya Kusar,Kwaya Kusar,Gadam Dispensary,10.94501713,13.32964929,Health Clinic,Functioning,True
+Borno,Kwaya Kusar,Kwaya Kusar,General Hospital Kwaya,10.99724,13.32984,Health Clinic,Partially Functioning,True
+Borno,Kwaya Kusar,Kwaya Kusar,Guba Dispensary,12.61779,13.33109,Health Clinic,Functioning,True
+Borno,Kwaya Kusar,Kwaya Kusar,Kwaya Kusar MCH Clinic,10.500425,13.331648,PHC,Functioning,True
+Borno,Kwaya Kusar,Kwaya Kusar,Kwaya Town Dispensary,10.648358,13.333196,PHC,Functioning,True
+Borno,Kwaya Kusar,Peta,Peta Dispensary,10.4477,13.335283,Health Post,Not Functioning,True
+Borno,Kwaya Kusar,Wada,EYN Fesingo Health Clinic,10.802328,13.335312,Health Post,Not Functioning,False
+Borno,Kwaya Kusar,Wada,Kogu Dispensary,10.259063,13.335643,Health Clinic,Functioning,True
+Borno,Kwaya Kusar,Wawa,Wawa Dispensary,10.577642,13.336673,Health Post,Partially Functioning,True
+Borno,Kwaya Kusar,Yimirthalang,Bahai Dispensary,10.737975,13.337898,Health Clinic,Partially Functioning,True
+Borno,Kwaya Kusar,Yimirthalang,Bilazi Dispensary,10.515703,13.339432,Health Post,Not Functioning,False
+Borno,Kwaya Kusar,Yimirthalang,Yimirdalang PHC Clinic,10.579813,13.340788,PHC,Functioning,True
+Borno,Mafa,Abbari,Zengebe Health Clinic,10.2778167,13.341105,Health Clinic,Partially Functioning,True
+Borno,Mafa,Ajiri,Ajiri Health Clinic,10.490428,13.343502,PHC,Partially Functioning,True
+Borno,Mafa,Gawa,Dugumba Health Clinic,10.588252,13.349188,Health Clinic,Not Functioning,False
+Borno,Mafa,Gawa,Gawa Health Clinic,10.50439,13.34958,Health Clinic,Not Functioning,True
+Borno,Mafa,Koshebe,Koshebe Comprensive Health Centre,9.103888889,13.35055556,Health Clinic,Partially Functioning,False
+Borno,Mafa,Laje,Laje Comprensive Health Centre,10.784852,13.352437,PHC,Functioning,True
+Borno,Mafa,Laje,MASKA Health Centre,10.719653,13.357055,Health Post,Not Functioning,False
+Borno,Mafa,Limanti,Azaya Health Clinic,10.131692,13.358028,PHC,Functioning,True
+Borno,Mafa,Loskuri,Loskuri Health Clinic,10.54668,13.358363,Health Clinic,Partially Functioning,True
+Borno,Mafa,Loskuri,Ngowum Health Clinic,10.182585,13.359473,PHC,Functioning,True
+Borno,Mafa,Ma'Afa,General Hospital Mafa,10.24406,13.360018,PHC,Functioning,True
+Borno,Mafa,Ma'Afa,Ma'afa Health Clinic,10.787567,13.36197,Health Post,Partially Functioning,True
+Borno,Mafa,Ma'Afa,Mafa MCH Clinic,10.215953,13.363307,Health Clinic,Functioning,True
+Borno,Mafa,Ma'Afa,MBUTA DISPENSARY,10.656936,13.364381,Health Post,Not Functioning,True
+Borno,Mafa,Mujigine,Mujigene Health Clinic,10.60344,13.364483,Health Post,Partially Functioning,True
+Borno,Mafa,Tamsu Ngamdua,Gwozari MCH Clinic,10.45977,13.365568,Health Clinic,Functioning,True
+Borno,Mafa,Tamsu Ngamdua,Malakyariri Health Clinic,10.605944,13.365666,Health Clinic,Functioning,True
+Borno,Mafa,Tamsu Ngamdua,Tamsu Ngamduwa Health Clinic,11.68035,13.36712,Health Clinic,Partially Functioning,True
+Borno,Mafa,Tamsu Ngamdua,ZANNARI HEALTH CLINIC,10.362255,13.369733,Health Clinic,Not Functioning,True
+Borno,Magumeri,Ardo Ram,Ardoram Dispensary,10.627361,13.370895,Health Clinic,Not Functioning,True
+Borno,Magumeri,Ayi / Yasku,Ayi yasku Dispensary,10.664455,13.371195,Health Post,Partially Functioning,False
+Borno,Magumeri,Borno Yesu,Borno Yesu Health Clinic,10.36102,13.373882,Health Clinic,Not Functioning,True
+Borno,Magumeri,Borno Yesu,Model Primary Health Care Centre (MPHC) Borno Yesu,10.36749,13.374748,Health Clinic,Not Functioning,False
+Borno,Magumeri,Furram,Furram Dispensary,10.359693,13.376725,PHC,Functioning,True
+Borno,Magumeri,Furram,Model Primary Health Care Centre (MPHC) Madamari,10.77283,13.376873,Health Post,Partially Functioning,True
+Borno,Magumeri,Gaji Ganna  I,Gajiganna Dispensary,10.375175,13.38087,Health Post,Partially Functioning,True
+Borno,Magumeri,Gaji Ganna  I,Gajiganna MCH Clinic,10.531158,13.383388,PHC,Partially Functioning,True
+Borno,Magumeri,Gaji Ganna  I,Karnowa Health clinic,10.624614,13.384919,Health Clinic,Not Functioning,True
+Borno,Magumeri,Gaji Ganna  I,Model Primary Health Care Centre (MPHC) Gajiganna,10.584742,13.385468,PHC,Partially Functioning,True
+Borno,Magumeri,Gaji Ganna  II,Titiwa Dispensary,10.708618,13.385667,PHC,Partially Functioning,True
+Borno,Magumeri,Hoyo / Chin Gowa,Hoyo Health Clinic,10.4674,13.38592,Health Post,Partially Functioning,True
+Borno,Magumeri,Hoyo / Chin Gowa,Njingowa health clinic,10.626399,13.387274,Health Clinic,Functioning,True
+Borno,Magumeri,Kalizoram / Banoram,Lawalti Dispensary,10.615356,13.387674,Health Clinic,Functioning,True
+Borno,Magumeri,Kareram,KARERAM DISPENSARY,10.555458,13.388138,Health Clinic,Partially Functioning,True
+Borno,Magumeri,Kubti,Kubti Dispensary,10.620194,13.389876,Health Clinic,Functioning,True
+Borno,Magumeri,Magumeri,General Hospital Magumeri,10.61921,13.392668,PHC,Partially Functioning,True
+Borno,Magumeri,Magumeri,Kaijiya dispensary,10.420053,13.392877,PHC,Functioning,False
+Borno,Magumeri,Magumeri,Magumeri MCH Clinic,10.630011,13.394171,PHC,Functioning,True
+Borno,Magumeri,Ngamma,Ngamma Health Clinic,10.763762,13.398392,Health Clinic,Not Functioning,False
+Borno,Magumeri,Ngubala,Bamma Dispensary,10.115885,13.398894,Health Clinic,Functioning,True
+Borno,Magumeri,Ngubala,NGUBALA HEALTH CLINIC,10.6295553,13.400634,Health Clinic,Functioning,True
+Borno,Maiduguri,Bolori  I,FEDERAL NEURO PSYCHIATIC,9.232222222,13.40083333,Health Clinic,Functioning,True
+Borno,Maiduguri,Bolori  I,Mala Kachalla Comprensive Health Centre,10.322087,13.401402,PHC,Functioning,True
+Borno,Maiduguri,Bolori  I,Teachers Village Camp Clinic,10.604332,13.402092,Health Clinic,Functioning,True
+Borno,Maiduguri,Bolori  II,ALKOME POLYCLINIC,10.633133,13.405139,PHC,Functioning,True
+Borno,Maiduguri,Bolori  II,Baga Motor Pack Dispensary,10.24633,13.406218,PHC,Functioning,True
+Borno,Maiduguri,Bolori  II,BULABULIN MCH,10.462445,13.40639,Health Clinic,Partially Functioning,True
+Borno,Maiduguri,Bolori  II,Herwa Peace Health Clinic,10.562982,13.408203,Health Clinic,Partially Functioning,True
+Borno,Maiduguri,Bolori  II,Zajeri clinic,10.198873,13.408497,PHC,Functioning,True
+Borno,Maiduguri,Gamboru Liberty,Gamboru Clinic,10.25228,13.410597,Health Clinic,Not Functioning,True
+Borno,Maiduguri,Gamboru Liberty,Gamboru Male Dispensary,10.4149,13.417287,PHC,Functioning,True
+Borno,Maiduguri,Gamboru Liberty,State Psychiatric Hospital,10.143815,13.417807,PHC,Functioning,True
+Borno,Maiduguri,Gwange  I,Gwange 1 Dispensary,10.4586111,13.4186111,PHC,Functioning,True
+Borno,Maiduguri,Gwange  III,Gwange MCH Clinic,10.43581,13.419635,Health Clinic,Partially Functioning,True
+Borno,Maiduguri,Gwange  III,Leprosy Clinic,10.61682,13.420266,Health Clinic,Partially Functioning,True
+Borno,Maiduguri,Gwange  III,NEW G.R.A CLINIC,10.648129,13.42055,PHC,Functioning,True
+Borno,Maiduguri,Hausari/Zango,State Specialist Hospital,10.538071,13.423007,PHC,Functioning,False
+Borno,Maiduguri,Lamisula/Jabba Mari,Borno Medical,10.81696,13.42349,PHC,Functioning,True
+Borno,Maiduguri,Lamisula/Jabba Mari,EYN (CAN Centre) Camp Clinic,10.567997,13.425387,Health Clinic,Partially Functioning,True
+Borno,Maiduguri,Lamisula/Jabba Mari,Sunni Hospital,10.518023,13.428608,PHC,Functioning,False
+Borno,Maiduguri,Lamisula/Jabba Mari,ZAMANI CLINIC,10.63071,13.429787,Health Post,Not Functioning,True
+Borno,Maiduguri,Limanti,Gamboru Market Dispensary,10.78174,13.43093,Health Clinic,Functioning,True
+Borno,Maiduguri,Mafoni,Kanem Health Post,10.719823,13.435685,Health Clinic,Not Functioning,False
+Borno,Maiduguri,Mafoni,Mogcolis Camp Clinic,10.707573,13.438218,Health Clinic,Partially Functioning,True
+Borno,Maiduguri,Maisandari,Bakasi Camp Guzamala Clinic A,10.789143,13.440823,PHC,Functioning,True
+Borno,Maiduguri,Maisandari,Bakasi Camp Munguno Clinic B,10.163777,13.444117,Health Clinic,Functioning,True
+Borno,Maiduguri,Maisandari,BORNO DENTAL HOSPITAL,10.439695,13.446257,Health Clinic,Not Functioning,False
+Borno,Maiduguri,Maisandari,CBN Quarters Camp Clinic,10.807407,13.448492,Health Clinic,Partially Functioning,True
+Borno,Maiduguri,Maisandari,Epid Unit Health Clinic,10.636576,13.450478,Health Clinic,Functioning,True
+Borno,Maiduguri,Maisandari,Fatima Ali Sheriff Clinic,10.804065,13.451327,Hospital,Partially Functioning,False
+Borno,Maiduguri,Maisandari,NYSC Camp Borno Camp Clinic,10.221413,13.451782,PHC,Partially Functioning,False
+Borno,Maiduguri,Maisandari,Ramat Clinic,10.368253,13.453448,Health Post,Partially Functioning,True
+Borno,Maiduguri,Maisandari,Zonal Head Office,10.368253,13.453448,PHC,Partially Functioning,True
+Borno,Maiduguri,Shehuri North,Abbaganaram Clinic,10.585124,13.458336,Health Post,Not Functioning,True
+Borno,Maiduguri,Shehuri South,Shehu's Palace Clinic,10.585304,13.458546,PHC,Functioning,True
+Borno,Maiduguri,Shehuri South,Yerwa Clinic,10.5852564,13.4585481,Health Clinic,Functioning,True
+Borno,Marte,Ala,Ala Dispensary,10.576129,13.458951,Health Post,Functioning,True
+Borno,Marte,Ala,Kaje Health Clinic,10.64789,13.466491,Health Post,Partially Functioning,True
+Borno,Marte,Alla  Lawanti,Alla Health Clinic,10.526667,13.47,PHC,Functioning,True
+Borno,Marte,Borsori,Borsori Health Clinic,10.48570213,13.475575,Health Clinic,Partially Functioning,False
+Borno,Marte,Gumna,Gunmna Health Clinic,10.265575,13.479805,PHC,Functioning,True
+Borno,Marte,Kabulawa,Kabulawa Health Clinic,10.845533,13.481292,PHC,Partially Functioning,True
+Borno,Marte,Kirenowa,Kirenowa Health Clinic,10.735883,13.486065,PHC,Functioning,True
+Borno,Marte,Kulli,Model Primary Health Care Centre (MPHC) Kulli,10.783205,13.487695,Health Post,Not Functioning,False
+Borno,Marte,Marte,Chikungudowa Health Clinic,10.466368,13.48802,PHC,Functioning,False
+Borno,Marte,Marte,General Hospital Marte,10.615829,13.49054,PHC,Functioning,True
+Borno,Marte,Marte,JULLAM HEALTH CLINIC,10.688492,13.495502,Health Clinic,Partially Functioning,True
+Borno,Marte,Marte,Marte MCH Clinic,10.760403,13.496218,Health Post,Partially Functioning,True
+Borno,Marte,Marte,Marte Town Dispensary,10.661072,13.499973,Health Clinic,Functioning,True
+Borno,Marte,Mawulli,Muwalli Health Clinic,10.862802,13.507328,Health Clinic,Not Functioning,False
+Borno,Marte,Musune,Musune Health Clinic,10.400687,13.5091,Health Clinic,Partially Functioning,True
+Borno,Marte,Ngeleiwa,Badairi Health Clinic,10.727818,13.512442,Health Post,Partially Functioning,True
+Borno,Marte,Ngeleiwa,Koloram Health Clinic,10.727818,13.512442,Health Clinic,Partially Functioning,True
+Borno,Marte,Ngeleiwa,Kusuma Health Clinic,10.867925,13.525367,PHC,Partially Functioning,True
+Borno,Marte,Ngeleiwa,Ngelaiwa Health Clinic,10.75591,13.52569,Health Post,Partially Functioning,True
+Borno,Marte,Njine,Cbda MCH Clinic,10.746315,13.526353,Health Post,Not Functioning,False
+Borno,Marte,Njine,Njine Health Clinic,10.566764,13.52672,Health Clinic,Partially Functioning,True
+Borno,Marte,Zaga,Zaga Ngalori Health Clinic,10.5662724,13.52673,Health Post,Not Functioning,True
+Borno,Mobbar,Asaga,Asaga Health Clinic,10.597253,13.5277776,Health Post,Partially Functioning,True
+Borno,Mobbar,Asaga,Guwa Health Clinic,10.735455,13.531808,Health Post,Partially Functioning,True
+Borno,Mobbar,Bogum,Jumaa Chere Health Clinic,10.706417,13.533437,Health Post,Partially Functioning,True
+Borno,Mobbar,Chamba,Chamba Dispensary,10.642493,13.542602,PHC,Functioning,True
+Borno,Mobbar,Chamba,Kainuwa Dispensary,10.476713,13.549808,Health Post,Not Functioning,True
+Borno,Mobbar,Chamba,Talau Kauwa Health Clinic,10.49482,13.550138,Health Clinic,Functioning,False
+Borno,Mobbar,Damasak,MCH DAMASAK,10.837142,13.556685,Health Post,Not Functioning,False
+Borno,Mobbar,Duji,Duji PHC Clinic,10.715713,13.560523,Health Post,Partially Functioning,True
+Borno,Mobbar,Duji,Meleri Health Clinic,10.780738,13.563077,Health Post,Partially Functioning,True
+Borno,Mobbar,Gashagar,Gashagar Dispensary,10.708768,13.567472,PHC,Partially Functioning,True
+Borno,Mobbar,Kareto,Kareto PHC Clinic,10.718968,13.568382,Health Post,Not Functioning,False
+Borno,Mobbar,Layi,Layi Health Clinic,10.828133,13.56966,PHC,Partially Functioning,True
+Borno,Mobbar,Zanna Umorti,Damasak MCH Clinic,10.811305,13.570272,Health Post,Not Functioning,False
+Borno,Mobbar,Zari,Zari Dispensary,10.797278,13.573635,Health Clinic,Partially Functioning,True
+Borno,Monguno,Damakuli,Damakulli Health Clinic,10.80029,13.591925,Health Clinic,Partially Functioning,True
+Borno,Monguno,Kaguram,GUMNARI DISPENSARY,12.67323,13.6059,IDP Clinic,Functioning,True
+Borno,Monguno,Kumalia,KUMALIA DISPENSARY,12.68427,13.60634,Hospital,Partially Functioning,True
+Borno,Monguno,Mandala,Mandala Dispensary,10.878453,13.609755,Health Post,Partially Functioning,True
+Borno,Monguno,Mintar,Alingollomari Health Post,10.89363,13.616358,Health Clinic,Partially Functioning,True
+Borno,Monguno,Mintar,DEBELE DISPENSARY,12.68497,13.61722,IDP Clinic,Functioning,True
+Borno,Monguno,Mintar,Diffinowa Dispensary,10.893675,13.619315,PHC,Functioning,True
+Borno,Monguno,Mintar,Mintar Dispensary,12.6779,13.62059,IDP Clinic,Functioning,True
+Borno,Monguno,Mintar,Nairawa Health Clinic,12.66522,13.62399,IDP Clinic,Functioning,True
+Borno,Monguno,Mintar,Ngollom Health Clinic,10.723098,13.625262,PHC,Partially Functioning,True
+Borno,Monguno,Mofio,Mofio Dispensary,10.850613,13.62984,Health Post,Not Functioning,True
+Borno,Monguno,Monguno,Abbari Dispensary,10.88824,13.63163,Health Clinic,Partially Functioning,True
+Borno,Monguno,Monguno,ACF NRC IDP Camp Clinic,10.741652,13.631962,Health Clinic,Partially Functioning,True
+Borno,Monguno,Monguno,ACF Water Board IDP Camp Clinic,10.886582,13.633948,Health Clinic,Partially Functioning,True
+Borno,Monguno,Monguno,ALIMA GDSS IDP Camp Clinic,10.837323,13.644823,PHC,Partially Functioning,True
+Borno,Monguno,Monguno,ALIMA GGSS IDP Camp Clinic,10.838434,13.645932,Health Clinic,Not Functioning,True
+Borno,Monguno,Monguno,ALIMA GSSS IDP Camp Clinic,10.930333,13.65054,PHC,Not Functioning,True
+Borno,Monguno,Monguno,FSP ICRC,10.844828,13.688498,PHC,Partially Functioning,True
+Borno,Monguno,Monguno,GENERAL HOSPITAL MONGUNO,11.07449,13.7004,Hospital,Not Functioning,False
+Borno,Monguno,Monguno,GSSS AAH,11.08601,13.7013,Health Clinic,Partially Functioning,True
+Borno,Monguno,Monguno,ICRC GGSS IDP Camp Clinic,10.894192,13.718491,Health Post,Not Functioning,False
+Borno,Monguno,Monguno,Monguno MCH Clinic,10.93758,13.718882,Health Post,Not Functioning,False
+Borno,Monguno,Monguno,MONGUNO TOWN DISPENSARY,11.22474,13.78151,Health Clinic,Partially Functioning,True
+Borno,Monguno,Monguno,TCHARAMARI ALIMA CLINIC,11.26117,14.13987,Hospital,Not Functioning,False
+Borno,Monguno,Monguno,UNICEF KUYA IDP CAMP,11.249097,14.150817,Health Clinic,Not Functioning,False
+Borno,Monguno,Monguno,UNICEF Water Board IDP Camp health post,11.249,14.151085,Health Clinic,Not Functioning,False
+Borno,Monguno,Monguno,Wulari Dispensary,11.257902,14.155203,IDP Clinic,Functioning,True
+Borno,Monguno,Ngurno,Dam Health Post,8.451,12916,PHC,Functioning,True
+Borno,Monguno,Ngurno,Ngurno PHC Clinic,8.4619,12933,PHC,Functioning,True
+Borno,Monguno,Sure,Ladi Bida Dispensary,8.3922,115356,Health Post,Functioning,True
+Borno,Monguno,Wulo,Wulo Dispensary,9.212299,1248325,PHC,Functioning,False
+Borno,Monguno,Yele,Yele Dispensary,8.195417,12002252,PHC,Partially Functioning,False
+Borno,Monguno,Zulum,Zuma Kimonye Health Clinic,10.9291667,1175638889,Health Post,Functioning,True
+Borno,Ngala,Fuye,BULAMALLUMBE HEALTH CLINIC,9.46058948,"1,202,289,862",Health Post,Functioning,True
+Borno,Ngala,Fuye,FUYE DISPENSARY,12.76818667,9022547182,Health Post,Functioning,True
+Borno,Ngala,Gamboru 'B',BADIYA HEALTH POST,11.10072666,11371761667,Health Clinic,Functioning,True

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> HeRAMS | Nigeria</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina|Bungee+Shade" rel="stylesheet">
+    <!-- Bootstrap 3.3.5 -->
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon.png">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="css/AdminLTE.css">
+    <link rel="stylesheet" href="css/skins/skin-blue.css">
+    <link rel="stylesheet" href="plugins/leaflet/leaflet.css">
+    <link rel="stylesheet" href="css/main.css">
+     <!-- Marker Cluster -->
+    <link rel="stylesheet" href="plugins/MarkerCluster/MarkerCluster.css">
+    <link rel="stylesheet" href="plugins/MarkerCluster/MarkerCluster.Default.css">
+     <!-- JQuery Slider -->
+    <link rel="stylesheet" href="css/icon.css">
+</head>
+
+
+
+<body class="hold-transition skin-blue layout-top-nav">
+    <!-- Left side column. contains the logo and sidebar -->
+    <div class="wrapper">
+        <aside class="main-sidebar main-sidebar-light sidebar_edit">
+            <section class="sidebar">
+            <div class="title">
+                <a target="_blank" href="http://www.health-sector.org/"><h4 class="title_text">Health Resources Availability Monitoring System [HeRAMS] </h4></a>
+            </div>
+
+         <!--   <div><br></div>-->
+
+             <div class="alert alert-info sideColor">
+
+                 <!--State DropDown-->
+                 <br><br><br><br><br>
+                 <h2 class="info-box-number white"><i class="icon fa fa-globe fa-spin fa-2x"></i>State</h2>
+                      <div class="form-group-sm">
+                        <select name="state_scope" id="state_scope" onchange="changecat(this.value); getAdminLayers(); triggerUiUpdate();" class="form-control">
+<!--                             triggerUiUpdate();-->
+                            <option value="">All</option>
+                            <option value="Adamawa">Adamawa</option>
+                            <option value="Borno">Borno</option>
+                            <option value="Yobe">Yobe</option>
+                        </select>
+                    </div>
+
+                 <!--LGA DropDown-->
+                 <h2 class="info-box-number white" id="prefecture_id" readonly style="visibility:true"><i class="icon fa fa-flag fa-2x"></i>Local Govt. Area</h2>
+                      <div id="prefecture_id1" class="form-group-sm" readonly style="visibility:true">
+                        <select name="lga_scope" id="lga_scope" onchange="getAdminLayers(); triggerUiUpdate();" class="form-control">
+<!--                             triggerUiUpdate();-->
+                            <option value="" disabled selected>All</option>
+                        </select>
+                    </div>
+
+
+                 <!--Type -->
+                 <h2 class="info-box-number white"><i class="icon fa fa-hospital-o fa-2x"></i>Types of Facility</h2>
+                      <div class="form-group-sm">
+                        <select id="type_scope" onchange=" triggerUiUpdate();" class="form-control">
+<!--                            triggerUiUpdate();-->
+                            <option value="">All</option>
+                                <option value="Health Post">Health Post</option>
+                                <option value="Health Clinic">Health Clinic</option>
+                                <option value="Hospital">Hospital</option>
+                                <option value="PHC">PHC</option>
+                                <option value="IDP Clinic">IDP Clinic</option>
+                                <option value="MCH">MCH</option>
+                                <option value="Dispensary">Dispensary</option>
+                        </select>
+                      </div>
+
+                 <!--Status -->
+                 <h2 class="info-box-number white"><i class="icon fa fa-cog fa-spin fa-2x fa-fw"></i>Status</h2>
+                      <div class="form-group-sm">
+                        <select id="status_scope" onchange=" triggerUiUpdate();" class="form-control">
+<!--                            triggerUiUpdate();-->
+                                <option value="">All</option>
+                                <option value="Functioning">Functioning</option>
+                                <option value="Partially Funtioning">Partially Funtioning</option>
+                                <option value="Not Functioning">Not Functioning</option>
+                        </select>
+                      </div>
+
+
+                 <div class="text-center">
+                     <br><br>
+                    <span class="info-box-text white"><b>Currently Displaying:</b></span>
+                    <span class="info-box-number white"><b id="country2"></b><big id="projectCount">0</big>&nbsp;&nbsp;Health Facility(ies)  </span>
+                     <div class="download">
+                         <br>
+                        <a id="query"><img class="imgsize" src="image/excel.png"></a>
+                </div>
+                     <div class="download">
+                         <br>
+                        <div class="logo_pad3">
+                            <a target="_blank" href="http://www.who.int/"><img  src="image/LogoHS.jpg" height="50" width="80"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+          </section>
+            <div class="logo_pad1">
+                    <a target="_blank" href="http://www.health.gov.ng/"><img  src="image/logo2.png" height="100" width="120"></a>
+            </div>
+             <div class="logo_pad2">
+                    <a target="_blank" href="http://www.who.int/"><img  src="image/who2.jpeg" height="100" width="120"></a>
+            </div>
+        </aside>
+        <section>
+
+            <div class="col-md-12" id="map"></div>
+
+
+                <div>
+                  <h7 class="red text-center"><i class="icon fa fa-spinner fa-5x" id="spinposition"></i></h7>
+                </div>
+
+
+            <div id="detailPosition">
+              <div class="alert sideColor">
+                    <div class="box box-primary box-solid">
+                        <div class="box-header with-border">
+                            <h3 class="box-title">Health Facility Details</h3>
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                            </div>
+                        </div>
+                        <div id="infoContent" class="box-body black info-box">
+                            <p>Click on any of the points to see <br>full detail here... </p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+        <div class="col-md-12  border">
+                <ul class="social-network social-circle">
+
+                <li><strong style="color: white;">Contact Us: </strong></li><li></li><li></li>
+                <li><a target="_blank" href="https://www.facebook.com/BrianAlex1251" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                <li><a target="_blank" href="https://www.twitter.com/femtope" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                <li><a target="_blank" href="https://plus.google.com/u/0/115849015961200482106" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/oluwafemi-ooju-0061b627" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+
+            </ul>
+        </div>
+        </section>
+        <script src="js/changeLGA.js"></script>
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
+        <!-- Bootstrap 3.3.5 -->
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <!-- AdminLTE App -->
+        <script src="js/app.min.js"></script>
+        <script src="plugins/leaflet/leaflet.js"></script>
+        <script src="js/main.js"></script>
+        <script src="plugins/MarkerCluster/leaflet.markercluster-src.js"></script>
+<!--        <script src="node_modules/turf/turf.js"></script>-->
+    </div>
+
+</body>
+
+</html>
