@@ -63,3 +63,6 @@ HeRAMS monitors four major areas relevant to emergency response.
     * lack of finances
     * lack of training
     * others
+
+# HeRAMS Approach and Technical User Guide
+   (http://www.who.int/hac/network/global_health_cluster/herams_users_guide.pdf)
