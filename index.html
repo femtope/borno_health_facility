@@ -58,7 +58,7 @@
                  <!--LGA DropDown-->
                  <h2 class="info-box-number white" id="prefecture_id" readonly style="visibility:true"><i class="icon fa fa-flag fa-2x"></i>Local Govt. Area</h2>
                       <div id="prefecture_id1" class="form-group-sm" readonly style="visibility:true">
-                        <select name="lga_scope" id="lga_scope" onchange="getAdminLayers(); triggerUiUpdate();" class="form-control">
+                        <select name="lga_scope" id="lga_scope" onchange="getAdminLayers(); triggerUiUpdate(); showCoverage();" class="form-control">
 <!--                             triggerUiUpdate();-->
                             <option value="" disabled selected>All</option>
                         </select>
@@ -94,8 +94,8 @@
                       </div>
 
                      <h2 class="info-box-number white"><i class="fa fa-area-chart fa-2x"></i>&nbsp;Facility Coverage</h2>
-                        <div class="form-group special-size">
-                                 <form class="radio">
+                        <div id="coverage" class="form-group special-size" readonly style="visibility:hidden">
+                                 <form class="radio" >
                                     <input id="2km" type="radio" name="drive" value="2" onclick="radio_drive();">2 Km<br>
                                     <input id="3km" type="radio" name="drive" value="3" onclick="radio_drive();">3 Km<br>
                                     <input id="4km" type="radio" name="drive" value="4" onclick="radio_drive();">4 Km<br>
@@ -112,8 +112,12 @@
                     <div class="download">
                          <br>
                         <div class="logo_pad3">
-                            <a target="_blank" href="http://www.who.int/"><img  src="image/LogoHS.jpg" height="50" width="80"></a>
+                            <a target="_blank" href="http://www.who.int/"><img  src="image/LogoHS.jpg" height="45" width="80"></a>
                         </div>
+                        <div class="logo_pad5">
+                            <a target="_blank" href="http://www.who.int/"><img  src="image/immap3.png" height="45" width="60"></a>
+                        </div>
+
                     </div>
                 </div>
             </div>

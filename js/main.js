@@ -69,9 +69,10 @@ function triggerUiUpdate() {
     lga = $('#lga_scope').val();
     console.log("All Seleceted: ", state+"  "+lga+"  "+type+"  "+status)
     var query = buildQuery(state, lga, type, status)
-    //download_query = (query.replace("http:", "https:").replace("format=GeoJSON&", ""))+"&format=CSV";
-   // document.getElementById("query").setAttribute("href",download_query);
+    download_query = (query.replace("http:", "https:").replace("format=GeoJSON&", ""))+"&format=CSV";
+    document.getElementById("query").setAttribute("href",download_query);
     console.log("Query: ", query)
+    lga_select = $('#lga_scope').val()
     getData(query)
 }
 
@@ -370,6 +371,16 @@ function radio_drive() {
         fourkm = $('#4km').val();
         geoLocate(fourkm);
 		}
+}
+
+function showCoverage(){
+    var coverage_show = document.getElementById("coverage");
+    if(lga_select !=""){
+        coverage_show.style.visibility = "visible"
+    }
+    else{
+        coverage_show.style.visibility = "hidden"
+    }
 }
 
 getAdminLayers()
