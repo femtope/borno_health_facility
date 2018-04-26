@@ -1,7 +1,7 @@
 var d, m, y, date, type = '', distance, map,
     state = '', lga = '', lga_select = '', sub_lga = '',
     geoData = null, dataLayer = null, markerGroup = null,
-    guineaAdminLayer0, guineaAdminLayer1, guineaAdminLayer2,
+    guineaAdminLayer0, guineaAdminLayer1, guineaAdminLayer2,lat, long,
     state_layer = null, lga_layer = null, sub_lga_layer = null, bufferLayer = null, substance_layer = null,
     GINLabels = [],
     within, within_fc, buffered = null, GINAdmin2 = false,
@@ -68,9 +68,9 @@ function triggerUiUpdate() {
     state = $('#state_scope').val();
     lga = $('#lga_scope').val();
     console.log("All Seleceted: ", state+"  "+lga+"  "+type+"  "+status)
-var query = buildQuery(state, lga, type, status)
-    download_query = (query.replace("http:", "https:").replace("format=GeoJSON&", ""))+"&format=CSV";
-    document.getElementById("query").setAttribute("href",download_query);
+    var query = buildQuery(state, lga, type, status)
+    //download_query = (query.replace("http:", "https:").replace("format=GeoJSON&", ""))+"&format=CSV";
+   // document.getElementById("query").setAttribute("href",download_query);
     console.log("Query: ", query)
     getData(query)
 }
@@ -143,11 +143,16 @@ function addDataToMap(geoData) {
         },
 
         onEachFeature: function (feature, layer) {
+            lat = feature.properties.latitude;
+            long = feature.properties.longitude;
             if (feature.properties && feature.properties.cartodb_id) {
                 layer.on('click', function () {
-                    displayInfo(feature)
+                    displayInfo(feature);
+//                    var point = turf.point([lat, long]);
+//                    var buffered = turf.buffer(point,2,'kilometers');
                 })
             }
+            console.log("lat_long: "+lat+", "+long)
         }
     })
     markerGroup.addLayer(dataLayer);
@@ -315,15 +320,11 @@ var options = {
 };
 
 function success(pos) {
-  var crd = pos.coords;
-    current_lat = crd.latitude;
-    current_long = crd.longitude;
-    current_accuracy = crd.accuracy;
-
+    var crd = pos.coords;
     var fc = {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [current_long, current_lat] } }
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [long, lat] } }
 ]
 }
         var jsonLayer = L.geoJson(fc).addTo(map);
@@ -343,11 +344,7 @@ function success(pos) {
 
 };
 
-function error(err) {
-  console.warn('ERROR(' + err.code + '): ' + err.message);
-};
-
-     navigator.geolocation.getCurrentPosition(success, error, options);
+    // navigator.geolocation.getCurrentPosition(success, error, options);
 }
 
 
