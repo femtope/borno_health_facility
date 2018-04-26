@@ -306,6 +306,75 @@ function logError(error) {
     console.log("error!")
 }
 
+
+function geoLocate(km){
+var options = {
+  enableHighAccuracy: true,
+  timeout: Infinity,
+  maximumAge: 0
+};
+
+function success(pos) {
+  var crd = pos.coords;
+    current_lat = crd.latitude;
+    current_long = crd.longitude;
+    current_accuracy = crd.accuracy;
+
+    var fc = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [current_long, current_lat] } }
+]
+}
+        var jsonLayer = L.geoJson(fc).addTo(map);
+        var coord = fc.features[0].geometry.coordinates;
+        lalo = L.GeoJSON.coordsToLatLng(coord);
+        map.setView(lalo, 14);
+
+    var drive = km * 1;
+    buffered = turf.buffer(fc, drive, 'kilometers');
+    bufferLayer = L.geoJson(buffered).addTo(map);
+    bufferLayer.setStyle({
+        stroke:false,
+        strokeWidth: 2,
+        fillColor: 'red',
+        fillOpacity: 0.1
+    })
+
+};
+
+function error(err) {
+  console.warn('ERROR(' + err.code + '): ' + err.message);
+};
+
+     navigator.geolocation.getCurrentPosition(success, error, options);
+}
+
+
+
+function radio_drive() {
+    if(document.getElementById("2km").checked) {
+        if(bufferLayer != null)
+            map.removeLayer(bufferLayer)
+        twokm = $('#2km').val();
+        geoLocate(twokm);
+		}
+
+    if(document.getElementById("3km").checked) {
+        if(bufferLayer != null)
+            map.removeLayer(bufferLayer)
+        threekm = $('#3km').val();
+        geoLocate(threekm);
+		}
+
+    if(document.getElementById("4km").checked) {
+        if(bufferLayer != null)
+            map.removeLayer(bufferLayer)
+        fourkm = $('#4km').val();
+        geoLocate(fourkm);
+		}
+}
+
 getAdminLayers()
 hideLoader()
 

@@ -93,16 +93,23 @@
                         </select>
                       </div>
 
+                     <h2 class="info-box-number white"><i class="fa fa-area-chart fa-2x"></i>&nbsp;Facility Coverage</h2>
+                        <div class="form-group special-size">
+                                 <form class="radio">
+                                    <input id="2km" type="radio" name="drive" value="2" onclick="radio_drive();">2 Km<br>
+                                    <input id="3km" type="radio" name="drive" value="3" onclick="radio_drive();">3 Km<br>
+                                    <input id="4km" type="radio" name="drive" value="4" onclick="radio_drive();">4 Km<br>
+                                  </form>
+                        </div>
 
                  <div class="text-center">
-                     <br><br>
                     <span class="info-box-text white"><b>Currently Displaying:</b></span>
                     <span class="info-box-number white"><b id="country2"></b><big id="projectCount">0</big>&nbsp;&nbsp;Health Facility(ies)  </span>
-                     <div class="download">
+                    <div class="logo_pad4">
                          <br>
-                        <a id="query"><img class="imgsize" src="image/excel.png"></a>
-                </div>
-                     <div class="download">
+                        <a id="query"><img src="image/download.jpg" height="75" width="70"></a>
+                    </div>
+                    <div class="download">
                          <br>
                         <div class="logo_pad3">
                             <a target="_blank" href="http://www.who.int/"><img  src="image/LogoHS.jpg" height="50" width="80"></a>
@@ -167,7 +174,7 @@
         <script src="plugins/leaflet/leaflet.js"></script>
         <script src="js/main.js"></script>
         <script src="plugins/MarkerCluster/leaflet.markercluster-src.js"></script>
-<!--        <script src="node_modules/turf/turf.js"></script>-->
+        <script src="node_modules/turf/turf.js"></script>
     </div>
 
 </body>

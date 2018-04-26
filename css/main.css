@@ -120,8 +120,15 @@
 
 .logo_pad3{
     position: absolute;
-    bottom: 15px;
+    bottom: 45px;
     padding-left: 1450px;
+
+}
+
+.logo_pad4{
+    position: absolute;
+    bottom: 120px;
+    padding-left:150px;
 
 }
 
