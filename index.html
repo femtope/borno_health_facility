@@ -7,7 +7,7 @@
     <title> HeRAMS | Nigeria</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina|Bungee+Shade" rel="stylesheet">
+<!--    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina|Bungee+Shade" rel="stylesheet">-->
     <!-- Bootstrap 3.3.5 -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
     <!-- Font Awesome -->
@@ -58,7 +58,7 @@
                  <!--LGA DropDown-->
                  <h2 class="info-box-number white" id="prefecture_id" readonly style="visibility:true"><i class="icon fa fa-flag fa-2x"></i>Local Govt. Area</h2>
                       <div id="prefecture_id1" class="form-group-sm" readonly style="visibility:true">
-                        <select name="lga_scope" id="lga_scope" onchange="getAdminLayers(); triggerUiUpdate(); showCoverage();" class="form-control">
+                        <select name="lga_scope" id="lga_scope" onchange="getAdminLayers(); triggerUiUpdate();" class="form-control">
 <!--                             triggerUiUpdate();-->
                             <option value="" disabled selected>All</option>
                         </select>
@@ -88,11 +88,12 @@
 <!--                            triggerUiUpdate();-->
                                 <option value="">All</option>
                                 <option value="Functioning">Functioning</option>
-                                <option value="Partially Funtioning">Partially Funtioning</option>
+                                <option value="Partially Functioning">Partially Functioning</option>Partially Functioning
                                 <option value="Not Functioning">Not Functioning</option>
                         </select>
                       </div>
 
+<!--
                      <h2 class="info-box-number white"><i class="fa fa-area-chart fa-2x"></i>&nbsp;Facility Coverage</h2>
                         <div id="coverage" class="form-group special-size" readonly style="visibility:hidden">
                                  <form class="radio" >
@@ -101,8 +102,10 @@
                                     <input id="4km" type="radio" name="drive" value="4" onclick="radio_drive();">4 Km<br>
                                   </form>
                         </div>
+-->
 
                  <div class="text-center">
+                     <br><br>
                     <span class="info-box-text white"><b>Currently Displaying:</b></span>
                     <span class="info-box-number white"><b id="country2"></b><big id="projectCount">0</big>&nbsp;&nbsp;Health Facility(ies)  </span>
                     <div class="logo_pad4">

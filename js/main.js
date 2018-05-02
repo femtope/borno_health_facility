@@ -1,12 +1,12 @@
-var d, m, y, date, type = '', distance, map,
-    state = '', lga = '', lga_select = '', sub_lga = '',
+var d, m, y, date, type = '', distance, map, long_health, lat_health, query, current_lat, current_long,
+    state = '', lga = '', lga_select = '', stateSelect = '', lgaSelect = '',
     geoData = null, dataLayer = null, markerGroup = null,
-    guineaAdminLayer0, guineaAdminLayer1, guineaAdminLayer2,lat, long,
+    guineaAdminLayer0, guineaAdminLayer1, guineaAdminLayer2, lat, long,
     state_layer = null, lga_layer = null, sub_lga_layer = null, bufferLayer = null, substance_layer = null,
     GINLabels = [],
-    within, within_fc, buffered = null, GINAdmin2 = false,
-    googleSat = L.tileLayer('https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{maxZoom: 25, subdomains:['mt0','mt1','mt2','mt3']}),
-    googleStreets = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{maxZoom: 25, subdomains:['mt0','mt1','mt2','mt3']}),
+    buffered = null, point_health = null, GINAdmin2 = false,
+    googleSat = L.tileLayer('https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {maxZoom: 25, subdomains: ['mt0', 'mt1', 'mt2', 'mt3']}),
+    googleStreets = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {maxZoom: 25, subdomains:['mt0', 'mt1', 'mt2', 'mt3']}),
     osm = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18}),
     mapbox = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicy1jaGFuZCIsImEiOiJjaXdmcmtnc2QwMDBhMnltczBldmc1MHZuIn0.eIdXZvG0VOOcZhhoHpUQYA')
 
@@ -36,30 +36,6 @@ new L.Control.Zoom({
 
 L.control.layers(baseMaps).addTo(map);
 
-//Helps add label to the polygons for admin boundary at zoom level greater than 9
-function adjustLayerbyZoom(zoomGIN) {
-
-    if (zoomGIN > 11) {
-        if (!GINAdmin2) {
-            map.addLayer(guineaAdminLayer2)
-                //Add labels to the Admin2
-            for (var i = 0; i < GINLabels.length; i++) {
-                GINLabels[i].addTo(map)
-
-            }
-            GINAdmin2 = true
-        }
-    } else if(zoomGIN <= 10) {
-        map.removeLayer(guineaAdminLayer2)
-        for (var i = 0; i < GINLabels.length; i++) {
-            map.removeLayer(GINLabels[i])
-
-        }
-
-        GINAdmin2 = false
-    }
-
-}
 
 //This drives all the operation that will be rendering on the map
 function triggerUiUpdate() {
@@ -68,7 +44,7 @@ function triggerUiUpdate() {
     state = $('#state_scope').val();
     lga = $('#lga_scope').val();
     console.log("All Seleceted: ", state+"  "+lga+"  "+type+"  "+status)
-    var query = buildQuery(state, lga, type, status)
+    query = buildQuery(state, lga, type, status)
     download_query = (query.replace("http:", "https:").replace("format=GeoJSON&", ""))+"&format=CSV";
     document.getElementById("query").setAttribute("href",download_query);
     console.log("Query: ", query)
@@ -80,8 +56,7 @@ function triggerUiUpdate() {
 function buildQuery(state, lga, type, status) {
   var needsAnd = false;
     query = 'https://femtope.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM hf';
-   // console.log("Date in Query: ",date)
-   if (state.length > 0 || lga.length > 0 || type.length > 0 || status.length > 0 ){
+      if (state.length > 0 || lga.length > 0 || type.length > 0 || status.length > 0 ){
        query = query.concat(' WHERE')
        if (state.length > 0){
            query = query.concat(" state = '".concat(state.concat("'")))
@@ -111,6 +86,7 @@ function buildQuery(state, lga, type, status) {
 }
 
 
+
 //Helps add data to the marker cluster and cluster to the map with icons
 function addDataToMap(geoData) {
     if (dataLayer != null)
@@ -118,11 +94,9 @@ function addDataToMap(geoData) {
 
     if (markerGroup != null)
         map.removeLayer(markerGroup)
-    var _radius = 8
-    var _outColor = "#fff"
-    var _weight = 2
-    var _opacity = 2
-    var _fillOpacity = 2.0
+
+    if (bufferLayer != null)
+        map.removeLayer(bufferLayer)
 
     var markerHealth = L.icon({
         iconUrl: "image/hf_logo.png",
@@ -130,7 +104,13 @@ function addDataToMap(geoData) {
         iconAnchor: [25, 25]
     });
 
+    var markerNotFunction = L.icon({
+        iconUrl: "image/hf_logo_d.png",
+        iconSize: [20, 20],
+        iconAnchor: [25, 25]
+    });
     $('#projectCount').text(geoData.features.length)
+
     markerGroup = L.markerClusterGroup({
             showCoverageOnHover: false,
             zoomToBoundsOnClick: true,
@@ -139,21 +119,31 @@ function addDataToMap(geoData) {
 
     dataLayer = L.geoJson(geoData, {
         pointToLayer: function (feature, latlng) {
-            var marker = L.marker(latlng, {icon: markerHealth})
+            if(feature.properties.status == "Functioning" || feature.properties.status == "Partially Functioning"){
+                var marker = L.marker(latlng, {icon: markerHealth})
+            }
+
+            if(feature.properties.status == "Not Functioning"){
+                var marker = L.marker(latlng, {icon: markerNotFunction})
+            }
+
             return marker
         },
 
         onEachFeature: function (feature, layer) {
-            lat = feature.properties.latitude;
-            long = feature.properties.longitude;
+            lat_health = feature.properties.latitude;
+            long_health = feature.properties.longitude;
+            if(feature.properties.longitude != "" && feature.properties.latitude != ""){
+                layer.on('click',function(){
+                     success(feature);
+                })
+            };
             if (feature.properties && feature.properties.cartodb_id) {
                 layer.on('click', function () {
                     displayInfo(feature);
-//                    var point = turf.point([lat, long]);
-//                    var buffered = turf.buffer(point,2,'kilometers');
                 })
             }
-            console.log("lat_long: "+lat+", "+long)
+//            console.log("lat_health_long: "+lat_health+", "+long_health)
         }
     })
     markerGroup.addLayer(dataLayer);
@@ -170,23 +160,15 @@ function addAdminLayersToMap(layers) {
                 "fillColor": '#ffffff',
                 "weight": 2.0,
                 "opacity": 1,
-                "fillOpacity": 0.05
-            },
-            'admin2': {
-                "clickable": true,
-                "color": '#412406',
-                "fillColor": '#FFFFFF',
-                "weight": 1.5,
-                "opacity": 0.5,
-                "fillOpacity": 0.05
+                "fillOpacity": 0.0001
             },
             'state': {
                 "clickable": true,
                 "color": '#e2095c',
-                "fillColor": '#FFFFFF',
+                "fillColor": '#80FFFFFF',
                 "weight": 2.0,
                 "opacity": 0.7,
-                "fillOpacity": 0.05
+                "fillOpacity": 0.0001
             },
             'lga': {
                 "clickable": true,
@@ -194,13 +176,13 @@ function addAdminLayersToMap(layers) {
                 "fillColor": '#80FFFFFF',
                 "weight": 2.5,
                 "opacity": 0.7,
-                "fillOpacity": 0.05
+                "fillOpacity": 0.0001
             }
       }
 
     stateSelect = $('#state_scope').val()
     lgaSelect = $('#lga_scope').val()
-    console.log("State and LGA Selected: "+stateSelect+"   "+lgaSelect)
+//    console.log("State and LGA Selected: "+stateSelect+"   "+lgaSelect)
 
     guineaAdminLayer0 = L.geoJson(layers['guineaAdmin0'], {
         style: layerStyles['admin0']
@@ -217,7 +199,7 @@ function addAdminLayersToMap(layers) {
       },
       style: layerStyles['state'],
       }).addTo(map)
-    map.fitBounds(state_layer)
+    map.fitBounds(state_layer);
 
     //Zoom In to lga Level on selection
 
@@ -228,9 +210,9 @@ function addAdminLayersToMap(layers) {
         filter: function(feature) {
             return feature.properties.admin2name === lgaSelect
       },
-      style: layerStyles['state'],
+      style: layerStyles['lga'],
       }).addTo(map)
-    map.fitBounds(lga_layer)
+    map.fitBounds(lga_layer);
     console.log("Zoom Level ",map.getZoom());
 }
 
@@ -313,74 +295,35 @@ function logError(error) {
 }
 
 
-function geoLocate(km){
-var options = {
-  enableHighAccuracy: true,
-  timeout: Infinity,
-  maximumAge: 0
-};
+function success(feature) {
+    if (bufferLayer != null)
+        map.removeLayer(bufferLayer)
 
-function success(pos) {
-    var crd = pos.coords;
+    current_lat = feature.properties.latitude;
+    current_long = feature.properties.longitude;
+     console.log("lat_health_long: "+current_lat+", "+current_long)
+
     var fc = {
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [long, lat] } }
-]
-}
-        var jsonLayer = L.geoJson(fc).addTo(map);
+            "type": "FeatureCollection",
+            "features": [
+                    { "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [current_long, current_lat] } }
+            ]
+        }
         var coord = fc.features[0].geometry.coordinates;
         lalo = L.GeoJSON.coordsToLatLng(coord);
-        map.setView(lalo, 14);
+        map.setView(lalo, 13);
 
-    var drive = km * 1;
-    buffered = turf.buffer(fc, drive, 'kilometers');
+    var km = 2;
+    buffered = turf.buffer(fc, km, 'kilometers');
+    console.log('Buffered::  ', buffered);
     bufferLayer = L.geoJson(buffered).addTo(map);
     bufferLayer.setStyle({
         stroke:false,
         strokeWidth: 2,
-        fillColor: 'red',
-        fillOpacity: 0.1
+        fillColor: 'blue',
+        fillOpacity: 0.08
     })
 
-};
-
-    // navigator.geolocation.getCurrentPosition(success, error, options);
-}
-
-
-
-function radio_drive() {
-    if(document.getElementById("2km").checked) {
-        if(bufferLayer != null)
-            map.removeLayer(bufferLayer)
-        twokm = $('#2km').val();
-        geoLocate(twokm);
-		}
-
-    if(document.getElementById("3km").checked) {
-        if(bufferLayer != null)
-            map.removeLayer(bufferLayer)
-        threekm = $('#3km').val();
-        geoLocate(threekm);
-		}
-
-    if(document.getElementById("4km").checked) {
-        if(bufferLayer != null)
-            map.removeLayer(bufferLayer)
-        fourkm = $('#4km').val();
-        geoLocate(fourkm);
-		}
-}
-
-function showCoverage(){
-    var coverage_show = document.getElementById("coverage");
-    if(lga_select !=""){
-        coverage_show.style.visibility = "visible"
-    }
-    else{
-        coverage_show.style.visibility = "hidden"
-    }
 }
 
 getAdminLayers()
