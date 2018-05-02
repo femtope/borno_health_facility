@@ -427,7 +427,7 @@ a:focus {
   position: absolute;
   top: 0;
   left: 0;
-  padding-top: 50px;
+  padding-top: 0px;
   min-height: 100%;
   width: 80px;
   z-index: 810;
@@ -4407,10 +4407,10 @@ table.text-center th {
 .alert-info,
 .label-info,
 .modal-info .modal-body {
-  background-color: #00c0ef !important;
+  background-color: #007BC6 !important;
 }
 .bg-blue {
-  background-color: #0073b7 !important;
+  background-color: #007BC6 !important;
 }
 .bg-light-blue,
 .label-primary,

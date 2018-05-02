@@ -30,20 +30,27 @@
 
 
 <body class="hold-transition skin-blue layout-top-nav">
+    <!-- Main Header -->
+        <header class="main-header">
+            <!-- Header Navbar -->
+            <nav class="navbar navbar-static-top" role="navigation">
+            <div>
+                <a target="_blank" href="http://www.health-sector.org/"><h4 class="title_text">Health Resources Availability Monitoring System [HeRAMS], 2017 </h4></a>
+                <div class="logo_pad1">
+                    <a target="_blank" href="http://www.health.gov.ng/"><img  src="image/logo2.png" height="50" width="60"></a>
+                </div>
+                <div class="logo_pad2">
+                    <a target="_blank" href="http://www.who.int/"><img  src="image/who2.jpeg" height="45" width="60"></a>
+                </div>
+            </div>
+            </nav>
+        </header>
     <!-- Left side column. contains the logo and sidebar -->
     <div class="wrapper">
         <aside class="main-sidebar main-sidebar-light sidebar_edit">
             <section class="sidebar">
-            <div class="title">
-                <a target="_blank" href="http://www.health-sector.org/"><h4 class="title_text">Health Resources Availability Monitoring System [HeRAMS] </h4></a>
-            </div>
-
-         <!--   <div><br></div>-->
-
              <div class="alert alert-info sideColor">
-
                  <!--State DropDown-->
-                 <br><br><br><br><br>
                  <h2 class="info-box-number white"><i class="icon fa fa-globe fa-spin fa-2x"></i>State</h2>
                       <div class="form-group-sm">
                         <select name="state_scope" id="state_scope" onchange="changecat(this.value); getAdminLayers(); triggerUiUpdate();" class="form-control">
@@ -82,7 +89,7 @@
                       </div>
 
                  <!--Status -->
-                 <h2 class="info-box-number white"><i class="icon fa fa-cog fa-spin fa-2x fa-fw"></i>Status</h2>
+                 <h2 class="info-box-number white"><i class="icon fa fa-cog fa-spin fa-2x"></i>Functional Status</h2>
                       <div class="form-group-sm">
                         <select id="status_scope" onchange=" triggerUiUpdate();" class="form-control">
 <!--                            triggerUiUpdate();-->
@@ -93,56 +100,25 @@
                         </select>
                       </div>
 
-<!--
-                     <h2 class="info-box-number white"><i class="fa fa-area-chart fa-2x"></i>&nbsp;Facility Coverage</h2>
-                        <div id="coverage" class="form-group special-size" readonly style="visibility:hidden">
-                                 <form class="radio" >
-                                    <input id="2km" type="radio" name="drive" value="2" onclick="radio_drive();">2 Km<br>
-                                    <input id="3km" type="radio" name="drive" value="3" onclick="radio_drive();">3 Km<br>
-                                    <input id="4km" type="radio" name="drive" value="4" onclick="radio_drive();">4 Km<br>
-                                  </form>
-                        </div>
--->
-
                  <div class="text-center">
-                     <br><br>
+                     <br>
                     <span class="info-box-text white"><b>Currently Displaying:</b></span>
                     <span class="info-box-number white"><b id="country2"></b><big id="projectCount">0</big>&nbsp;&nbsp;Health Facility(ies)  </span>
                     <div class="logo_pad4">
-                         <br>
                         <a id="query"><img src="image/download.jpg" height="60" width="65"></a>
                     </div>
                     <div class="download">
-                         <br>
-                        <div class="logo_pad3">
-                            <a target="_blank" href="http://www.who.int/"><img  src="image/LogoHS.jpg" height="45" width="80"></a>
-                        </div>
-                        <div class="logo_pad5">
-                            <a target="_blank" href="http://www.who.int/"><img  src="image/immap3.png" height="45" width="60"></a>
-                        </div>
 
                     </div>
                 </div>
             </div>
-
           </section>
-            <div class="logo_pad1">
-                    <a target="_blank" href="http://www.health.gov.ng/"><img  src="image/logo2.png" height="100" width="120"></a>
-            </div>
-             <div class="logo_pad2">
-                    <a target="_blank" href="http://www.who.int/"><img  src="image/who2.jpeg" height="100" width="120"></a>
-            </div>
         </aside>
         <section>
-
             <div class="col-md-12" id="map"></div>
-
-
                 <div>
                   <h7 class="red text-center"><i class="icon fa fa-spinner fa-5x" id="spinposition"></i></h7>
                 </div>
-
-
             <div id="detailPosition">
               <div class="alert sideColor">
                     <div class="box box-primary box-solid">
@@ -158,16 +134,20 @@
                     </div>
                 </div>
                 </div>
-
         <div class="col-md-12  border">
                 <ul class="social-network social-circle">
-
-                <li><strong style="color: white;">Contact Us: </strong></li><li></li><li></li>
-                <li><a target="_blank" href="https://www.facebook.com/BrianAlex1251" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                <li><a target="_blank" href="https://www.twitter.com/femtope" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a target="_blank" href="https://plus.google.com/u/0/115849015961200482106" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
-                <li><a target="_blank" href="https://www.linkedin.com/in/oluwafemi-ooju-0061b627" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-
+<!--                <li><strong style="color: white;">Contact Us: </strong></li>-->
+                <li>
+                    <div class="logo_pad3">
+                        <a target="_blank" href="http://www.health.gov.ng/"><img  src="image/immap1.png" height="40" width="50"></a>
+                    </div>
+                </li>
+                <li>
+                    <div class="logo_pad5">
+                    <a target="_blank" href="http://www.who.int/"><img  src="image/LogoHS.jpg" height="30" width="70"></a>
+                </div>
+                </li>
+                <br><br>
             </ul>
         </div>
         </section>

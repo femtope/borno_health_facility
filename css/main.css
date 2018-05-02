@@ -1,5 +1,5 @@
 #map {
-    height: 710px;
+    height: 670px;
     width: 100%;
 }
 
@@ -41,11 +41,13 @@
 .alert-info,
 .label-info,
 .modal-info .modal-body {
-    background-color: rgba(77, 115, 204, 1) !important;*/
+    background-color: #007BC6;
+/*        rgba(77, 115, 204, 1) !important;*/*/
 }
 
 .alert-info {
-    border-color: rgba(77, 115, 204, 1);
+    border-color: #007BC6;
+/*        rgba(77, 115, 204, 1);*/
 }
 
 .labelLga-icon {
@@ -106,36 +108,36 @@
 }
 .logo_pad1{
     position: absolute;
-    top: 75px;
-    padding-left: 1px;
+    top: 0px;
+    padding-left: 5px;
 
 }
 
 .logo_pad2{
     position: absolute;
-    top: 75px;
-    padding-left: 120px;
+    top: 0px;
+    padding-left: 1450px;
 
 }
 
 .logo_pad3{
     position: absolute;
-    bottom: 5px;
-    padding-left: 1050px;
+    bottom: -7px;
+    padding-left: 1430px;
 
 }
 
 .logo_pad4{
     position: absolute;
-    bottom: 35px;
+    bottom: 100px;
     padding-left:80px;
 
 }
 
 .logo_pad5{
     position: absolute;
-    bottom: 5px;
-    padding-left: 985px;
+    bottom: -9px;
+    padding-left: 1350px;
 
 }
 
