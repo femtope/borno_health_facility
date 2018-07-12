@@ -5,10 +5,10 @@ var d, m, y, date, type = '', distance, map, long_health, lat_health, query, cur
     state_layer = null, lga_layer = null, sub_lga_layer = null, bufferLayer = null, substance_layer = null,
     GINLabels = [],
     buffered = null, point_health = null, GINAdmin2 = false,
-    googleSat = L.tileLayer('https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {maxZoom: 25, subdomains: ['mt0', 'mt1', 'mt2', 'mt3']}),
+//    googleSat = L.tileLayer('https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {maxZoom: 25, subdomains: ['mt0', 'mt1', 'mt2', 'mt3']}),
     googleStreets = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {maxZoom: 25, subdomains:['mt0', 'mt1', 'mt2', 'mt3']}),
-    osm = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18}),
-    mapbox = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicy1jaGFuZCIsImEiOiJjaXdmcmtnc2QwMDBhMnltczBldmc1MHZuIn0.eIdXZvG0VOOcZhhoHpUQYA')
+    osm = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18})
+//    mapbox = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicy1jaGFuZCIsImEiOiJjaXdmcmtnc2QwMDBhMnltczBldmc1MHZuIn0.eIdXZvG0VOOcZhhoHpUQYA')
 
 
 //Initiating and declaring leaflet map object
@@ -24,10 +24,10 @@ var map = L.map('map', {
 });
 
 var baseMaps = {
-    "Google Satelite": googleSat,
+//    "Google Satelite": googleSat,
     "OSM": osm,
-    "Google Street": googleStreets,
-    "Map Box": mapbox
+    "Google Street": googleStreets
+//    "Map Box": mapbox
 };
 
 new L.Control.Zoom({
@@ -43,20 +43,22 @@ function triggerUiUpdate() {
     status = $('#status_scope').val();
     state = $('#state_scope').val();
     lga = $('#lga_scope').val();
-    console.log("All Seleceted: ", state+"  "+lga+"  "+type+"  "+status)
-    query = buildQuery(state, lga, type, status)
+    health_facility = $('#health_facility').val();
+    console.log("All Seleceted: ", state+"  "+lga+"  "+type+"  "+status+"  "+health_facility)
+    query = buildQuery(state, lga, type, status, health_facility)
     download_query = (query.replace("http:", "https:").replace("format=GeoJSON&", ""))+"&format=CSV";
     document.getElementById("query").setAttribute("href",download_query);
     console.log("Query: ", query)
     lga_select = $('#lga_scope').val()
     getData(query)
+    
 }
 
 //Read data from carto and filter via selection from the interface
-function buildQuery(state, lga, type, status) {
+function buildQuery(state, lga, type, status, health_facility) {
   var needsAnd = false;
     query = 'https://femtope.cartodb.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM hf';
-      if (state.length > 0 || lga.length > 0 || type.length > 0 || status.length > 0 ){
+      if (state.length > 0 || lga.length > 0 || type.length > 0 || status.length > 0 || health_facility.length > 0){
        query = query.concat(' WHERE')
        if (state.length > 0){
            query = query.concat(" state = '".concat(state.concat("'")))
@@ -76,6 +78,11 @@ function buildQuery(state, lga, type, status) {
 
     if (status.length > 0){
         query = needsAnd  ? query.concat(" AND status = '".concat(status.concat("'"))) :  query.concat(" status = '".concat(status.concat("'")))
+      needsAnd = true
+    }
+          
+    if (health_facility.length > 0){
+        query = needsAnd  ? query.concat(" AND health_facility = '".concat(health_facility.concat("'"))) :  query.concat(" health_facility = '".concat(health_facility.concat("'")))
       needsAnd = true
     }
 
@@ -137,7 +144,7 @@ function addDataToMap(geoData) {
                 layer.on('click',function(){
                      success(feature);
                 })
-            };
+            }
             if (feature.properties && feature.properties.cartodb_id) {
                 layer.on('click', function () {
                     displayInfo(feature);
@@ -294,6 +301,17 @@ function logError(error) {
     console.log("error!")
 }
 
+function facilityName() {
+   // var customer_name = document.getElementById('customer_name').value;
+    health_facility = $('#health_facility').val();
+    console.log("Facility Name: ", health_facility);
+
+    if(health_facility.length > 3)
+        {
+            triggerUiUpdate();
+        }
+}
+
 
 function success(feature) {
     if (bufferLayer != null)
@@ -325,6 +343,10 @@ function success(feature) {
     })
 
 }
+
+// Bar chart
+
+
 
 getAdminLayers()
 hideLoader()

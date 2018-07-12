@@ -37,10 +37,10 @@
             <div>
                 <a target="_blank" href="http://www.health-sector.org/"><h4 class="title_text">Health Resources Availability Monitoring System [HeRAMS], 2017 </h4></a>
                 <div class="logo_pad1">
-                    <a target="_blank" href="http://www.health.gov.ng/"><img  src="image/logo2.png" height="50" width="60"></a>
+                    <a target="_blank" href="http://www.health.gov.ng/"><img  src="image/logo2.png" height="60" width="70"></a>
                 </div>
                 <div class="logo_pad2">
-                    <a target="_blank" href="http://www.who.int/"><img  src="image/who2.jpeg" height="45" width="60"></a>
+                    <a target="_blank" href="http://www.who.int/"><img  src="image/who2.jpeg" height="60" width="70"></a>
                 </div>
             </div>
             </nav>
@@ -51,7 +51,7 @@
             <section class="sidebar">
              <div class="alert alert-info sideColor">
                  <!--State DropDown-->
-                 <h2 class="info-box-number white"><i class="icon fa fa-globe fa-spin fa-2x"></i>State</h2>
+                 <h2 class="info-box-number white"><i class="icon fa fa-globe fa-spin fa-1x"></i>State</h2>
                       <div class="form-group-sm">
                         <select name="state_scope" id="state_scope" onchange="changecat(this.value); getAdminLayers(); triggerUiUpdate();" class="form-control">
 <!--                             triggerUiUpdate();-->
@@ -63,7 +63,7 @@
                     </div>
 
                  <!--LGA DropDown-->
-                 <h2 class="info-box-number white" id="prefecture_id" readonly style="visibility:true"><i class="icon fa fa-flag fa-2x"></i>Local Govt. Area</h2>
+                 <h2 class="info-box-number white" id="prefecture_id" readonly style="visibility:true"><i class="icon fa fa-flag fa-1x"></i>Local Govt. Area</h2>
                       <div id="prefecture_id1" class="form-group-sm" readonly style="visibility:true">
                         <select name="lga_scope" id="lga_scope" onchange="getAdminLayers(); triggerUiUpdate();" class="form-control">
 <!--                             triggerUiUpdate();-->
@@ -73,7 +73,7 @@
 
 
                  <!--Type -->
-                 <h2 class="info-box-number white"><i class="icon fa fa-hospital-o fa-2x"></i>Types of Facility</h2>
+                 <h2 class="info-box-number white"><i class="icon fa fa-hospital-o fa-1x"></i>Types of Facility</h2>
                       <div class="form-group-sm">
                         <select id="type_scope" onchange=" triggerUiUpdate();" class="form-control">
 <!--                            triggerUiUpdate();-->
@@ -89,7 +89,7 @@
                       </div>
 
                  <!--Status -->
-                 <h2 class="info-box-number white"><i class="icon fa fa-cog fa-spin fa-2x"></i>Functional Status</h2>
+                 <h2 class="info-box-number white"><i class="icon fa fa-cog fa-spin fa-1x"></i>Functional Status</h2>
                       <div class="form-group-sm">
                         <select id="status_scope" onchange=" triggerUiUpdate();" class="form-control">
 <!--                            triggerUiUpdate();-->
@@ -99,6 +99,11 @@
                                 <option value="Not Functioning">Not Functioning</option>
                         </select>
                       </div>
+                 
+                 <h2 class="info-box-number white" readonly style="visibility:true"><i class="icon fa fa-h-square fa-1x"></i>Health Facility Name</h2>
+                    <div class="form-group-sm">
+                        <input type="text" id="facility_name" name="facilityName" onkeyup="facilityName();" class="form-control">
+                    </div>
 
                  <div class="text-center">
                      <br>
@@ -134,6 +139,22 @@
                     </div>
                 </div>
                 </div>
+            
+            <div id="chartPosition">
+              <div class="alert sideColor">
+                    <div class="box box-primary box-solid">
+                        <div class="box-header with-border">
+                            <h3 class="box-title">Chart of Functionality of HF</h3>
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                            </div>
+                        </div>
+                        <div id="myChart" class="box-body black info-box">    
+                        <p>Displays the Bar Chart of level of Health Facility status... </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         <div class="col-md-12  border">
                 <ul class="social-network social-circle">
 <!--                <li><strong style="color: white;">Contact Us: </strong></li>-->
@@ -154,6 +175,7 @@
         <script src="js/changeLGA.js"></script>
         <script src="js/turf.min.js"></script>
         <script src="node_modules/turf/turf.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
         <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
         <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
         <!-- Bootstrap 3.3.5 -->
